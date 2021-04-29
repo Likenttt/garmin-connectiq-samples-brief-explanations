@@ -1,0 +1,9 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="bear" filename="bear.png"/>
+    <bitmap id="dog" filename="dog.png"/>
+    <bitmap id="fox" filename="fox.png"/>
+    <bitmap id="mouse" filename="mouse.png"/>
+    <bitmap id="turtle" filename="turtle.png"/>
+    <drawable-list id="MenuForeground" background="Gfx.COLOR_TRANSPARENT" />
+</drawables>

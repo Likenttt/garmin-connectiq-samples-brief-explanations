@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="4" lineNum="16" pc="268435483" symbol="onComplete"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="4" lineNum="17" pc="268435487" symbol="onComplete"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="5" lineNum="20" pc="268435509" symbol="onError"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="5" lineNum="21" pc="268435513" symbol="onError"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="7" lineNum="26" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="7" lineNum="27" pc="268435539" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="30" pc="268435562" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="31" pc="268435566" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="32" pc="268435594" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="34" pc="268435594" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="35" pc="268435616" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="36" pc="268435638" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="37" pc="268435662" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="8" lineNum="39" pc="268435690" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="9" lineNum="42" pc="268435694" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="9" lineNum="43" pc="268435698" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="9" lineNum="44" pc="268435715" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="9" lineNum="46" pc="268435731" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="9" lineNum="48" pc="268435744" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="11" lineNum="53" pc="268435761" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="11" lineNum="54" pc="268435765" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="57" pc="268435788" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="58" pc="268435792" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="59" pc="268435820" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="61" pc="268435823" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="62" pc="268435834" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="63" pc="268435856" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="64" pc="268435878" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="65" pc="268435900" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="66" pc="268435927" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="67" pc="268435938" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="68" pc="268435955" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="69" pc="268435977" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="70" pc="268435992" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="72" pc="268436017" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="73" pc="268436039" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="74" pc="268436061" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="12" lineNum="77" pc="268436088" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="14" lineNum="82" pc="268436117" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="14" lineNum="83" pc="268436121" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="86" pc="268436144" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="87" pc="268436148" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="89" pc="268436172" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="90" pc="268436183" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="91" pc="268436210" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="92" pc="268436221" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="93" pc="268436248" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="94" pc="268436259" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="15" lineNum="97" pc="268436286" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="17" lineNum="102" pc="268436311" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="17" lineNum="103" pc="268436315" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="106" pc="268436338" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="107" pc="268436342" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="108" pc="268436353" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="109" pc="268436380" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="110" pc="268436391" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="111" pc="268436406" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="113" pc="268436436" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="114" pc="268436447" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="115" pc="268436464" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="116" pc="268436484" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="117" pc="268436495" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="118" pc="268436505" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommDelegate.mc" id="18" lineNum="121" pc="268436532" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="20" lineNum="15" pc="268436557" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="20" lineNum="16" pc="268436561" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="21" lineNum="19" pc="268436580" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="21" lineNum="20" pc="268436584" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="23" pc="268436614" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="24" pc="268436618" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="25" pc="268436642" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="26" pc="268436705" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="27" pc="268436768" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="28" pc="268436831" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="29" pc="268436894" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="30" pc="268436960" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="31" pc="268436984" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="32" pc="268437047" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="33" pc="268437110" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="34" pc="268437173" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="35" pc="268437239" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="36" pc="268437265" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="37" pc="268437316" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="38" pc="268437367" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="39" pc="268437418" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="41" pc="268437472" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="42" pc="268437523" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="43" pc="268437574" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="44" pc="268437625" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="45" pc="268437676" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="22" lineNum="46" pc="268437727" symbol="drawIntroPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="50" pc="268437779" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="51" pc="268437783" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="52" pc="268437819" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="53" pc="268437831" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="55" pc="268437867" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="56" pc="268437878" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="57" pc="268437895" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="59" pc="268437912" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="60" pc="268437912" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="62" pc="268437919" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="63" pc="268437982" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="64" pc="268438003" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="65" pc="268438069" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommView.mc" id="23" lineNum="69" pc="268438095" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="22" pc="268438171" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="23" pc="268438175" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="25" pc="268438197" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="26" pc="268438221" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="27" pc="268438245" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="28" pc="268438260" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="29" pc="268438287" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="30" pc="268438302" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="25" lineNum="32" pc="268438329" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="26" lineNum="37" pc="268438340" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="27" lineNum="41" pc="268438345" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="28" lineNum="45" pc="268438350" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="28" lineNum="46" pc="268438354" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="49" pc="268438422" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="50" pc="268438426" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="52" pc="268438426" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="54" pc="268438439" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="55" pc="268438446" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="56" pc="268438446" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="57" pc="268438473" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="59" pc="268438514" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="60" pc="268438539" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="61" pc="268438552" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="64" pc="268438568" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="29" lineNum="65" pc="268438584" symbol="onMail"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="68" pc="268438601" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="69" pc="268438605" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="71" pc="268438605" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="72" pc="268438647" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="75" pc="268438662" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="76" pc="268438689" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="78" pc="268438730" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="79" pc="268438761" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="81" pc="268438774" symbol="onPhone"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Comm/source/CommApp.mc" id="30" lineNum="13" pc="268438870" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389939" method="true" symbol="registerForPhoneAppMessages"/>
+        <entry field="true" id="20" symbol="crashOnMessage"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8388716" symbol="trap"/>
+        <entry field="true" id="15" symbol="page"/>
+        <entry id="12" object="true" symbol="SendMenuDelegate"/>
+        <entry field="true" id="18" symbol="mailMethod"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="27" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="31" symbol="sendData"/>
+        <entry id="8388822" method="true" symbol="setMailboxListener"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="25" symbol="id_monkey"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry field="true" id="17" symbol="stringsSize"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="16" symbol="strings"/>
+        <entry field="true" id="19" symbol="phoneMethod"/>
+        <entry id="28" method="true" symbol="drawIntroPage"/>
+        <entry id="14" object="true" symbol="CommView"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388828" method="true" symbol="onError"/>
+        <entry id="10" object="true" symbol="CommInputDelegate"/>
+        <entry id="36" symbol="none"/>
+        <entry id="33" symbol="garmin"/>
+        <entry id="34" symbol="mailbox"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="37" symbol="phoneFail"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="32" symbol="hello"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="26" symbol="LauncherIcon"/>
+        <entry id="9" object="true" symbol="CommListener"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389481" method="true" symbol="setListener"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="22" object="true" symbol="CommExample"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="8389670" symbol="screenShape"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="30" method="true" symbol="onPhone"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="13" object="true" symbol="ListnerMenuDelegate"/>
+        <entry id="8388829" method="true" symbol="onComplete"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry id="29" method="true" symbol="onMail"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="21" symbol="hasDirectMessagingSupport"/>
+        <entry id="35" symbol="phone"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="11" object="true" symbol="BaseMenuDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435693" name="delegate" stackId="2" startPc="268435566"/>
+        <entry endPc="268435693" name="menu" stackId="1" startPc="268435566"/>
+        <entry arg="true" endPc="268435761" name="event" stackId="1" startPc="268435694"/>
+        <entry endPc="268436116" name="delegate" stackId="3" startPc="268435792"/>
+        <entry endPc="268436116" name="menu" stackId="2" startPc="268435792"/>
+        <entry arg="true" endPc="268436117" name="item" stackId="1" startPc="268435788"/>
+        <entry endPc="268436310" name="listener" stackId="2" startPc="268436148"/>
+        <entry arg="true" endPc="268436311" name="item" stackId="1" startPc="268436144"/>
+        <entry arg="true" endPc="268436557" name="item" stackId="1" startPc="268436338"/>
+        <entry arg="true" endPc="268436614" name="dc" stackId="1" startPc="268436580"/>
+        <entry arg="true" endPc="268437779" name="dc" stackId="1" startPc="268436614"/>
+        <entry endPc="268438092" name="i" stackId="2" startPc="268437912"/>
+        <entry endPc="268438092" name="y" stackId="3" startPc="268437912"/>
+        <entry arg="true" endPc="268438171" name="dc" stackId="1" startPc="268437779"/>
+        <entry arg="true" endPc="268438345" name="state" stackId="1" startPc="268438340"/>
+        <entry arg="true" endPc="268438350" name="state" stackId="1" startPc="268438345"/>
+        <entry endPc="268438565" name="i" stackId="3" startPc="268438446"/>
+        <entry endPc="268438600" name="mail" stackId="2" startPc="268438426"/>
+        <entry arg="true" endPc="268438601" name="mailIter" stackId="1" startPc="268438422"/>
+        <entry endPc="268438790" name="i" stackId="2" startPc="268438605"/>
+        <entry arg="true" endPc="268438791" name="msg" stackId="1" startPc="268438601"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="246" parentId="globals" symbolId="SendMenuDelegate" type="class"/>
+        <dataEntry offset="301" parentId="globals" symbolId="BaseMenuDelegate" type="class"/>
+        <dataEntry offset="356" parentId="globals" symbolId="ListnerMenuDelegate" type="class"/>
+        <dataEntry offset="411" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="490" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="537" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="568" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="599" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="630" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="661" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="700" parentId="globals" symbolId="CommView" type="class"/>
+        <dataEntry offset="779" parentId="globals" symbolId="CommExample" type="class"/>
+        <dataEntry offset="866" parentId="globals" symbolId="CommListener" type="class"/>
+        <dataEntry offset="929" parentId="globals" symbolId="CommInputDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="CommListener">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onComplete" parent="CommListener">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onError" parent="CommListener">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CommInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="CommInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="CommInputDelegate">
+            <param id="event"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BaseMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="BaseMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SendMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="SendMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ListnerMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="ListnerMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CommView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CommView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawIntroPage" parent="CommView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CommView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CommExample">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="CommExample">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="CommExample">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="CommExample">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMail" parent="CommExample">
+            <param id="mailIter"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPhone" parent="CommExample">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

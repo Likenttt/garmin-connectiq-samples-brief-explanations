@@ -1,0 +1,42 @@
+<resources>
+    <!-- Application -->
+    <string id="appName">Picker</string>
+    <!-- Main View -->
+    <string id="clickHere">Click Here</string>
+    <string id="string">Pick a string</string>
+    <string id="date">Pick a date</string>
+    <string id="time">Pick a time</string>
+    <!-- Main Picker -->
+    <string id="pickerChooserTitle">Choose a picker</string>
+    <string id="pickerChooserColor">Color</string>
+    <string id="pickerChooserTime">Time</string>
+    <string id="pickerChooserDate">Date</string>
+    <string id="pickerChooserString">String</string>
+    <string id="pickerChooserLayout">Layout</string>
+    <!-- Color Picker -->
+    <string id="colorPickerTitle">Pick a color</string>
+    <!-- Time Picker -->
+    <string id="timePickerTitle">Pick a time of day</string>
+    <string id="timeSeparator">:</string>
+    <string id="morning">AM</string>
+    <string id="afternoon">PM</string>
+    <!-- String Picker -->
+    <string id="stringPickerTitle">Pick a string</string>
+    <!-- Date Picker -->
+    <string id="datePickerTitle">Pick a date</string>
+    <string id="dateSeparator">-</string>
+    <string id="month01">Jan</string>
+    <string id="month02">Feb</string>
+    <string id="month03">Mar</string>
+    <string id="month04">Apr</string>
+    <string id="month05">May</string>
+    <string id="month06">Jun</string>
+    <string id="month07">Jul</string>
+    <string id="month08">Aug</string>
+    <string id="month09">Sep</string>
+    <string id="month10">Oct</string>
+    <string id="month11">Nov</string>
+    <string id="month12">Dec</string>
+    <!-- CharacterFactory -->
+    <string id="characterPickerOk">OK</string>
+</resources>

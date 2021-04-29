@@ -1,0 +1,7 @@
+<layout id="MainLayout">
+    <label x="30" y="109" text="@Strings.clickHere" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER" font="Graphics.FONT_SMALL" />
+    <label id="date" x="109" y="60" text="@Strings.date" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="time" x="109" y="155" text="@Strings.time" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="string" x="109" y="125" text="@Strings.string" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <drawable id="arrow"/>
+</layout>

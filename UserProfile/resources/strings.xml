@@ -1,0 +1,23 @@
+<resources>
+    <string id="AppName">UserProfile</string>
+    <string id="WeightPrefix">Weight: </string>
+    <string id="GenderSpecifierPrefix">Gender: </string>
+    <string id="GenderFemale">FEMALE</string>
+    <string id="GenderMale">MALE</string>
+    <string id="HeightPrefix">Height: </string>
+    <string id="SleepTimePrefix">Sleep Time: </string>
+    <string id="WakeTimePrefix">Wake Time: </string>
+    <string id="SleepTimePrefix">Sleep Time: </string>
+    <string id="ItemNotSet">Not Set</string>
+    <string id="RunningStepLengthPrefix">Running Step Length: </string>
+    <string id="WalkingStepLengthPrefix">Walking Step Length: </string>
+    <string id="RestingHeartRatePrefix">Resting Heart Rate: </string>
+    <string id="LowActivityLevel">Activity: LOW</string>
+    <string id="MediumActivityLevel">Activity: MEDIUM</string>
+    <string id="HighActivityLevel">Activity: HIGH</string>
+    <string id="BirthYearPrefix">Birth Year: </string>
+    <string id="CMUnits">cm</string>
+    <string id="MMUnits">mm</string>
+    <string id="BPMUnits">bpm</string>
+    <string id="GramUnits">g</string>
+</resources>

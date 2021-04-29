@@ -1,0 +1,5 @@
+<resources>
+    <bitmap id="id_apes" filename="images/apes.jpg" />
+    <bitmap id="id_monkeys" filename="images/monkeys.jpg" dithering="floyd_steinberg" />
+    <bitmap id="id_prosimians" filename="images/prosimians.png" dithering="none" />
+</resources>

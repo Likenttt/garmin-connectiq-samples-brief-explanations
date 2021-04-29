@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="15" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="16" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="17" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="18" pc="268435508" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="19" pc="268435515" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="20" pc="268435529" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="21" pc="268435543" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="22" pc="268435559" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="3" lineNum="23" pc="268435566" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="4" lineNum="26" pc="268435595" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="4" lineNum="27" pc="268435599" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="30" pc="268435637" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="31" pc="268435641" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="33" pc="268435658" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="34" pc="268435676" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="35" pc="268435694" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="36" pc="268435712" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="38" pc="268435730" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="39" pc="268435737" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="42" pc="268435747" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="43" pc="268435754" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="46" pc="268435764" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="47" pc="268435771" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="50" pc="268435781" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="51" pc="268435788" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="54" pc="268435798" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="55" pc="268435822" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="56" pc="268435846" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="57" pc="268435870" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="59" pc="268435894" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="60" pc="268435914" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="61" pc="268435934" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="62" pc="268435954" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="64" pc="268435974" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="5" lineNum="66" pc="268435994" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="7" lineNum="74" pc="268436020" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="7" lineNum="75" pc="268436024" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="8" lineNum="78" pc="268436043" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="8" lineNum="79" pc="268436047" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="8" lineNum="80" pc="268436119" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="9" lineNum="83" pc="268436123" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="9" lineNum="84" pc="268436127" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="9" lineNum="85" pc="268436199" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="10" lineNum="88" pc="268436203" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="10" lineNum="89" pc="268436207" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="10" lineNum="90" pc="268436234" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="10" lineNum="92" pc="268436250" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="95" pc="268436254" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="96" pc="268436258" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="97" pc="268436275" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="98" pc="268436293" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="99" pc="268436303" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="100" pc="268436322" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/DefaultPropertiesView.mc" id="11" lineNum="101" pc="268436338" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="18" pc="268436342" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="19" pc="268436346" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="20" pc="268436356" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="21" pc="268436366" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="22" pc="268436376" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="13" lineNum="23" pc="268436386" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="26" pc="268436397" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="27" pc="268436401" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="28" pc="268436408" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="29" pc="268436421" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="30" pc="268436428" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="32" pc="268436435" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="33" pc="268436455" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="34" pc="268436480" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="36" pc="268436514" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="37" pc="268436534" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="38" pc="268436550" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="40" pc="268436584" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="41" pc="268436604" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="42" pc="268436629" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="44" pc="268436657" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="45" pc="268436677" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="46" pc="268436693" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="48" pc="268436721" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="49" pc="268436728" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="52" pc="268436735" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="53" pc="268436756" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="54" pc="268436764" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="56" pc="268436799" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="59" pc="268436831" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/PageIndicator.mc" id="14" lineNum="60" pc="268436850" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="15" pc="268436891" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="16" pc="268436895" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="17" pc="268436913" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="18" pc="268436943" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="19" pc="268436950" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="20" pc="268436964" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="21" pc="268436978" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="22" pc="268436994" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="16" lineNum="23" pc="268437001" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="17" lineNum="26" pc="268437030" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="17" lineNum="27" pc="268437034" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="30" pc="268437072" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="31" pc="268437076" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="33" pc="268437093" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="34" pc="268437114" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="35" pc="268437135" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="36" pc="268437156" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="37" pc="268437177" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="38" pc="268437198" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="40" pc="268437219" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="41" pc="268437226" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="44" pc="268437236" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="45" pc="268437243" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="48" pc="268437253" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="49" pc="268437260" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="52" pc="268437270" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="53" pc="268437277" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="56" pc="268437287" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="57" pc="268437294" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="60" pc="268437304" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="61" pc="268437311" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="65" pc="268437321" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="66" pc="268437345" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="67" pc="268437369" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="68" pc="268437393" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="69" pc="268437417" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="70" pc="268437441" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="72" pc="268437465" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="73" pc="268437485" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="74" pc="268437505" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="75" pc="268437525" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="76" pc="268437545" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="77" pc="268437565" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="79" pc="268437585" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="18" lineNum="81" pc="268437605" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="20" lineNum="97" pc="268437631" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="20" lineNum="98" pc="268437635" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="20" lineNum="99" pc="268437653" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="20" lineNum="100" pc="268437690" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="20" lineNum="102" pc="268437703" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="21" lineNum="106" pc="268437720" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="21" lineNum="107" pc="268437724" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="21" lineNum="108" pc="268437796" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="22" lineNum="111" pc="268437800" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="22" lineNum="112" pc="268437804" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="22" lineNum="113" pc="268437876" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="116" pc="268437880" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="117" pc="268437884" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="118" pc="268437911" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="119" pc="268437927" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="120" pc="268437954" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="23" lineNum="122" pc="268437970" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="125" pc="268437974" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="126" pc="268437978" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="128" pc="268437995" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="129" pc="268438012" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="130" pc="268438040" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="131" pc="268438057" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="132" pc="268438085" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="133" pc="268438102" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="134" pc="268438130" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="135" pc="268438147" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="136" pc="268438172" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="137" pc="268438189" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="138" pc="268438266" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="139" pc="268438283" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="141" pc="268438347" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="144" pc="268438373" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="146" pc="268438392" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="147" pc="268438409" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="150" pc="268438425" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="152" pc="268438450" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="24" lineNum="153" pc="268438466" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="25" lineNum="156" pc="268438470" symbol="onHold"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="25" lineNum="157" pc="268438474" symbol="onHold"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="25" lineNum="158" pc="268438499" symbol="onHold"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="25" lineNum="159" pc="268438512" symbol="onHold"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStoreView.mc" id="25" lineNum="160" pc="268438528" symbol="onHold"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="27" lineNum="12" pc="268438532" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="27" lineNum="13" pc="268438536" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="28" lineNum="16" pc="268438555" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="28" lineNum="17" pc="268438559" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="29" lineNum="22" pc="268438627" symbol="onSettingsChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ObjectStore/source/ObjectStore.mc" id="29" lineNum="23" pc="268438631" symbol="onSettingsChanged"/>
+        <entry filename="Rez" id="35" lineNum="15" pc="268438648" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="18" pc="268438660" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="19" pc="268438806" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="20" pc="268438952" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="21" pc="268439098" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="22" pc="268439244" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="23" pc="268439357" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="24" pc="268439470" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="25" pc="268439583" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="35" lineNum="27" pc="268439696" symbol="SettingsLayout"/>
+        <entry filename="Rez" id="36" lineNum="36" pc="268439784" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="39" pc="268439796" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="40" pc="268439942" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="41" pc="268440088" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="42" pc="268440201" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="43" pc="268440314" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="44" pc="268440427" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="45" pc="268440540" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="46" pc="268440653" symbol="StoreLayout"/>
+        <entry filename="Rez" id="36" lineNum="48" pc="268440766" symbol="StoreLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="18" symbol="DICTIONARY_KEY"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="15" symbol="STRING_KEY"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="13" symbol="INT_KEY"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="20" object="true" symbol="ObjectStore"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="12" object="true" symbol="ObjectStoreView"/>
+        <entry id="9" object="true" symbol="DefaultPropertiesView"/>
+        <entry field="true" id="14" symbol="FLOAT_KEY"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="38" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="35" symbol="boolean_title"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="39" symbol="mIndicator"/>
+        <entry field="true" id="16" symbol="BOOLEAN_KEY"/>
+        <entry id="33" method="true" symbol="StoreLayout"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="8390410" symbol="mAlignment"/>
+        <entry field="true" id="34" symbol="number_title"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="19" object="true" symbol="ObjectStoreViewDelegate"/>
+        <entry id="11" object="true" symbol="PageIndicator"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="30" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389850" symbol="count"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="10" object="true" symbol="DefaultPropertiesViewDelegate"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry field="true" id="27" symbol="mMargin"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="24" symbol="ALIGN_TOP_LEFT"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="28" method="true" symbol="setup"/>
+        <entry field="true" id="8389092" symbol="mSize"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="26" symbol="mNotSelectedColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="21" symbol="ALIGN_BOTTOM_RIGHT"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="23" symbol="ALIGN_TOP_RIGHT"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="22" symbol="ALIGN_BOTTOM_LEFT"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="29" module="true" symbol="Layouts"/>
+        <entry field="true" id="37" symbol="string_title"/>
+        <entry field="true" id="17" symbol="ARRAY_KEY"/>
+        <entry id="32" method="true" symbol="SettingsLayout"/>
+        <entry field="true" id="25" symbol="mSelectedColor"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="36" symbol="float_title"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="8389099" method="true" symbol="onHold"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435594" name="size" stackId="1" startPc="268435460"/>
+        <entry endPc="268435594" name="selected" stackId="2" startPc="268435460"/>
+        <entry endPc="268435594" name="margin" stackId="5" startPc="268435460"/>
+        <entry endPc="268435594" name="notSelected" stackId="3" startPc="268435460"/>
+        <entry endPc="268435594" name="alignment" stackId="4" startPc="268435460"/>
+        <entry arg="true" endPc="268435637" name="dc" stackId="1" startPc="268435595"/>
+        <entry endPc="268436019" name="intLabel" stackId="7" startPc="268435641"/>
+        <entry endPc="268436019" name="boolLabel" stackId="10" startPc="268435641"/>
+        <entry endPc="268436019" name="app" stackId="2" startPc="268435641"/>
+        <entry endPc="268436019" name="float" stackId="4" startPc="268435641"/>
+        <entry endPc="268436019" name="floatLabel" stackId="8" startPc="268435641"/>
+        <entry endPc="268436019" name="string" stackId="5" startPc="268435641"/>
+        <entry endPc="268436019" name="int" stackId="3" startPc="268435641"/>
+        <entry endPc="268436019" name="stringLabel" stackId="9" startPc="268435641"/>
+        <entry endPc="268436019" name="boolean" stackId="6" startPc="268435641"/>
+        <entry arg="true" endPc="268436020" name="dc" stackId="1" startPc="268435637"/>
+        <entry arg="true" endPc="268436254" name="evt" stackId="1" startPc="268436203"/>
+        <entry endPc="268436341" name="int" stackId="3" startPc="268436258"/>
+        <entry endPc="268436341" name="app" stackId="2" startPc="268436258"/>
+        <entry arg="true" endPc="268436342" name="evt" stackId="1" startPc="268436254"/>
+        <entry arg="true" endPc="268436397" name="notSelectedColor" stackId="3" startPc="268436342"/>
+        <entry arg="true" endPc="268436397" name="size" stackId="1" startPc="268436342"/>
+        <entry arg="true" endPc="268436397" name="margin" stackId="5" startPc="268436342"/>
+        <entry arg="true" endPc="268436397" name="alignment" stackId="4" startPc="268436342"/>
+        <entry arg="true" endPc="268436397" name="selectedColor" stackId="2" startPc="268436342"/>
+        <entry endPc="268436874" name="tempX" stackId="8" startPc="268436756"/>
+        <entry endPc="268436887" name="i" stackId="7" startPc="268436756"/>
+        <entry endPc="268436887" name="x" stackId="5" startPc="268436401"/>
+        <entry endPc="268436887" name="height" stackId="3" startPc="268436401"/>
+        <entry endPc="268436887" name="width" stackId="4" startPc="268436401"/>
+        <entry endPc="268436887" name="y" stackId="6" startPc="268436401"/>
+        <entry arg="true" endPc="268436888" name="selectedIndex" stackId="2" startPc="268436397"/>
+        <entry arg="true" endPc="268436888" name="dc" stackId="1" startPc="268436397"/>
+        <entry endPc="268437029" name="size" stackId="1" startPc="268436895"/>
+        <entry endPc="268437029" name="selected" stackId="2" startPc="268436895"/>
+        <entry endPc="268437029" name="margin" stackId="5" startPc="268436895"/>
+        <entry endPc="268437029" name="notSelected" stackId="3" startPc="268436895"/>
+        <entry endPc="268437029" name="alignment" stackId="4" startPc="268436895"/>
+        <entry arg="true" endPc="268437072" name="dc" stackId="1" startPc="268437030"/>
+        <entry endPc="268437630" name="intLabel" stackId="9" startPc="268437076"/>
+        <entry endPc="268437630" name="dictLabel" stackId="14" startPc="268437076"/>
+        <entry endPc="268437630" name="boolLabel" stackId="12" startPc="268437076"/>
+        <entry endPc="268437630" name="app" stackId="2" startPc="268437076"/>
+        <entry endPc="268437630" name="float" stackId="4" startPc="268437076"/>
+        <entry endPc="268437630" name="floatLabel" stackId="10" startPc="268437076"/>
+        <entry endPc="268437630" name="string" stackId="5" startPc="268437076"/>
+        <entry endPc="268437630" name="int" stackId="3" startPc="268437076"/>
+        <entry endPc="268437630" name="array" stackId="7" startPc="268437076"/>
+        <entry endPc="268437630" name="dictionary" stackId="8" startPc="268437076"/>
+        <entry endPc="268437630" name="stringLabel" stackId="11" startPc="268437076"/>
+        <entry endPc="268437630" name="boolean" stackId="6" startPc="268437076"/>
+        <entry endPc="268437630" name="arrLabel" stackId="13" startPc="268437076"/>
+        <entry arg="true" endPc="268437631" name="dc" stackId="1" startPc="268437072"/>
+        <entry arg="true" endPc="268437974" name="evt" stackId="1" startPc="268437880"/>
+        <entry endPc="268438469" name="app" stackId="2" startPc="268437978"/>
+        <entry arg="true" endPc="268438470" name="evt" stackId="1" startPc="268437974"/>
+        <entry arg="true" endPc="268438532" name="evt" stackId="1" startPc="268438470"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_BoolLabel" stackId="9" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_StringLabel" stackId="8" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_FloatLabel" stackId="7" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_Info4" stackId="5" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_Info3" stackId="4" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_IntLabel" stackId="6" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_Info2" stackId="3" startPc="268438660"/>
+        <entry endPc="268439783" name="rez_cmp_local_text_Info1" stackId="2" startPc="268438660"/>
+        <entry arg="true" endPc="268439784" name="dc" stackId="1" startPc="268438648"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_ArrayLabel" stackId="8" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_BoolLabel" stackId="7" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_StringLabel" stackId="6" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_FloatLabel" stackId="5" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_DictLabel" stackId="9" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_FooterLabel" stackId="3" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_IntLabel" stackId="4" startPc="268439796"/>
+        <entry endPc="268440853" name="rez_cmp_local_text_HeaderLabel" stackId="2" startPc="268439796"/>
+        <entry arg="true" endPc="268440854" name="dc" stackId="1" startPc="268439784"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="230" parentId="globals" symbolId="ObjectStore" type="class"/>
+        <dataEntry offset="293" parentId="globals" symbolId="ObjectStoreViewDelegate" type="class"/>
+        <dataEntry offset="388" parentId="globals" symbolId="PageIndicator" type="class"/>
+        <dataEntry offset="523" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="602" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="641" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="672" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="703" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="750" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="781" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="852" parentId="globals" symbolId="ObjectStoreView" type="class"/>
+        <dataEntry offset="923" parentId="globals" symbolId="DefaultPropertiesViewDelegate" type="class"/>
+        <dataEntry offset="1010" parentId="globals" symbolId="DefaultPropertiesView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="DefaultPropertiesView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DefaultPropertiesView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DefaultPropertiesView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DefaultPropertiesViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="DefaultPropertiesViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="DefaultPropertiesViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="DefaultPropertiesViewDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="DefaultPropertiesViewDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setup" parent="PageIndicator">
+            <param id="size"/>
+            <param id="selectedColor"/>
+            <param id="notSelectedColor"/>
+            <param id="alignment"/>
+            <param id="margin"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="PageIndicator">
+            <param id="dc"/>
+            <param id="selectedIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectStoreView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ObjectStoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ObjectStoreView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectStoreViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="ObjectStoreViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="ObjectStoreViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="ObjectStoreViewDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="ObjectStoreViewDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHold" parent="ObjectStoreViewDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ObjectStore">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ObjectStore">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="ObjectStore">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="SettingsLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="StoreLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

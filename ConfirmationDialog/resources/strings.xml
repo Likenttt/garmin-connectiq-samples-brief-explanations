@@ -1,0 +1,8 @@
+<resources>
+    <string id="AppName">ConfirmationDialog</string>
+    <string id="TestInfo">Press menu or select to\ntest confirmation dialog</string>
+    <string id="DefaultResponse">No response</string>
+    <string id="DialogHeader">Confirm this?</string>
+    <string id="Confirm">Confirm/Yes</string>
+    <string id="Cancel">Cancel/No</string>
+</resources>

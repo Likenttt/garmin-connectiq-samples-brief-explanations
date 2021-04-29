@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">עִברִית</string>
+    <string id="greeting">שלום</string>
+    <string id="food">ביצים</string>
+    <string id="drink">חָלָב</string>
+</resources>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="3" lineNum="17" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="5" lineNum="23" pc="268435489" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="5" lineNum="24" pc="268435493" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="5" lineNum="25" pc="268435512" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="7" lineNum="31" pc="268435536" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="7" lineNum="32" pc="268435540" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="8" lineNum="35" pc="268435559" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsMenu.mc" id="8" lineNum="36" pc="268435563" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="10" lineNum="14" pc="268435602" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="10" lineNum="15" pc="268435606" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="18" pc="268435625" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="19" pc="268435629" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="20" pc="268435641" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="21" pc="268435677" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="22" pc="268435689" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="11" lineNum="24" pc="268435725" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="13" lineNum="30" pc="268435807" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="13" lineNum="31" pc="268435811" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="34" pc="268435830" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="35" pc="268435834" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="36" pc="268435858" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="37" pc="268435890" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="39" pc="268435942" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="40" pc="268435974" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="42" pc="268436026" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="43" pc="268436058" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="45" pc="268436110" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="46" pc="268436142" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldSettingsView.mc" id="14" lineNum="48" pc="268436194" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="16" lineNum="11" pc="268436247" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="16" lineNum="12" pc="268436251" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="17" lineNum="15" pc="268436270" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="17" lineNum="16" pc="268436274" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="18" lineNum="19" pc="268436278" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="18" lineNum="20" pc="268436282" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="19" lineNum="23" pc="268436320" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="19" lineNum="24" pc="268436324" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="20" lineNum="27" pc="268436328" symbol="getSettingsView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldApp.mc" id="20" lineNum="28" pc="268436332" symbol="getSettingsView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="22" lineNum="13" pc="268436400" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="22" lineNum="14" pc="268436404" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="23" lineNum="17" pc="268436423" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="23" lineNum="18" pc="268436427" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="23" lineNum="19" pc="268436467" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="23" lineNum="20" pc="268436479" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="23" lineNum="22" pc="268436519" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="25" lineNum="34" pc="268436605" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="25" lineNum="35" pc="268436609" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="25" lineNum="36" pc="268436627" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="25" lineNum="37" pc="268436640" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="25" lineNum="38" pc="268436653" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="42" pc="268436664" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="43" pc="268436668" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="45" pc="268436712" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="48" pc="268436719" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="49" pc="268436736" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="50" pc="268436749" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="53" pc="268436765" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="54" pc="268436782" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="55" pc="268436795" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="58" pc="268436820" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="59" pc="268436837" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="60" pc="268436850" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="61" pc="268436883" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="63" pc="268436908" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="64" pc="268436929" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="65" pc="268436972" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="66" pc="268437016" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="72" pc="268437038" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="73" pc="268437057" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="74" pc="268437074" symbol="compute"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/SimpleDataField/source/SimpleDataFieldView.mc" id="26" lineNum="77" pc="268437090" symbol="compute"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389344" symbol="seconds"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8391699" method="true" symbol="showAlert"/>
+        <entry id="12" object="true" symbol="DataFieldSettingsView"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="19" symbol="alertDisplayed"/>
+        <entry field="true" id="17" symbol="MILLISECONDS_TO_SECONDS"/>
+        <entry field="true" id="24" symbol="AppName"/>
+        <entry id="8389025" object="true" symbol="SimpleDataField"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="10" object="true" symbol="DataFieldSettingsMenu"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="22" symbol="id_monkey"/>
+        <entry id="8389024" object="true" symbol="DataField"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="16" symbol="METERS_TO_MILES"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="9" object="true" symbol="DataFieldSettingsMenuItem"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="14" object="true" symbol="DataFieldAlertView"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="13" object="true" symbol="DataFieldSettingsDelegate"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="18" symbol="counter"/>
+        <entry field="true" id="23" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="11" object="true" symbol="DataFieldSettingsMenuDelegate"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="15" symbol="&lt;globals/DataFieldSettingsMenuItem/&lt;&gt;mId&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435489" name="id" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435602" name="menuItem" stackId="1" startPc="268435559"/>
+        <entry arg="true" endPc="268435807" name="dc" stackId="1" startPc="268435625"/>
+        <entry endPc="268436246" name="boolean" stackId="2" startPc="268435834"/>
+        <entry endPc="268436246" name="menu" stackId="1" startPc="268435834"/>
+        <entry arg="true" endPc="268436278" name="state" stackId="1" startPc="268436270"/>
+        <entry arg="true" endPc="268436328" name="state" stackId="1" startPc="268436320"/>
+        <entry arg="true" endPc="268436605" name="dc" stackId="1" startPc="268436423"/>
+        <entry endPc="268437032" name="options" stackId="3" startPc="268436850"/>
+        <entry endPc="268437093" name="value_picked" stackId="2" startPc="268436668"/>
+        <entry arg="true" endPc="268437094" name="info" stackId="1" startPc="268436664"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="DataFieldSettingsMenuItem" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="DataField" type="class"/>
+        <dataEntry offset="340" parentId="globals" symbolId="DataFieldSettingsMenu" type="class"/>
+        <dataEntry offset="387" parentId="globals" symbolId="SimpleDataField" type="class"/>
+        <dataEntry offset="466" parentId="globals" symbolId="DataFieldSettingsMenuDelegate" type="class"/>
+        <dataEntry offset="521" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="600" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="647" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="678" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="709" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="740" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="771" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="810" parentId="globals" symbolId="DataFieldSettingsDelegate" type="class"/>
+        <dataEntry offset="865" parentId="globals" symbolId="DataFieldSettingsView" type="class"/>
+        <dataEntry offset="920" parentId="globals" symbolId="DataFieldAlertView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldSettingsMenuItem">
+            <param id="id"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldSettingsMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldSettingsMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="DataFieldSettingsMenuDelegate">
+            <param id="menuItem"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldSettingsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DataFieldSettingsView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldSettingsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="DataFieldSettingsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SimpleDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SimpleDataField">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="SimpleDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SimpleDataField">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSettingsView" parent="SimpleDataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldAlertView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DataFieldAlertView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataField">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="DataField">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

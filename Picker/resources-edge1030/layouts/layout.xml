@@ -1,0 +1,7 @@
+<layout id="MainLayout">
+    <label x="dc.getWidth() - 60" y="dc.getHeight() - 90" text="@Strings.clickHere" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    <label id="date" x="5" y="5" text="@Strings.date" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="time" x="5" y="35" text="@Strings.time" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="string" x="5" y="65" text="@Strings.string" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <drawable id="arrow"/>
+</layout>

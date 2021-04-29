@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="4" lineNum="29" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="4" lineNum="30" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="5" lineNum="33" pc="268435479" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="5" lineNum="34" pc="268435483" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="7" lineNum="39" pc="268435494" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="7" lineNum="40" pc="268435498" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="8" lineNum="43" pc="268435517" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="8" lineNum="44" pc="268435521" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="10" lineNum="49" pc="268435532" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="10" lineNum="50" pc="268435536" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="11" lineNum="53" pc="268435555" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="11" lineNum="54" pc="268435559" symbol="onNumberPicked"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="13" lineNum="62" pc="268435570" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="13" lineNum="63" pc="268435574" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="14" lineNum="66" pc="268435593" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="14" lineNum="67" pc="268435597" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="70" pc="268435610" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="71" pc="268435614" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="72" pc="268435614" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="73" pc="268435631" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="74" pc="268435644" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="75" pc="268435666" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="76" pc="268435720" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="77" pc="268435778" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="79" pc="268435803" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="80" pc="268435820" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="81" pc="268435833" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="83" pc="268435855" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="84" pc="268435917" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="85" pc="268435965" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="86" pc="268436023" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="88" pc="268436048" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="89" pc="268436065" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="90" pc="268436078" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="91" pc="268436100" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="92" pc="268436162" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="93" pc="268436210" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="94" pc="268436268" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="96" pc="268436293" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="97" pc="268436310" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="98" pc="268436323" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="99" pc="268436345" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="100" pc="268436407" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="101" pc="268436455" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="102" pc="268436513" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="104" pc="268436538" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="105" pc="268436555" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="106" pc="268436568" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="107" pc="268436590" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="108" pc="268436597" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="109" pc="268436645" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="110" pc="268436703" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="112" pc="268436728" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="113" pc="268436745" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="114" pc="268436758" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="115" pc="268436780" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="116" pc="268436787" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="117" pc="268436835" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="118" pc="268436893" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="120" pc="268436918" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="121" pc="268436935" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="122" pc="268436948" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="123" pc="268436970" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="124" pc="268436977" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="125" pc="268437025" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="126" pc="268437083" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="128" pc="268437108" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="129" pc="268437125" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="130" pc="268437138" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="131" pc="268437160" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="132" pc="268437167" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="133" pc="268437215" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="134" pc="268437273" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="136" pc="268437289" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="15" lineNum="138" pc="268437292" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="16" lineNum="141" pc="268437296" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="18" lineNum="147" pc="268437301" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="18" lineNum="148" pc="268437305" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="19" lineNum="151" pc="268437324" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="19" lineNum="152" pc="268437328" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="20" lineNum="156" pc="268437343" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="159" pc="268437348" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="160" pc="268437352" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="161" pc="268437388" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="162" pc="268437400" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="163" pc="268437436" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="164" pc="268437461" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="165" pc="268437480" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="166" pc="268437499" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="167" pc="268437509" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="169" pc="268437522" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="170" pc="268437573" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="172" pc="268437586" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="174" pc="268437634" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="175" pc="268437660" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="178" pc="268437720" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="179" pc="268437746" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="182" pc="268437806" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="183" pc="268437832" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerView.mc" id="21" lineNum="184" pc="268437845" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="23" lineNum="11" pc="268437921" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="23" lineNum="12" pc="268437925" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="24" lineNum="16" pc="268437944" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="25" lineNum="20" pc="268437949" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="26" lineNum="24" pc="268437954" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NumberPicker/source/NumberPickerApp.mc" id="26" lineNum="25" pc="268437958" symbol="getInitialView"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="13" symbol="modeLabel"/>
+        <entry id="8389344" symbol="seconds"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="14" symbol="fieldTypeToDisplay"/>
+        <entry id="21" object="true" symbol="NumberPickerApp"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="30" symbol="npi"/>
+        <entry field="true" id="22" symbol="DISPLAY_FLOAT"/>
+        <entry field="true" id="28" symbol="AppName"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="26" module="true" symbol="Menus"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="29" symbol="np"/>
+        <entry id="10" module="true" symbol="NumberPickerConstants"/>
+        <entry field="true" id="8389850" symbol="count"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="23" symbol="DISPLAY_INT"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="2" module="true" symbol="globals/NumberPickerConstants"/>
+        <entry id="8389102" method="true" symbol="onNumberPicked"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="27" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389342" symbol="hours"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="15" symbol="dur"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="20" object="true" symbol="NumberPickerView"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="17" object="true" symbol="NPDi"/>
+        <entry id="16" object="true" symbol="NPDf"/>
+        <entry id="18" object="true" symbol="NPDd"/>
+        <entry id="25" module="true" symbol="Layouts"/>
+        <entry id="8389343" symbol="minutes"/>
+        <entry field="true" id="12" symbol="testVali"/>
+        <entry field="true" id="11" symbol="testValf"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="24" symbol="DISPLAY_DURATION"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="19" object="true" symbol="BaseInputDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435494" name="value" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435532" name="value" stackId="1" startPc="268435517"/>
+        <entry arg="true" endPc="268435570" name="value" stackId="1" startPc="268435555"/>
+        <entry endPc="268437295" name="value" stackId="1" startPc="268435614"/>
+        <entry arg="true" endPc="268437343" name="dc" stackId="1" startPc="268437324"/>
+        <entry endPc="268437920" name="modeLabelFontHeight" stackId="2" startPc="268437352"/>
+        <entry endPc="268437920" name="valueLocY" stackId="6" startPc="268437352"/>
+        <entry endPc="268437920" name="centerY" stackId="4" startPc="268437352"/>
+        <entry endPc="268437920" name="labelLocY" stackId="5" startPc="268437352"/>
+        <entry endPc="268437920" name="centerX" stackId="3" startPc="268437352"/>
+        <entry arg="true" endPc="268437921" name="dc" stackId="1" startPc="268437348"/>
+        <entry arg="true" endPc="268437949" name="state" stackId="1" startPc="268437944"/>
+        <entry arg="true" endPc="268437954" name="state" stackId="1" startPc="268437949"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="246" parentId="globals" symbolId="NumberPickerConstants" type="module"/>
+        <dataEntry offset="301" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="380" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="419" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="450" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="481" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="512" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="543" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="582" parentId="globals" symbolId="NumberPickerView" type="class"/>
+        <dataEntry offset="653" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
+        <dataEntry offset="740" parentId="globals" symbolId="NPDi" type="class"/>
+        <dataEntry offset="795" parentId="globals" symbolId="NumberPickerApp" type="class"/>
+        <dataEntry offset="866" parentId="globals" symbolId="NPDf" type="class"/>
+        <dataEntry offset="921" parentId="globals" symbolId="NPDd" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="NPDf">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNumberPicked" parent="NPDf">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NPDi">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNumberPicked" parent="NPDi">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NPDd">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNumberPicked" parent="NPDd">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NumberPickerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="NumberPickerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="NumberPickerView">
+            <documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="NumberPickerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NumberPickerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="NumberPickerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="NumberPickerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="NumberPickerApp">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

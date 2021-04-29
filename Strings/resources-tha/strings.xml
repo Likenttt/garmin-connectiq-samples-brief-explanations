@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">ไทย</string>
+    <string id="greeting">สวัสดี</string>
+    <string id="food">ไข่</string>
+    <string id="drink">นม</string>
+</resources>

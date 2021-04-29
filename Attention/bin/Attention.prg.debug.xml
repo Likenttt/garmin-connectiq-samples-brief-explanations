@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="4" lineNum="18" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="5" lineNum="22" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="6" lineNum="26" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="6" lineNum="27" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="6" lineNum="28" pc="268435523" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionApp.mc" id="6" lineNum="29" pc="268435553" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="8" lineNum="42" pc="268435593" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="8" lineNum="43" pc="268435597" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="9" lineNum="47" pc="268435616" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="9" lineNum="48" pc="268435620" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="9" lineNum="49" pc="268435633" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="9" lineNum="50" pc="268435666" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="10" lineNum="54" pc="268435687" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="58" pc="268435692" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="60" pc="268435696" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="61" pc="268435732" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="64" pc="268435744" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="65" pc="268435780" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="66" pc="268435851" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="69" pc="268435887" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="70" pc="268435949" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="72" pc="268436023" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="73" pc="268436047" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="74" pc="268436071" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="76" pc="268436095" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="78" pc="268436112" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="79" pc="268436125" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="81" pc="268436154" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="84" pc="268436171" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="85" pc="268436184" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="87" pc="268436213" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="91" pc="268436230" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="11" lineNum="92" pc="268436260" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="12" lineNum="98" pc="268436297" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="13" lineNum="102" pc="268436302" symbol="setIndexFromYVal"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="13" lineNum="103" pc="268436306" symbol="setIndexFromYVal"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="13" lineNum="104" pc="268436329" symbol="setIndexFromYVal"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="14" lineNum="108" pc="268436358" symbol="incIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="14" lineNum="109" pc="268436362" symbol="incIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="14" lineNum="110" pc="268436375" symbol="incIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="14" lineNum="111" pc="268436394" symbol="incIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="14" lineNum="112" pc="268436411" symbol="incIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="15" lineNum="118" pc="268436431" symbol="decIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="15" lineNum="119" pc="268436435" symbol="decIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="15" lineNum="120" pc="268436448" symbol="decIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="15" lineNum="121" pc="268436467" symbol="decIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="15" lineNum="122" pc="268436484" symbol="decIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="128" pc="268436504" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="129" pc="268436508" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="131" pc="268436525" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="132" pc="268436534" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="133" pc="268436551" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="134" pc="268436575" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="135" pc="268436594" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="137" pc="268436611" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="138" pc="268436626" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="139" pc="268436636" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="141" pc="268436661" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="142" pc="268436680" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="143" pc="268436709" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="145" pc="268436722" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="146" pc="268436763" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="151" pc="268436827" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="155" pc="268436843" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="159" pc="268436864" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="161" pc="268436877" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="162" pc="268436896" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="164" pc="268436913" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="165" pc="268436922" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="166" pc="268436937" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="176" pc="268437253" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="178" pc="268437274" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="16" lineNum="180" pc="268437287" symbol="action"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="184" pc="268437307" symbol="loadSong"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="185" pc="268437311" symbol="loadSong"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="188" pc="268437330" symbol="loadSong"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="189" pc="268437354" symbol="loadSong"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="192" pc="268437420" symbol="loadSong"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionView.mc" id="17" lineNum="21" pc="268438943" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="19" lineNum="12" pc="268437424" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="19" lineNum="13" pc="268437428" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="17" pc="268437447" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="18" pc="268437451" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="19" pc="268437468" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="20" pc="268437481" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="21" pc="268437499" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="22" pc="268437520" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="23" pc="268437538" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="24" pc="268437559" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="25" pc="268437577" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="26" pc="268437598" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="27" pc="268437616" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="29" pc="268437637" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="31" pc="268437640" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="20" lineNum="32" pc="268437656" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="36" pc="268437660" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="37" pc="268437664" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="38" pc="268437681" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="39" pc="268437708" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="40" pc="268437721" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="41" pc="268437747" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="42" pc="268437763" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="21" lineNum="44" pc="268437784" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="22" lineNum="48" pc="268437788" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="22" lineNum="49" pc="268437792" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="53" pc="268437824" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="54" pc="268437828" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="55" pc="268437845" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="56" pc="268437858" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="57" pc="268437876" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="58" pc="268437897" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="59" pc="268437915" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="60" pc="268437936" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="61" pc="268437954" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="62" pc="268437975" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="63" pc="268437993" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Attention/source/AttentionDelegate.mc" id="23" lineNum="65" pc="268438014" symbol="onSwipe"/>
+        <entry filename="Rez" id="29" lineNum="16" pc="268438031" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="18" pc="268438043" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="19" pc="268438056" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="21" pc="268438069" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="22" pc="268438242" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="23" pc="268438385" symbol="MainText"/>
+        <entry filename="Rez" id="29" lineNum="25" pc="268438544" symbol="MainText"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="25" symbol="backlightOn"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="12" symbol="currentVibe"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="31" method="true" symbol="decIndex"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="24" symbol="mainDelegate"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="23" symbol="mainView"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="17" symbol="id_monkey"/>
+        <entry field="true" id="26" symbol="toneIdx"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8391338" symbol="toneProfile"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8391275" object="true" symbol="ToneProfile"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="22" symbol="menu_item_2"/>
+        <entry field="true" id="20" symbol="menu_item_1"/>
+        <entry id="32" method="true" symbol="action"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="27" symbol="mainText"/>
+        <entry id="19" method="true" symbol="MainText"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="30" method="true" symbol="incIndex"/>
+        <entry id="29" method="true" symbol="setIndexFromYVal"/>
+        <entry field="true" id="10" symbol="selectedIndex"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="34" symbol="id_birthday"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="11" symbol="currentTone"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="28" symbol="toneNames"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="15" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="13" object="true" symbol="AttentionView"/>
+        <entry id="14" object="true" symbol="AttentionDelegate"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="9" object="true" symbol="AttentionApp"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="33" method="true" symbol="loadSong"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="8389101" method="true" symbol="onSwipe"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435687" name="dc" stackId="1" startPc="268435616"/>
+        <entry endPc="268436296" name="i" stackId="5" startPc="268436260"/>
+        <entry endPc="268436296" name="toneLabel" stackId="4" startPc="268435696"/>
+        <entry endPc="268436296" name="vibrateLabel" stackId="3" startPc="268435696"/>
+        <entry endPc="268436296" name="backlightLabel" stackId="2" startPc="268435696"/>
+        <entry arg="true" endPc="268436297" name="dc" stackId="1" startPc="268435692"/>
+        <entry endPc="268436357" name="screenHeight" stackId="2" startPc="268436306"/>
+        <entry arg="true" endPc="268436358" name="yval" stackId="1" startPc="268436302"/>
+        <entry endPc="268436861" name="currentToneIdx" stackId="1" startPc="268436626"/>
+        <entry endPc="268437271" name="vibrateData" stackId="2" startPc="268436937"/>
+        <entry endPc="268437420" name="i" stackId="3" startPc="268437354"/>
+        <entry endPc="268437423" name="array" stackId="2" startPc="268437311"/>
+        <entry arg="true" endPc="268437424" name="rezId" stackId="1" startPc="268437307"/>
+        <entry endPc="268437659" name="key" stackId="3" startPc="268437451"/>
+        <entry endPc="268437659" name="app" stackId="2" startPc="268437451"/>
+        <entry arg="true" endPc="268437660" name="evt" stackId="1" startPc="268437447"/>
+        <entry endPc="268437781" name="coords" stackId="3" startPc="268437708"/>
+        <entry endPc="268437787" name="app" stackId="2" startPc="268437664"/>
+        <entry arg="true" endPc="268437788" name="evt" stackId="1" startPc="268437660"/>
+        <entry endPc="268438030" name="direction" stackId="3" startPc="268437828"/>
+        <entry endPc="268438030" name="app" stackId="2" startPc="268437828"/>
+        <entry arg="true" endPc="268438031" name="evt" stackId="1" startPc="268437824"/>
+        <entry endPc="268438581" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268438043"/>
+        <entry endPc="268438581" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268438043"/>
+        <entry endPc="268438581" name="rez_cmp_local_text_VibeLabel" stackId="6" startPc="268438043"/>
+        <entry endPc="268438581" name="rez_cmp_local_text_BacklightLabel" stackId="4" startPc="268438043"/>
+        <entry endPc="268438581" name="rez_cmp_local_text_ToneLabel" stackId="5" startPc="268438043"/>
+        <entry arg="true" endPc="268438582" name="dc" stackId="1" startPc="268438031"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="AttentionDelegate" type="class"/>
+        <dataEntry offset="261" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="340" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="418" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="449" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="488" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="574" parentId="globals" symbolId="AttentionApp" type="class"/>
+        <dataEntry offset="661" parentId="globals" symbolId="AttentionView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AttentionApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AttentionApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AttentionApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AttentionApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AttentionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AttentionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setIndexFromYVal" parent="AttentionView">
+            <param id="yval"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="incIndex" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="decIndex" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="action" parent="AttentionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="loadSong" parent="AttentionView">
+            <param id="rezId"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AttentionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="AttentionDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="AttentionDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AttentionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSwipe" parent="AttentionDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainText" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

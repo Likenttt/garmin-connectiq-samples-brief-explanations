@@ -1,0 +1,8 @@
+<layout id="SectionOneLayout">
+
+    <label id="WeightLabel" x="0" y="79" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="GenderLabel" x="0" y="99" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="HeightLabel" x="0" y="119" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="WakeTimeLabel" x="0" y="139" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+
+</layout>

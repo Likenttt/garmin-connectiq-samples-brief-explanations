@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="4" lineNum="18" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="4" lineNum="19" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="4" lineNum="20" pc="268435512" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="5" lineNum="23" pc="268435516" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="5" lineNum="24" pc="268435520" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="6" lineNum="27" pc="268435588" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerApp.mc" id="6" lineNum="28" pc="268435592" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerDelegate.mc" id="8" lineNum="12" pc="268435596" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerDelegate.mc" id="8" lineNum="13" pc="268435600" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerDelegate.mc" id="9" lineNum="16" pc="268435619" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerDelegate.mc" id="9" lineNum="17" pc="268435623" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="11" lineNum="11" pc="268435696" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="11" lineNum="12" pc="268435700" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="12" lineNum="15" pc="268435719" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="12" lineNum="16" pc="268435723" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="12" lineNum="17" pc="268435751" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="13" lineNum="20" pc="268435755" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="13" lineNum="21" pc="268435759" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="13" lineNum="22" pc="268435831" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="14" lineNum="25" pc="268435835" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="14" lineNum="26" pc="268435839" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsDelegate.mc" id="14" lineNum="27" pc="268435911" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="16" lineNum="11" pc="268435915" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="16" lineNum="12" pc="268435919" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="17" lineNum="15" pc="268435938" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="17" lineNum="16" pc="268435942" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="17" lineNum="17" pc="268435970" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="18" lineNum="20" pc="268435974" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="18" lineNum="21" pc="268435978" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="18" lineNum="22" pc="268436050" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="19" lineNum="25" pc="268436054" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="19" lineNum="26" pc="268436058" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryDelegate.mc" id="19" lineNum="27" pc="268436130" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="21" lineNum="17" pc="268436134" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="21" lineNum="18" pc="268436138" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="21" lineNum="22" pc="268436156" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="22" lineNum="25" pc="268436191" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="22" lineNum="26" pc="268436195" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="23" lineNum="29" pc="268436237" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="23" lineNum="30" pc="268436241" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="34" pc="268436260" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="35" pc="268436264" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="36" pc="268436300" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="38" pc="268436312" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="40" pc="268436329" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="41" pc="268436340" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="42" pc="268436357" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="44" pc="268436373" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="45" pc="268436401" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="48" pc="268436454" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="51" pc="268436517" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="52" pc="268436542" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="53" pc="268436559" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="55" pc="268436575" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="56" pc="268436603" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="59" pc="268436656" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="62" pc="268436719" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="63" pc="268436744" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="64" pc="268436761" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="66" pc="268436777" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="67" pc="268436811" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="24" lineNum="70" pc="268436870" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="74" pc="268436940" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="75" pc="268436944" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="76" pc="268436969" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="78" pc="268436988" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="79" pc="268436999" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="82" pc="268437009" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="83" pc="268437025" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="84" pc="268437051" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="85" pc="268437087" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="86" pc="268437110" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="88" pc="268437127" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="25" lineNum="90" pc="268437141" symbol="drawBar"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="26" lineNum="93" pc="268437198" symbol="onTimer"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/ActivityTrackerView.mc" id="26" lineNum="95" pc="268437202" symbol="onTimer"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="28" lineNum="18" pc="268437219" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="28" lineNum="19" pc="268437223" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="28" lineNum="23" pc="268437241" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="29" lineNum="26" pc="268437276" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="29" lineNum="27" pc="268437280" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="30" lineNum="30" pc="268437322" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="30" lineNum="31" pc="268437326" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="35" pc="268437345" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="36" pc="268437349" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="37" pc="268437349" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="38" pc="268437366" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="39" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="40" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="41" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="42" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="43" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="44" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="47" pc="268437406" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="48" pc="268437416" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="50" pc="268437423" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="51" pc="268437459" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="53" pc="268437471" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="55" pc="268437488" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="56" pc="268437505" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="60" pc="268437521" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="61" pc="268437529" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="62" pc="268437545" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="64" pc="268437567" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="65" pc="268437577" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="67" pc="268437584" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="68" pc="268437597" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="69" pc="268437608" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="73" pc="268437618" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="74" pc="268437638" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="76" pc="268437666" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="81" pc="268437673" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="82" pc="268437709" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="83" pc="268437733" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="84" pc="268437765" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="85" pc="268437797" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="87" pc="268437832" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="88" pc="268437864" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="89" pc="268437896" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="93" pc="268437928" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="94" pc="268437939" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="96" pc="268437978" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="99" pc="268438014" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="100" pc="268438038" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="101" pc="268438073" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="103" pc="268438105" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="104" pc="268438140" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="108" pc="268438169" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="111" pc="268438205" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="112" pc="268438248" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="115" pc="268438308" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="116" pc="268438318" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="119" pc="268438427" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="120" pc="268438438" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="121" pc="268438449" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="123" pc="268438459" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="125" pc="268438466" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="129" pc="268438569" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="130" pc="268438594" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="131" pc="268438612" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="132" pc="268438622" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="133" pc="268438646" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="135" pc="268438737" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="139" pc="268438837" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="140" pc="268438862" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="141" pc="268438886" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="143" pc="268438989" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="147" pc="268439083" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="148" pc="268439107" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="149" pc="268439107" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="150" pc="268439114" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="151" pc="268439135" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="31" lineNum="154" pc="268439158" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="32" lineNum="158" pc="268439262" symbol="onTimer"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/StepsView.mc" id="32" lineNum="160" pc="268439266" symbol="onTimer"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="34" lineNum="14" pc="268439283" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="34" lineNum="15" pc="268439287" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="35" lineNum="18" pc="268439306" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="35" lineNum="19" pc="268439310" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="23" pc="268439348" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="24" pc="268439352" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="26" pc="268439372" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="27" pc="268439408" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="28" pc="268439425" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="29" pc="268439432" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="30" pc="268439439" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="32" pc="268439468" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="34" pc="268439498" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="35" pc="268439522" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="37" pc="268439591" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="38" pc="268439620" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="39" pc="268439669" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="41" pc="268439738" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ActivityTracking/source/HistoryView.mc" id="36" lineNum="42" pc="268439771" symbol="onUpdate"/>
+        <entry filename="Rez" id="42" lineNum="15" pc="268439875" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="17" pc="268439887" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="19" pc="268439900" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="20" pc="268440048" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="21" pc="268440215" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="22" pc="268440385" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="42" lineNum="24" pc="268440549" symbol="HistoryLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="10" object="true" symbol="ActivityTrackerDelegate"/>
+        <entry id="12" object="true" symbol="HistoryDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="9" object="true" symbol="ActivityTrackerApp"/>
+        <entry field="true" id="25" symbol="timer"/>
+        <entry id="11" object="true" symbol="StepsDelegate"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="24" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="27" method="true" symbol="drawBar"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="21" symbol="StepsHeader"/>
+        <entry field="true" id="8388913" symbol="stepGoal"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="8389874" symbol="floorsClimbedGoal"/>
+        <entry id="19" method="true" symbol="HistoryLayout"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="13" object="true" symbol="ActivityTrackerView"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="22" symbol="FloorsHeader"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry field="true" id="23" symbol="HistoryTitle"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389869" symbol="activeMinutesWeek"/>
+        <entry id="15" object="true" symbol="HistoryView"/>
+        <entry id="14" object="true" symbol="StepsView"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="8389871" symbol="activeMinutesWeekGoal"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="8388915" symbol="isSleepMode"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="20" symbol="DayHeader"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8389872" symbol="floorsClimbed"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="8389670" symbol="screenShape"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="26" method="true" symbol="onTimer"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435516" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435596" name="state" stackId="1" startPc="268435588"/>
+        <entry endPc="268436451" name="stepsPercent" stackId="3" startPc="268436340"/>
+        <entry endPc="268436653" name="floorsPercent" stackId="4" startPc="268436542"/>
+        <entry endPc="268436867" name="activePercent" stackId="5" startPc="268436744"/>
+        <entry endPc="268436939" name="info" stackId="2" startPc="268436264"/>
+        <entry arg="true" endPc="268436940" name="dc" stackId="1" startPc="268436260"/>
+        <entry endPc="268437197" name="x" stackId="7" startPc="268436944"/>
+        <entry endPc="268437197" name="font" stackId="8" startPc="268436944"/>
+        <entry endPc="268437197" name="width" stackId="6" startPc="268436944"/>
+        <entry arg="true" endPc="268437198" name="dc" stackId="1" startPc="268436940"/>
+        <entry arg="true" endPc="268437198" name="color" stackId="5" startPc="268436940"/>
+        <entry arg="true" endPc="268437198" name="string" stackId="2" startPc="268436940"/>
+        <entry arg="true" endPc="268437198" name="percent" stackId="4" startPc="268436940"/>
+        <entry arg="true" endPc="268437198" name="y" stackId="3" startPc="268436940"/>
+        <entry endPc="268439258" name="i" stackId="12" startPc="268439107"/>
+        <entry endPc="268439261" name="progress" stackId="8" startPc="268437349"/>
+        <entry endPc="268439261" name="stepsFromGoal" stackId="6" startPc="268437349"/>
+        <entry endPc="268439261" name="clockTime" stackId="3" startPc="268437349"/>
+        <entry endPc="268439261" name="goalPace" stackId="7" startPc="268437349"/>
+        <entry endPc="268439261" name="activityInfo" stackId="2" startPc="268437349"/>
+        <entry endPc="268439261" name="string" stackId="10" startPc="268437349"/>
+        <entry endPc="268439261" name="goalProgress" stackId="9" startPc="268437349"/>
+        <entry endPc="268439261" name="ToD" stackId="4" startPc="268437349"/>
+        <entry endPc="268439261" name="distMiles" stackId="11" startPc="268437349"/>
+        <entry endPc="268439261" name="daySeconds" stackId="5" startPc="268437349"/>
+        <entry arg="true" endPc="268439262" name="dc" stackId="1" startPc="268437345"/>
+        <entry arg="true" endPc="268439348" name="dc" stackId="1" startPc="268439306"/>
+        <entry endPc="268439871" name="i" stackId="6" startPc="268439522"/>
+        <entry endPc="268439874" name="string" stackId="4" startPc="268439352"/>
+        <entry endPc="268439874" name="fontHeight" stackId="5" startPc="268439352"/>
+        <entry endPc="268439874" name="actHistArray" stackId="2" startPc="268439352"/>
+        <entry endPc="268439874" name="padding" stackId="3" startPc="268439352"/>
+        <entry arg="true" endPc="268439875" name="dc" stackId="1" startPc="268439348"/>
+        <entry endPc="268440596" name="rez_cmp_local_text_StepsLabel" stackId="5" startPc="268439887"/>
+        <entry endPc="268440596" name="rez_cmp_local_text_DayLabel" stackId="4" startPc="268439887"/>
+        <entry endPc="268440596" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268439887"/>
+        <entry endPc="268440596" name="rez_cmp_local_text_FloorsLabel" stackId="6" startPc="268439887"/>
+        <entry endPc="268440596" name="rez_cmp_local_text_TitleLabel" stackId="3" startPc="268439887"/>
+        <entry arg="true" endPc="268440597" name="dc" stackId="1" startPc="268439875"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="ActivityTrackerApp" type="class"/>
+        <dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="418" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="449" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="488" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="590" parentId="globals" symbolId="StepsView" type="class"/>
+        <dataEntry offset="677" parentId="globals" symbolId="StepsDelegate" type="class"/>
+        <dataEntry offset="748" parentId="globals" symbolId="ActivityTrackerDelegate" type="class"/>
+        <dataEntry offset="803" parentId="globals" symbolId="HistoryView" type="class"/>
+        <dataEntry offset="866" parentId="globals" symbolId="ActivityTrackerView" type="class"/>
+        <dataEntry offset="961" parentId="globals" symbolId="HistoryDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ActivityTrackerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ActivityTrackerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ActivityTrackerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ActivityTrackerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ActivityTrackerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="ActivityTrackerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StepsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="StepsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="StepsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="StepsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="HistoryDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="HistoryDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="HistoryDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="HistoryDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ActivityTrackerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ActivityTrackerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ActivityTrackerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ActivityTrackerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBar" parent="ActivityTrackerView">
+            <param id="dc"/>
+            <param id="string"/>
+            <param id="y"/>
+            <param id="percent"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="ActivityTrackerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StepsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="StepsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="StepsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="StepsView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="StepsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="HistoryView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="HistoryView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="HistoryView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="HistoryLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

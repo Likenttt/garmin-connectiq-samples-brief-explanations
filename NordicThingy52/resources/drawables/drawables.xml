@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="Launcher" filename="Icon-72.png" />
+    <bitmap id="Co2Ind" filename="ic_co2_24pt.png" />
+    <bitmap id="HumidityInd" filename="ic_humidity_24pt.png" />
+    <bitmap id="LeafInd" filename="ic_leaf_24pt.png" />
+    <bitmap id="PressureInd" filename="ic_pressure_24pt.png" />
+    <bitmap id="TempInd" filename="ic_temp_24pt.png" />
+</drawables>

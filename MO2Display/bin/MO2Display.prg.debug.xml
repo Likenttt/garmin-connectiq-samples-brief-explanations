@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="17" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="18" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="20" pc="268435482" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="22" pc="268435492" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="24" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="25" pc="268435565" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="26" pc="268435572" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="27" pc="268435586" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="28" pc="268435600" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="29" pc="268435616" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="31" pc="268435647" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="3" lineNum="32" pc="268435657" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="35" pc="268435720" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="36" pc="268435724" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="37" pc="268435760" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="39" pc="268435772" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="40" pc="268435785" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="41" pc="268435798" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="42" pc="268435805" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="43" pc="268435819" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="45" pc="268435847" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="48" pc="268435907" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="49" pc="268435927" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="50" pc="268435934" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="51" pc="268435951" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="52" pc="268435987" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="54" pc="268436028" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="55" pc="268436050" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="56" pc="268436069" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="57" pc="268436086" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="58" pc="268436122" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MainView.mc" id="4" lineNum="62" pc="268436160" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="18" pc="268436189" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="19" pc="268436193" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="20" pc="268436203" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="21" pc="268436213" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="22" pc="268436223" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="6" lineNum="23" pc="268436233" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="26" pc="268436244" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="27" pc="268436248" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="28" pc="268436255" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="29" pc="268436268" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="30" pc="268436275" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="32" pc="268436282" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="33" pc="268436302" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="34" pc="268436327" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="36" pc="268436355" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="37" pc="268436375" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="38" pc="268436391" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="40" pc="268436419" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="41" pc="268436439" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="42" pc="268436464" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="44" pc="268436483" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="45" pc="268436503" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="46" pc="268436519" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="48" pc="268436538" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="49" pc="268436545" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="52" pc="268436552" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="53" pc="268436573" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="54" pc="268436581" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="56" pc="268436616" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="59" pc="268436648" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/PageIndicator.mc" id="7" lineNum="60" pc="268436667" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="19" pc="268436708" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="20" pc="268436712" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="22" pc="268436734" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="24" pc="268436744" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="25" pc="268436774" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="26" pc="268436781" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="27" pc="268436795" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="28" pc="268436809" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="29" pc="268436825" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="31" pc="268436856" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="32" pc="268436908" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="33" pc="268436960" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="9" lineNum="35" pc="268437034" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="38" pc="268437045" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="39" pc="268437049" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="40" pc="268437085" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="42" pc="268437097" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="43" pc="268437110" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="45" pc="268437123" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="46" pc="268437170" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="48" pc="268437217" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="49" pc="268437242" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="50" pc="268437278" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="51" pc="268437303" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="54" pc="268437320" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="55" pc="268437356" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="56" pc="268437418" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="57" pc="268437454" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="58" pc="268437504" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="60" pc="268437529" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="61" pc="268437536" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="63" pc="268437561" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="64" pc="268437597" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="65" pc="268437653" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="66" pc="268437689" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="69" pc="268437733" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="70" pc="268437749" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="72" pc="268437756" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="73" pc="268437792" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="74" pc="268437854" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="75" pc="268437890" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="78" pc="268437940" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="79" pc="268438045" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="80" pc="268438162" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="81" pc="268438273" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="84" pc="268438399" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="85" pc="268438424" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="86" pc="268438460" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="87" pc="268438485" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="88" pc="268438502" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="89" pc="268438517" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="92" pc="268438530" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="93" pc="268438566" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="94" pc="268438610" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="95" pc="268438646" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="96" pc="268438690" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="98" pc="268438715" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="99" pc="268438722" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="100" pc="268438747" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="103" pc="268438762" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="104" pc="268438798" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="105" pc="268438860" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="106" pc="268438896" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="109" pc="268438946" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="110" pc="268438962" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="111" pc="268438969" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="114" pc="268438984" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="115" pc="268439020" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="116" pc="268439064" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="117" pc="268439100" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="120" pc="268439144" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="121" pc="268439246" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="122" pc="268439360" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="123" pc="268439474" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="10" lineNum="127" pc="268439603" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="130" pc="268439632" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="131" pc="268439636" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="133" pc="268439661" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="134" pc="268439672" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="135" pc="268439702" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="137" pc="268439717" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/GraphView.mc" id="11" lineNum="140" pc="268439730" symbol="pickFont"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="20" pc="268439746" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="21" pc="268439750" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="22" pc="268439763" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="24" pc="268439795" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="25" pc="268439806" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="27" pc="268439830" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="28" pc="268439841" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="13" lineNum="29" pc="268439851" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="14" lineNum="33" pc="268439862" symbol="setColor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="14" lineNum="34" pc="268439866" symbol="setColor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="15" lineNum="38" pc="268439877" symbol="setMinRange"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="15" lineNum="39" pc="268439881" symbol="setMinRange"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="42" pc="268439892" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="43" pc="268439896" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="44" pc="268439900" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="46" pc="268439904" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="47" pc="268439935" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="49" pc="268439954" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="50" pc="268439970" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="54" pc="268439989" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="55" pc="268440009" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="56" pc="268440028" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="57" pc="268440063" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="60" pc="268440070" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="61" pc="268440090" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="62" pc="268440109" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="63" pc="268440144" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="67" pc="268440151" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="69" pc="268440170" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="70" pc="268440189" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="71" pc="268440218" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="74" pc="268440234" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="75" pc="268440239" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="76" pc="268440239" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="77" pc="268440255" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="78" pc="268440285" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="79" pc="268440302" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="82" pc="268440331" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="85" pc="268440350" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="86" pc="268440355" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="87" pc="268440355" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="88" pc="268440371" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="89" pc="268440401" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="90" pc="268440418" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="16" lineNum="93" pc="268440447" symbol="addItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="102" pc="268440470" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="103" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="104" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="105" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="106" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="107" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="108" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="109" pc="268440474" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="110" pc="268440499" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="111" pc="268440524" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="112" pc="268440524" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="114" pc="268440531" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="115" pc="268440538" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="116" pc="268440560" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="117" pc="268440570" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="118" pc="268440592" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="119" pc="268440602" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="120" pc="268440624" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="121" pc="268440634" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="122" pc="268440656" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="125" pc="268440666" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="127" pc="268440685" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="130" pc="268440713" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="131" pc="268440729" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="132" pc="268440760" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="134" pc="268440773" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="135" pc="268440787" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="136" pc="268440809" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="139" pc="268440822" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="140" pc="268440832" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="141" pc="268440872" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="142" pc="268440875" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="143" pc="268440908" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="144" pc="268440924" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="145" pc="268440928" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="146" pc="268440959" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="148" pc="268440972" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="149" pc="268440979" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="150" pc="268440999" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="151" pc="268441003" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="152" pc="268441013" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="156" pc="268441072" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="157" pc="268441093" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="158" pc="268441109" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="159" pc="268441113" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="160" pc="268441144" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="162" pc="268441157" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="163" pc="268441164" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="164" pc="268441184" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="165" pc="268441188" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/Graph.mc" id="17" lineNum="166" pc="268441198" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="19" pc="268441261" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="20" pc="268441265" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="22" pc="268441287" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="24" pc="268441297" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="25" pc="268441317" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="26" pc="268441337" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="28" pc="268441357" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="29" pc="268441387" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="30" pc="268441394" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="31" pc="268441408" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="32" pc="268441422" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="33" pc="268441438" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="19" lineNum="35" pc="268441469" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="38" pc="268441480" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="39" pc="268441484" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="40" pc="268441520" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="42" pc="268441532" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="43" pc="268441545" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="44" pc="268441558" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="45" pc="268441565" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="46" pc="268441581" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="47" pc="268441588" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="48" pc="268441588" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="49" pc="268441588" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="52" pc="268441588" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="53" pc="268441624" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="54" pc="268441634" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="55" pc="268441641" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="56" pc="268441658" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="58" pc="268441705" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="59" pc="268441741" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="60" pc="268441751" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="61" pc="268441787" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="62" pc="268441804" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="64" pc="268441860" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="65" pc="268441896" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="66" pc="268441906" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="67" pc="268441913" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="70" pc="268441972" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="71" pc="268442008" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="72" pc="268442015" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="73" pc="268442032" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="75" pc="268442085" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="76" pc="268442121" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="77" pc="268442131" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="78" pc="268442167" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="79" pc="268442184" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="82" pc="268442246" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="83" pc="268442282" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="84" pc="268442292" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="85" pc="268442299" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="86" pc="268442316" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="88" pc="268442363" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="89" pc="268442399" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="90" pc="268442409" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="91" pc="268442445" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="92" pc="268442462" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="94" pc="268442518" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="95" pc="268442554" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="96" pc="268442564" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="97" pc="268442571" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="100" pc="268442630" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="101" pc="268442666" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="102" pc="268442676" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="103" pc="268442683" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="104" pc="268442700" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="106" pc="268442753" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="107" pc="268442789" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="108" pc="268442799" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="109" pc="268442835" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="110" pc="268442852" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="112" pc="268442914" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="113" pc="268442950" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="114" pc="268442960" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="115" pc="268442967" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/DataView.mc" id="20" lineNum="118" pc="268443032" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="36" pc="268443061" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="37" pc="268443065" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="38" pc="268443078" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="39" pc="268443088" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="40" pc="268443098" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="41" pc="268443111" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="42" pc="268443124" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="23" lineNum="43" pc="268443137" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="60" pc="268443151" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="61" pc="268443155" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="62" pc="268443176" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="63" pc="268443197" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="64" pc="268443218" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="65" pc="268443239" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="66" pc="268443260" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="26" lineNum="67" pc="268443281" symbol="parse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="27" lineNum="70" pc="268443303" symbol="parseEventCount"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="27" lineNum="71" pc="268443307" symbol="parseEventCount"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="28" lineNum="74" pc="268443317" symbol="parseTimeSet"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="28" lineNum="75" pc="268443321" symbol="parseTimeSet"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="28" lineNum="76" pc="268443338" symbol="parseTimeSet"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="28" lineNum="78" pc="268443344" symbol="parseTimeSet"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="29" lineNum="82" pc="268443348" symbol="parseSupportAntfs"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="29" lineNum="83" pc="268443352" symbol="parseSupportAntfs"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="29" lineNum="84" pc="268443369" symbol="parseSupportAntfs"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="29" lineNum="86" pc="268443375" symbol="parseSupportAntfs"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="90" pc="268443379" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="91" pc="268443383" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="92" pc="268443400" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="93" pc="268443407" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="94" pc="268443421" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="95" pc="268443431" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="96" pc="268443445" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="97" pc="268443455" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="98" pc="268443469" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="99" pc="268443479" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="100" pc="268443493" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="30" lineNum="102" pc="268443503" symbol="parseMeasureInterval"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="31" lineNum="105" pc="268443507" symbol="parseTotalHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="31" lineNum="106" pc="268443511" symbol="parseTotalHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="32" lineNum="109" pc="268443549" symbol="parsePrevHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="32" lineNum="110" pc="268443553" symbol="parsePrevHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="33" lineNum="113" pc="268443598" symbol="parseCurrentHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="33" lineNum="114" pc="268443602" symbol="parseCurrentHemo"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="36" lineNum="122" pc="268443644" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="127" pc="268443652" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="129" pc="268443656" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="130" pc="268443714" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="131" pc="268443756" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="134" pc="268443765" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="142" pc="268443902" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="144" pc="268443928" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="145" pc="268443958" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="37" lineNum="146" pc="268443968" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="149" pc="268444041" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="151" pc="268444045" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="153" pc="268444063" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="154" pc="268444093" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="155" pc="268444106" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="156" pc="268444116" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="158" pc="268444134" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="159" pc="268444151" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="38" lineNum="160" pc="268444164" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="39" lineNum="171" pc="268444320" symbol="closeSensor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="39" lineNum="172" pc="268444324" symbol="closeSensor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="39" lineNum="173" pc="268444342" symbol="closeSensor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="39" lineNum="174" pc="268444360" symbol="closeSensor"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="177" pc="268444379" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="178" pc="268444383" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="180" pc="268444415" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="181" pc="268444423" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="182" pc="268444436" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="183" pc="268444449" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="184" pc="268444462" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="187" pc="268444475" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="188" pc="268444492" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="189" pc="268444510" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="193" pc="268444555" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="194" pc="268444583" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="40" lineNum="195" pc="268444597" symbol="setTime"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="199" pc="268444621" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="201" pc="268444625" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="203" pc="268444638" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="204" pc="268444662" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="206" pc="268444703" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="207" pc="268444714" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="209" pc="268444724" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="211" pc="268444752" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="212" pc="268444776" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="214" pc="268444807" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="215" pc="268444833" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="216" pc="268444849" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="218" pc="268444871" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="219" pc="268444907" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="224" pc="268444951" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="225" pc="268444975" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="226" pc="268445005" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="228" pc="268445035" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="229" pc="268445050" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="230" pc="268445080" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Sensor.mc" id="41" lineNum="231" pc="268445090" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="16" pc="268445116" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="17" pc="268445120" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="19" pc="268445142" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="21" pc="268445152" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="22" pc="268445182" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="23" pc="268445189" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="24" pc="268445203" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="25" pc="268445217" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="26" pc="268445233" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="43" lineNum="28" pc="268445264" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="31" pc="268445275" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="32" pc="268445279" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="33" pc="268445315" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="35" pc="268445327" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="36" pc="268445340" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="37" pc="268445353" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="38" pc="268445360" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="39" pc="268445360" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="40" pc="268445360" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="42" pc="268445360" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="43" pc="268445367" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="44" pc="268445381" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="45" pc="268445398" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="46" pc="268445434" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="48" pc="268445481" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="49" pc="268445488" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="50" pc="268445502" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="51" pc="268445519" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="52" pc="268445555" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="54" pc="268445611" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="55" pc="268445634" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="56" pc="268445641" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="57" pc="268445658" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="58" pc="268445694" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="60" pc="268445753" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="61" pc="268445760" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="62" pc="268445774" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="63" pc="268445791" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="64" pc="268445827" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="66" pc="268445892" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="67" pc="268445899" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="68" pc="268445916" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="69" pc="268445952" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/CommandView.mc" id="44" lineNum="73" pc="268446011" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="46" lineNum="13" pc="268446040" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="46" lineNum="14" pc="268446044" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="47" lineNum="18" pc="268446067" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="47" lineNum="20" pc="268446071" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="47" lineNum="21" pc="268446101" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="48" lineNum="25" pc="268446120" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="48" lineNum="27" pc="268446124" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="48" lineNum="28" pc="268446142" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="49" lineNum="32" pc="268446161" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="49" lineNum="34" pc="268446165" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2DisplayApp.mc" id="49" lineNum="35" pc="268446172" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="51" lineNum="13" pc="268446260" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="51" lineNum="14" pc="268446264" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="51" lineNum="16" pc="268446286" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="51" lineNum="17" pc="268446296" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="52" lineNum="20" pc="268446307" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="52" lineNum="21" pc="268446311" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="52" lineNum="22" pc="268446339" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="25" pc="268446406" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="26" pc="268446410" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="27" pc="268446432" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="28" pc="268446449" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="30" pc="268446465" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="53" lineNum="31" pc="268446487" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="54" lineNum="34" pc="268446554" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="54" lineNum="35" pc="268446558" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="54" lineNum="36" pc="268446585" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="54" lineNum="37" pc="268446600" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="54" lineNum="38" pc="268446627" symbol="onSwipe"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="55" lineNum="42" pc="268446643" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="55" lineNum="43" pc="268446647" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="55" lineNum="44" pc="268446664" symbol="onTap"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="48" pc="268446686" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="49" pc="268446690" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="50" pc="268446703" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="51" pc="268446721" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="52" pc="268446736" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="56" lineNum="53" pc="268446754" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="57" pc="268446770" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="58" pc="268446774" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="60" pc="268446774" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="61" pc="268446785" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="62" pc="268446822" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="63" pc="268446833" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="64" pc="268446870" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="65" pc="268446881" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="67" pc="268446918" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="57" lineNum="70" pc="268446952" symbol="getView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="58" lineNum="73" pc="268446956" symbol="getDelegate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="58" lineNum="74" pc="268446960" symbol="getDelegate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/MO2Display/source/MO2Delegate.mc" id="58" lineNum="75" pc="268446994" symbol="getDelegate"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389246" symbol="transmissionType"/>
+        <entry field="true" id="51" symbol="chanAssign"/>
+        <entry id="27" method="true" symbol="pickFont"/>
+        <entry field="true" id="33" symbol="fitUnitsLabel"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="59" object="true" symbol="CommandDataPage"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry field="true" id="82" symbol="totalHemoConcentration"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry field="true" id="40" symbol="graphRange"/>
+        <entry field="true" id="80" symbol="supportsAntFs"/>
+        <entry id="8391211" method="true" symbol="onMessage"/>
+        <entry field="true" id="77" symbol="INVALID_HEMO_PERCENT"/>
+        <entry field="true" id="8390367" symbol="mIcon"/>
+        <entry field="true" id="26" symbol="mCurrentGraph"/>
+        <entry field="true" id="64" symbol="INTERVAL_50"/>
+        <entry id="17" object="true" symbol="CommandView"/>
+        <entry field="true" id="63" symbol="INTERVAL_25"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="8389274" symbol="searchThreshold"/>
+        <entry id="73" method="true" symbol="parseCurrentHemo"/>
+        <entry id="62" symbol="globals/MO2Sensor"/>
+        <entry field="true" id="50" symbol="MO2_FIELD_ID"/>
+        <entry field="true" id="48" symbol="DEVICE_TYPE"/>
+        <entry field="true" id="8389244" symbol="deviceNumber"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="37" symbol="AppName"/>
+        <entry field="true" id="44" symbol="mHeadingFont"/>
+        <entry field="true" id="8389807" symbol="data"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="45" symbol="mDataFont"/>
+        <entry id="60" method="true" symbol="closeSensor"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="23" symbol="mIndicator"/>
+        <entry id="15" object="true" symbol="DataView"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="11" object="true" symbol="MainView"/>
+        <entry field="true" id="41" symbol="graphMinRange"/>
+        <entry field="true" id="46" symbol="mUnitFont"/>
+        <entry field="true" id="8390410" symbol="mAlignment"/>
+        <entry id="22" method="true" symbol="getDelegate"/>
+        <entry id="14" object="true" symbol="LineGraph"/>
+        <entry field="true" id="24" symbol="mFonts"/>
+        <entry id="43" method="true" symbol="setMinRange"/>
+        <entry field="true" id="8389245" symbol="deviceType"/>
+        <entry id="18" object="true" symbol="MO2DisplayApp"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="12" object="true" symbol="PageIndicator"/>
+        <entry field="true" id="49" symbol="PERIOD"/>
+        <entry id="8389299" method="true" symbol="parse"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="55" symbol="pastEventCount"/>
+        <entry field="true" id="47" symbol="mIconY"/>
+        <entry field="true" id="66" symbol="INTERVAL_2"/>
+        <entry field="true" id="65" symbol="INTERVAL_1"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="29" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="67" method="true" symbol="parseEventCount"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry field="true" id="92" symbol="mMargin"/>
+        <entry field="true" id="54" symbol="searching"/>
+        <entry field="true" id="32" symbol="fitFieldName"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389271" symbol="radioFrequency"/>
+        <entry id="9" module="true" symbol="globals/MO2Sensor/MuscleOxygenDataPage"/>
+        <entry id="16" object="true" symbol="MO2Sensor"/>
+        <entry field="true" id="42" symbol="graphColor"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="89" symbol="ALIGN_TOP_LEFT"/>
+        <entry id="8389095" method="true" symbol="addItem"/>
+        <entry field="true" id="56" symbol="deviceCfg"/>
+        <entry id="8389845" method="true" symbol="createField"/>
+        <entry field="true" id="84" symbol="currentHemoPercent"/>
+        <entry id="69" method="true" symbol="parseSupportAntfs"/>
+        <entry field="true" id="36" symbol="fitDataLabel"/>
+        <entry field="true" id="75" symbol="AMBIENT_LIGHT_HIGH"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="72" method="true" symbol="parsePrevHemo"/>
+        <entry id="10" module="true" symbol="globals/MO2Sensor/CommandDataPage"/>
+        <entry field="true" id="81" symbol="measurementInterval"/>
+        <entry id="57" object="true" symbol="MO2Data"/>
+        <entry field="true" id="8389270" symbol="messagePeriod"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389256" method="true" symbol="open"/>
+        <entry field="true" id="30" symbol="id_mo2Icon"/>
+        <entry field="true" id="39" symbol="graphIndex"/>
+        <entry id="93" method="true" symbol="setup"/>
+        <entry field="true" id="78" symbol="eventCount"/>
+        <entry field="true" id="8389092" symbol="mSize"/>
+        <entry field="true" id="74" symbol="PAGE_NUMBER"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="91" symbol="mNotSelectedColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
+        <entry field="true" id="76" symbol="INVALID_HEMO"/>
+        <entry field="true" id="86" symbol="ALIGN_BOTTOM_RIGHT"/>
+        <entry id="68" method="true" symbol="parseTimeSet"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="88" symbol="ALIGN_TOP_RIGHT"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="34" symbol="sessionName"/>
+        <entry id="58" object="true" symbol="MuscleOxygenDataPage"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="38" symbol="graphArray"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry field="true" id="87" symbol="ALIGN_BOTTOM_LEFT"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="19" object="true" symbol="MO2Delegate"/>
+        <entry field="true" id="35" symbol="fitChartLabel"/>
+        <entry field="true" id="8388889" symbol="mIndex"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="28" module="true" symbol="Layouts"/>
+        <entry field="true" id="83" symbol="previousHemoPercent"/>
+        <entry field="true" id="79" symbol="utcTimeSet"/>
+        <entry field="true" id="20" symbol="mSensor"/>
+        <entry field="true" id="90" symbol="mSelectedColor"/>
+        <entry field="true" id="25" symbol="mTotalGraph"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="52" symbol="fitField"/>
+        <entry id="13" object="true" symbol="GraphView"/>
+        <entry id="21" method="true" symbol="getView"/>
+        <entry id="71" method="true" symbol="parseTotalHemo"/>
+        <entry id="70" method="true" symbol="parseMeasureInterval"/>
+        <entry field="true" id="53" symbol="session"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry field="true" id="85" symbol="CMD_SET_TIME"/>
+        <entry id="61" method="true" symbol="setTime"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="8389101" method="true" symbol="onSwipe"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435719" name="size" stackId="3" startPc="268435460"/>
+        <entry endPc="268435719" name="selected" stackId="4" startPc="268435460"/>
+        <entry endPc="268435719" name="notSelected" stackId="5" startPc="268435460"/>
+        <entry endPc="268435719" name="alignment" stackId="6" startPc="268435460"/>
+        <entry arg="true" endPc="268435720" name="index" stackId="2" startPc="268435456"/>
+        <entry arg="true" endPc="268435720" name="sensor" stackId="1" startPc="268435456"/>
+        <entry endPc="268436025" name="status" stackId="7" startPc="268435927"/>
+        <entry endPc="268436025" name="fWidth" stackId="8" startPc="268435927"/>
+        <entry endPc="268436160" name="status" stackId="10" startPc="268436028"/>
+        <entry endPc="268436160" name="deviceNumber" stackId="9" startPc="268436028"/>
+        <entry endPc="268436160" name="fWidth" stackId="11" startPc="268436028"/>
+        <entry endPc="268436188" name="textY" stackId="6" startPc="268435724"/>
+        <entry endPc="268436188" name="height" stackId="3" startPc="268435724"/>
+        <entry endPc="268436188" name="font" stackId="5" startPc="268435724"/>
+        <entry endPc="268436188" name="width" stackId="2" startPc="268435724"/>
+        <entry endPc="268436188" name="margin" stackId="4" startPc="268435724"/>
+        <entry arg="true" endPc="268436189" name="dc" stackId="1" startPc="268435720"/>
+        <entry arg="true" endPc="268436244" name="notSelectedColor" stackId="3" startPc="268436189"/>
+        <entry arg="true" endPc="268436244" name="size" stackId="1" startPc="268436189"/>
+        <entry arg="true" endPc="268436244" name="margin" stackId="5" startPc="268436189"/>
+        <entry arg="true" endPc="268436244" name="alignment" stackId="4" startPc="268436189"/>
+        <entry arg="true" endPc="268436244" name="selectedColor" stackId="2" startPc="268436189"/>
+        <entry endPc="268436691" name="tempX" stackId="8" startPc="268436573"/>
+        <entry endPc="268436704" name="i" stackId="7" startPc="268436573"/>
+        <entry endPc="268436704" name="x" stackId="5" startPc="268436248"/>
+        <entry endPc="268436704" name="height" stackId="3" startPc="268436248"/>
+        <entry endPc="268436704" name="width" stackId="4" startPc="268436248"/>
+        <entry endPc="268436704" name="y" stackId="6" startPc="268436248"/>
+        <entry arg="true" endPc="268436705" name="selectedIndex" stackId="2" startPc="268436244"/>
+        <entry arg="true" endPc="268436705" name="dc" stackId="1" startPc="268436244"/>
+        <entry endPc="268437044" name="size" stackId="3" startPc="268436712"/>
+        <entry endPc="268437044" name="selected" stackId="4" startPc="268436712"/>
+        <entry endPc="268437044" name="notSelected" stackId="5" startPc="268436712"/>
+        <entry endPc="268437044" name="alignment" stackId="6" startPc="268436712"/>
+        <entry arg="true" endPc="268437045" name="index" stackId="2" startPc="268436708"/>
+        <entry arg="true" endPc="268437045" name="sensor" stackId="1" startPc="268436708"/>
+        <entry endPc="268438396" name="numberXPos" stackId="7" startPc="268437242"/>
+        <entry endPc="268438396" name="font" stackId="5" startPc="268437242"/>
+        <entry endPc="268438396" name="totalString" stackId="4" startPc="268437242"/>
+        <entry endPc="268438396" name="fWidth" stackId="6" startPc="268437242"/>
+        <entry endPc="268439600" name="numberXPos" stackId="13" startPc="268438424"/>
+        <entry endPc="268439600" name="numberFHeight" stackId="11" startPc="268438424"/>
+        <entry endPc="268439600" name="fHeight" stackId="14" startPc="268438424"/>
+        <entry endPc="268439600" name="font" stackId="9" startPc="268438424"/>
+        <entry endPc="268439600" name="currentString" stackId="8" startPc="268438424"/>
+        <entry endPc="268439600" name="numberYPos" stackId="12" startPc="268438424"/>
+        <entry endPc="268439600" name="fWidth" stackId="10" startPc="268438424"/>
+        <entry endPc="268439631" name="height" stackId="3" startPc="268437049"/>
+        <entry endPc="268439631" name="width" stackId="2" startPc="268437049"/>
+        <entry arg="true" endPc="268439632" name="dc" stackId="1" startPc="268437045"/>
+        <entry endPc="268439745" name="i" stackId="4" startPc="268439636"/>
+        <entry arg="true" endPc="268439746" name="dc" stackId="1" startPc="268439632"/>
+        <entry arg="true" endPc="268439746" name="string" stackId="2" startPc="268439632"/>
+        <entry arg="true" endPc="268439746" name="width" stackId="3" startPc="268439632"/>
+        <entry arg="true" endPc="268439862" name="color" stackId="3" startPc="268439746"/>
+        <entry arg="true" endPc="268439862" name="minRange" stackId="2" startPc="268439746"/>
+        <entry arg="true" endPc="268439862" name="size" stackId="1" startPc="268439746"/>
+        <entry arg="true" endPc="268439877" name="color" stackId="1" startPc="268439862"/>
+        <entry arg="true" endPc="268439892" name="minRange" stackId="1" startPc="268439877"/>
+        <entry endPc="268440347" name="min" stackId="5" startPc="268440239"/>
+        <entry endPc="268440347" name="i" stackId="4" startPc="268440239"/>
+        <entry endPc="268440463" name="max" stackId="7" startPc="268440355"/>
+        <entry endPc="268440463" name="i" stackId="6" startPc="268440355"/>
+        <entry endPc="268440469" name="updateMax" stackId="3" startPc="268439896"/>
+        <entry endPc="268440469" name="updateMin" stackId="2" startPc="268439896"/>
+        <entry arg="true" endPc="268440470" name="value" stackId="1" startPc="268439892"/>
+        <entry endPc="268441260" name="drawExtentsY" stackId="11" startPc="268440474"/>
+        <entry endPc="268441260" name="drawExtentsX" stackId="10" startPc="268440474"/>
+        <entry endPc="268441260" name="draw_idx" stackId="13" startPc="268440474"/>
+        <entry endPc="268441260" name="min" stackId="4" startPc="268440474"/>
+        <entry endPc="268441260" name="i" stackId="12" startPc="268440474"/>
+        <entry endPc="268441260" name="prev_y" stackId="8" startPc="268440474"/>
+        <entry endPc="268441260" name="range" stackId="5" startPc="268440474"/>
+        <entry endPc="268441260" name="prev_x" stackId="9" startPc="268440474"/>
+        <entry endPc="268441260" name="string" stackId="14" startPc="268440474"/>
+        <entry endPc="268441260" name="y" stackId="6" startPc="268440474"/>
+        <entry endPc="268441260" name="x" stackId="7" startPc="268440474"/>
+        <entry arg="true" endPc="268441261" name="dc" stackId="1" startPc="268440470"/>
+        <entry arg="true" endPc="268441261" name="bottomRight" stackId="3" startPc="268440470"/>
+        <entry arg="true" endPc="268441261" name="topLeft" stackId="2" startPc="268440470"/>
+        <entry endPc="268441479" name="size" stackId="3" startPc="268441265"/>
+        <entry endPc="268441479" name="selected" stackId="4" startPc="268441265"/>
+        <entry endPc="268441479" name="notSelected" stackId="5" startPc="268441265"/>
+        <entry endPc="268441479" name="alignment" stackId="6" startPc="268441265"/>
+        <entry arg="true" endPc="268441480" name="index" stackId="2" startPc="268441261"/>
+        <entry arg="true" endPc="268441480" name="sensor" stackId="1" startPc="268441261"/>
+        <entry endPc="268443060" name="height" stackId="3" startPc="268441484"/>
+        <entry endPc="268443060" name="font" stackId="9" startPc="268441484"/>
+        <entry endPc="268443060" name="marginMid" stackId="5" startPc="268441484"/>
+        <entry endPc="268443060" name="width" stackId="2" startPc="268441484"/>
+        <entry endPc="268443060" name="marginLeft" stackId="6" startPc="268441484"/>
+        <entry endPc="268443060" name="marginTop" stackId="4" startPc="268441484"/>
+        <entry endPc="268443060" name="text" stackId="8" startPc="268441484"/>
+        <entry endPc="268443060" name="fWidth" stackId="7" startPc="268441484"/>
+        <entry arg="true" endPc="268443061" name="dc" stackId="1" startPc="268441480"/>
+        <entry arg="true" endPc="268443303" name="data" stackId="2" startPc="268443151"/>
+        <entry arg="true" endPc="268443303" name="payload" stackId="1" startPc="268443151"/>
+        <entry arg="true" endPc="268443317" name="payload" stackId="1" startPc="268443303"/>
+        <entry arg="true" endPc="268443348" name="payload" stackId="1" startPc="268443317"/>
+        <entry arg="true" endPc="268443379" name="payload" stackId="1" startPc="268443348"/>
+        <entry endPc="268443506" name="result" stackId="3" startPc="268443383"/>
+        <entry endPc="268443506" name="interval" stackId="2" startPc="268443383"/>
+        <entry arg="true" endPc="268443507" name="payload" stackId="1" startPc="268443379"/>
+        <entry arg="true" endPc="268443549" name="payload" stackId="1" startPc="268443507"/>
+        <entry arg="true" endPc="268443598" name="payload" stackId="1" startPc="268443549"/>
+        <entry arg="true" endPc="268443641" name="payload" stackId="1" startPc="268443598"/>
+        <entry arg="true" endPc="268443649" name="payload" stackId="1" startPc="268443644"/>
+        <entry endPc="268444555" name="i" stackId="3" startPc="268444510"/>
+        <entry endPc="268444617" name="message" stackId="4" startPc="268444415"/>
+        <entry endPc="268444617" name="moment" stackId="2" startPc="268444415"/>
+        <entry endPc="268444617" name="payload" stackId="1" startPc="268444415"/>
+        <entry endPc="268444945" name="dp" stackId="3" startPc="268444703"/>
+        <entry endPc="268445115" name="payload" stackId="2" startPc="268444625"/>
+        <entry arg="true" endPc="268445116" name="msg" stackId="1" startPc="268444621"/>
+        <entry endPc="268445274" name="size" stackId="3" startPc="268445120"/>
+        <entry endPc="268445274" name="selected" stackId="4" startPc="268445120"/>
+        <entry endPc="268445274" name="notSelected" stackId="5" startPc="268445120"/>
+        <entry endPc="268445274" name="alignment" stackId="6" startPc="268445120"/>
+        <entry arg="true" endPc="268445275" name="index" stackId="2" startPc="268445116"/>
+        <entry arg="true" endPc="268445275" name="sensor" stackId="1" startPc="268445116"/>
+        <entry endPc="268446039" name="height" stackId="3" startPc="268445279"/>
+        <entry endPc="268446039" name="font" stackId="5" startPc="268445279"/>
+        <entry endPc="268446039" name="width" stackId="2" startPc="268445279"/>
+        <entry endPc="268446039" name="margin" stackId="4" startPc="268445279"/>
+        <entry endPc="268446039" name="text" stackId="6" startPc="268445279"/>
+        <entry endPc="268446039" name="fWidth" stackId="7" startPc="268445279"/>
+        <entry arg="true" endPc="268446040" name="dc" stackId="1" startPc="268445275"/>
+        <entry arg="true" endPc="268446120" name="state" stackId="1" startPc="268446067"/>
+        <entry arg="true" endPc="268446161" name="state" stackId="1" startPc="268446120"/>
+        <entry endPc="268446259" name="index" stackId="1" startPc="268446165"/>
+        <entry arg="true" endPc="268446307" name="index" stackId="2" startPc="268446260"/>
+        <entry arg="true" endPc="268446307" name="sensor" stackId="1" startPc="268446260"/>
+        <entry arg="true" endPc="268446643" name="evt" stackId="1" startPc="268446554"/>
+        <entry arg="true" endPc="268446686" name="evt" stackId="1" startPc="268446643"/>
+        <entry endPc="268446769" name="key" stackId="2" startPc="268446690"/>
+        <entry arg="true" endPc="268446770" name="evt" stackId="1" startPc="268446686"/>
+        <entry endPc="268446955" name="view" stackId="2" startPc="268446774"/>
+        <entry arg="true" endPc="268446956" name="mIndex" stackId="1" startPc="268446770"/>
+        <entry endPc="268446997" name="delegate" stackId="2" startPc="268446960"/>
+        <entry arg="true" endPc="268446998" name="mIndex" stackId="1" startPc="268446956"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="222" parentId="globals" symbolId="MO2Delegate" type="class"/>
+        <dataEntry offset="341" parentId="globals" symbolId="GraphView" type="class"/>
+        <dataEntry offset="452" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="531" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="578" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="609" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="640" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="671" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="702" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="781" parentId="globals" symbolId="LineGraph" type="class"/>
+        <dataEntry offset="900" parentId="globals" symbolId="CommandView" type="class"/>
+        <dataEntry offset="987" parentId="globals" symbolId="DataView" type="class"/>
+        <dataEntry offset="1090" parentId="globals" symbolId="MainView" type="class"/>
+        <dataEntry offset="1185" parentId="globals" symbolId="MO2DisplayApp" type="class"/>
+        <dataEntry offset="1264" parentId="globals" symbolId="MO2Sensor" type="class"/>
+        <dataEntry offset="1471" parentId="MO2Sensor" symbolId="MuscleOxygenDataPage" type="class"/>
+        <dataEntry offset="1677" parentId="MO2Sensor" symbolId="MO2Data" type="class"/>
+        <dataEntry offset="1780" parentId="MO2Sensor" symbolId="CommandDataPage" type="class"/>
+        <dataEntry offset="1882" parentId="globals" symbolId="PageIndicator" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="MainView">
+            <param id="sensor"/>
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MainView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setup" parent="PageIndicator">
+            <param id="size"/>
+            <param id="selectedColor"/>
+            <param id="notSelectedColor"/>
+            <param id="alignment"/>
+            <param id="margin"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="PageIndicator">
+            <param id="dc"/>
+            <param id="selectedIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="GraphView">
+            <param id="sensor"/>
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="GraphView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pickFont" parent="GraphView">
+            <param id="dc"/>
+            <param id="string"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="LineGraph">
+            <param id="size"/>
+            <param id="minRange"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="LineGraph">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setMinRange" parent="LineGraph">
+            <param id="minRange"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addItem" parent="LineGraph">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="LineGraph">
+            <param id="dc"/>
+            <param id="topLeft"/>
+            <param id="bottomRight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataView">
+            <param id="sensor"/>
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DataView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MO2Data">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="parse" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseEventCount" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseTimeSet" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseSupportAntfs" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseMeasureInterval" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseTotalHemo" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parsePrevHemo" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="parseCurrentHemo" parent="MuscleOxygenDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTime" parent="CommandDataPage">
+            <param id="payload"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MO2Sensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="open" parent="MO2Sensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="closeSensor" parent="MO2Sensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTime" parent="MO2Sensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMessage" parent="MO2Sensor">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CommandView">
+            <param id="sensor"/>
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CommandView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MO2DisplayApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="MO2DisplayApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="MO2DisplayApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="MO2DisplayApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MO2Delegate">
+            <param id="sensor"/>
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="MO2Delegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="MO2Delegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSwipe" parent="MO2Delegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="MO2Delegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="MO2Delegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getView" parent="MO2Delegate">
+            <param id="mIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDelegate" parent="MO2Delegate">
+            <param id="mIndex"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

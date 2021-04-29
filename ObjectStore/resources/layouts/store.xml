@@ -1,0 +1,10 @@
+<layout id="StoreLayout" background="Graphics.COLOR_BLACK">
+    <label id="HeaderLabel" x="3" y="1" text="RunTime Properties" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="FooterLabel" x="3" y="125" text="Tap to change, hold to clear" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="IntLabel" x="3" y="20" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="FloatLabel" x="3" y="37" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="StringLabel" x="3" y="54" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="BoolLabel" x="3" y="71" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="ArrayLabel" x="3" y="88" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="DictLabel" x="3" y="105" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+</layout>

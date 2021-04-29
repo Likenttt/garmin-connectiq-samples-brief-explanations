@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">GenericChannelBurst</string>
+
+    <string id="rxFail">Rx Fail</string>
+    <string id="rxSuccess">Rx Success</string>
+    <string id="title">Press Menu To Send Burst</string>
+    <string id="txFail">Tx Fail</string>
+    <string id="txSuccess">Tx Success</string>
+</strings>

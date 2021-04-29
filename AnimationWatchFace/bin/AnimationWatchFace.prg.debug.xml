@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="8" lineNum="12" pc="268435531" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="8" lineNum="13" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="8" lineNum="14" pc="268435545" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="17" pc="268435568" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="19" pc="268435572" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="20" pc="268435590" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="21" pc="268435626" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="22" pc="268435662" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="23" pc="268435683" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="24" pc="268435701" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="9" lineNum="27" pc="268435725" symbol="onAnimationEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="11" lineNum="54" pc="268435747" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="11" lineNum="55" pc="268435751" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="59" pc="268435770" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="60" pc="268435774" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="62" pc="268435811" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="63" pc="268435847" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="65" pc="268435859" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="66" pc="268435876" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="67" pc="268435913" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="68" pc="268435938" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="69" pc="268435975" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="71" pc="268436000" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="72" pc="268436010" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="74" pc="268436026" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="75" pc="268436036" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="77" pc="268436040" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="85" pc="268436121" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="86" pc="268436149" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="87" pc="268436162" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="88" pc="268436178" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="91" pc="268436206" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="99" pc="268436287" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="102" pc="268436310" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="103" pc="268436365" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="108" pc="268436493" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="111" pc="268436548" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="112" pc="268436568" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="12" lineNum="113" pc="268436588" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="13" lineNum="119" pc="268436609" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="13" lineNum="120" pc="268436613" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="13" lineNum="122" pc="268436626" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="125" pc="268436639" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="127" pc="268436643" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="128" pc="268436666" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="129" pc="268436686" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="132" pc="268436745" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="136" pc="268436765" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="137" pc="268436785" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="141" pc="268436825" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="142" pc="268436862" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="143" pc="268436899" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="144" pc="268436918" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="145" pc="268436979" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="147" pc="268437040" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="149" pc="268437062" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="14" lineNum="151" pc="268437118" symbol="play"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="15" lineNum="154" pc="268437138" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="15" lineNum="156" pc="268437142" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="16" lineNum="159" pc="268437157" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="16" lineNum="161" pc="268437161" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="164" pc="268437176" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="165" pc="268437180" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="166" pc="268437193" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="168" pc="268437197" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="169" pc="268437216" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="171" pc="268437223" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="175" pc="268437227" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="176" pc="268437244" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="177" pc="268437318" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="179" pc="268437376" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="181" pc="268437381" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="184" pc="268437396" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="193" pc="268437464" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="194" pc="268437500" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="197" pc="268437512" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="199" pc="268437517" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="17" lineNum="201" pc="268437570" symbol="updateWatchOverlay"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="18" lineNum="204" pc="268437621" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="18" lineNum="206" pc="268437625" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="19" lineNum="209" pc="268437644" symbol="onExitSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="19" lineNum="211" pc="268437648" symbol="onExitSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="19" lineNum="212" pc="268437661" symbol="onExitSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="20" lineNum="215" pc="268437674" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="20" lineNum="218" pc="268437678" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="20" lineNum="220" pc="268437691" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="20" lineNum="42" pc="268438128" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/AnimationWatchFace/source/AnimationWatchFaceView.mc" id="20" lineNum="43" pc="268438148" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="17" pc="268437715" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="19" pc="268437727" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="21" pc="268437740" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="22" pc="268437876" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="24" pc="268438012" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8391281" object="true" symbol="AnimationDelegate"/>
+        <entry id="9" object="true" symbol="AnimationWatchFaceApp"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="8391333" symbol="delegate"/>
+        <entry field="true" id="22" symbol="drawLayerArea"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="30" symbol="minorTextOffsetY"/>
+        <entry field="true" id="29" symbol="minorTextOffsetX"/>
+        <entry id="10" object="true" symbol="AnimationWatchFaceView"/>
+        <entry field="true" id="16" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="15" symbol="transparentmonkey"/>
+        <entry field="true" id="31" symbol="rand_base"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="26" symbol="gap"/>
+        <entry field="true" id="28" symbol="majorTextOffsetY"/>
+        <entry field="true" id="27" symbol="majorTextOffsetX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8391298" method="true" symbol="play"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="24" symbol="majorFont"/>
+        <entry field="true" id="20" symbol="foregroundAnimationLayer"/>
+        <entry id="8391314" method="true" symbol="onAnimationEvent"/>
+        <entry field="true" id="18" symbol="playCount"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="32" method="true" symbol="updateWatchOverlay"/>
+        <entry field="true" id="19" symbol="backgroundAnimationLayer"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="14" symbol="backgroundmonkey"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="25" symbol="minorFont"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="17" symbol="view"/>
+        <entry field="true" id="21" symbol="drawLayer"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="23" symbol="partialUpdateClip"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435568" name="v" stackId="1" startPc="268435531"/>
+        <entry arg="true" endPc="268435747" name="options" stackId="2" startPc="268435568"/>
+        <entry arg="true" endPc="268435747" name="event" stackId="1" startPc="268435568"/>
+        <entry endPc="268436608" name="partialUpdateHeight" stackId="10" startPc="268435774"/>
+        <entry endPc="268436608" name="majorFontHeight" stackId="4" startPc="268435774"/>
+        <entry endPc="268436608" name="settings" stackId="2" startPc="268435774"/>
+        <entry endPc="268436608" name="drawLayerHeight" stackId="8" startPc="268435774"/>
+        <entry endPc="268436608" name="partialUpdateWidth" stackId="9" startPc="268435774"/>
+        <entry endPc="268436608" name="drawLayerWidth" stackId="7" startPc="268435774"/>
+        <entry endPc="268436608" name="majorFontWidth" stackId="3" startPc="268435774"/>
+        <entry endPc="268436608" name="minorFontWidth" stackId="5" startPc="268435774"/>
+        <entry endPc="268436608" name="minorFontHeight" stackId="6" startPc="268435774"/>
+        <entry arg="true" endPc="268436609" name="dc" stackId="1" startPc="268435770"/>
+        <entry endPc="268437118" name="x" stackId="4" startPc="268436745"/>
+        <entry endPc="268437118" name="deltaPercY" stackId="2" startPc="268436745"/>
+        <entry endPc="268437118" name="deltaPercX" stackId="1" startPc="268436745"/>
+        <entry endPc="268437118" name="animatinRez" stackId="3" startPc="268436745"/>
+        <entry endPc="268437118" name="y" stackId="5" startPc="268436745"/>
+        <entry arg="true" endPc="268437157" name="dc" stackId="1" startPc="268437138"/>
+        <entry arg="true" endPc="268437176" name="dc" stackId="1" startPc="268437157"/>
+        <entry endPc="268437620" name="secString" stackId="5" startPc="268437180"/>
+        <entry endPc="268437620" name="hourMinString" stackId="4" startPc="268437180"/>
+        <entry endPc="268437620" name="clockTime" stackId="3" startPc="268437180"/>
+        <entry endPc="268437620" name="drawLayerDc" stackId="2" startPc="268437180"/>
+        <entry arg="true" endPc="268437621" name="isFullUpdate" stackId="1" startPc="268437176"/>
+        <entry endPc="268438039" name="rez_cmp_local_text_TimeLabelHourMin" stackId="3" startPc="268437727"/>
+        <entry endPc="268438039" name="rez_cmp_local_text_TimelabelSecond" stackId="4" startPc="268437727"/>
+        <entry endPc="268438039" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437727"/>
+        <entry arg="true" endPc="268438040" name="dc" stackId="1" startPc="268437715"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="292" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="323" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="354" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="393" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="424" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="463" parentId="globals" symbolId="AnimationDelegate" type="class"/>
+        <dataEntry offset="526" parentId="globals" symbolId="AnimationWatchFaceView" type="class"/>
+        <dataEntry offset="757" parentId="globals" symbolId="AnimationWatchFaceApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AnimationWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AnimationWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AnimationWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AnimationWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnimationDelegate">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAnimationEvent" parent="AnimationDelegate">
+            <param id="event"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AnimationWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="play" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnimationWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="AnimationWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateWatchOverlay" parent="AnimationWatchFaceView">
+            <param id="isFullUpdate"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="AnimationWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

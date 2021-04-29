@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">Attention</string>
+    <string id="menu_item_1">Item 1</string>
+    <string id="menu_item_2">Item 2</string>
+</resources>

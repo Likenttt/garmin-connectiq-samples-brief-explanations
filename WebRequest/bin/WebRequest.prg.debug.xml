@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="4" lineNum="17" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="5" lineNum="21" pc="268435488" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="6" lineNum="25" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="6" lineNum="26" pc="268435497" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestApp.mc" id="6" lineNum="27" pc="268435527" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="8" lineNum="14" pc="268435603" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="8" lineNum="15" pc="268435607" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="8" lineNum="16" pc="268435619" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="9" lineNum="19" pc="268435623" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="9" lineNum="20" pc="268435627" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="9" lineNum="21" pc="268435639" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="10" lineNum="24" pc="268435643" symbol="makeRequest"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="10" lineNum="25" pc="268435647" symbol="makeRequest"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="10" lineNum="27" pc="268435670" symbol="makeRequest"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="10" lineNum="30" pc="268435678" symbol="makeRequest"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="10" lineNum="37" pc="268435740" symbol="makeRequest"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="11" lineNum="46" pc="268435782" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="11" lineNum="47" pc="268435786" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="11" lineNum="48" pc="268435808" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="12" lineNum="52" pc="268435819" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="12" lineNum="53" pc="268435823" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="12" lineNum="54" pc="268435834" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestDelegate.mc" id="12" lineNum="56" pc="268435857" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="14" lineNum="14" pc="268435893" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="14" lineNum="15" pc="268435897" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="15" lineNum="19" pc="268435920" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="15" lineNum="20" pc="268435924" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="16" lineNum="24" pc="268435938" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="17" lineNum="28" pc="268435943" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="17" lineNum="29" pc="268435947" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="17" lineNum="30" pc="268435983" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="17" lineNum="31" pc="268435995" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="18" lineNum="36" pc="268436087" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="39" pc="268436092" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="40" pc="268436096" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="41" pc="268436116" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="43" pc="268436129" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="45" pc="268436143" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="46" pc="268436156" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="47" pc="268436169" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="48" pc="268436193" symbol="onReceive"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/WebRequest/source/WebRequestView.mc" id="19" lineNum="51" pc="268436280" symbol="onReceive"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="12" symbol="mView"/>
+        <entry field="true" id="16" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="11" object="true" symbol="WebRequestView"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="10" object="true" symbol="WebRequestDelegate"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="9" object="true" symbol="WebRequestApp"/>
+        <entry id="18" method="true" symbol="makeRequest"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry field="true" id="20" symbol="mModel"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="19" method="true" symbol="onReceive"/>
+        <entry field="true" id="17" symbol="notify"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389115" symbol="mMessage"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435483"/>
+        <entry arg="true" endPc="268435493" name="state" stackId="1" startPc="268435488"/>
+        <entry endPc="268435781" name="options" stackId="2" startPc="268435647"/>
+        <entry endPc="268435781" name="params" stackId="1" startPc="268435647"/>
+        <entry arg="true" endPc="268435819" name="handler" stackId="1" startPc="268435782"/>
+        <entry arg="true" endPc="268435893" name="responseCode" stackId="1" startPc="268435819"/>
+        <entry arg="true" endPc="268435893" name="data" stackId="2" startPc="268435819"/>
+        <entry arg="true" endPc="268435938" name="dc" stackId="1" startPc="268435920"/>
+        <entry arg="true" endPc="268436087" name="dc" stackId="1" startPc="268435943"/>
+        <entry endPc="268436277" name="i" stackId="3" startPc="268436193"/>
+        <entry endPc="268436277" name="keys" stackId="2" startPc="268436143"/>
+        <entry arg="true" endPc="268436297" name="args" stackId="1" startPc="268436092"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="WebRequestApp" type="class"/>
+        <dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="417" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="518" parentId="globals" symbolId="WebRequestDelegate" type="class"/>
+        <dataEntry offset="605" parentId="globals" symbolId="WebRequestView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="WebRequestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="WebRequestApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="WebRequestApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeRequest" parent="WebRequestDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestDelegate">
+            <param id="handler"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="WebRequestDelegate">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="WebRequestView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="WebRequestView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="WebRequestView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="WebRequestView">
+            <param id="args"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

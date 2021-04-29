@@ -1,0 +1,4 @@
+<layout id="mainLayout" background="Graphics.COLOR_BLACK">
+    <label id="InfoLabel" x="center" y="(dc.getHeight() / 2) - 2 * Graphics.getFontHeight(Graphics.FONT_XTINY)" text="@Strings.TestInfo" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="ResultLabel" x="center" y="(dc.getHeight() / 2) + Graphics.getFontHeight( Graphics.FONT_XTINY)" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

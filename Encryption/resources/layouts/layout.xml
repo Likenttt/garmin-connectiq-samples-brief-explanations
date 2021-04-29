@@ -1,0 +1,11 @@
+<resources>
+    <layout id="MainLayout">
+        <label  x="center" y="center" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="Press Start\nTo Begin"/>
+    </layout>
+    <layout id="AntView">
+        <label id="antChannelType" x="center" y="30" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.Slave"/>
+        <label id="status" x="center" y="60" font="Graphics.FONT_TINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.Searching"/>
+        <label id="data" x="center" y="90" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.Uninitialized"/>
+        <label id="instruct" x="center" y="120" font="Graphics.FONT_XTINY" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.Instruction"/>
+    </layout>
+</resources>

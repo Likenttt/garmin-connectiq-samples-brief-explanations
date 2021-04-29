@@ -1,0 +1,6 @@
+<resources>
+    <drawable-list id="arrow" foreground="Graphics.COLOR_WHITE">
+        <shape type="polygon" points="[[118, 120],[148, 120], [133, 140]]" color="Graphics.COLOR_WHITE"/>
+    </drawable-list>
+    <!-- 这是在画一个三角形 -->
+</resources>

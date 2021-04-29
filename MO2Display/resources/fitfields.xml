@@ -1,0 +1,7 @@
+<resources>
+    <fitContributions>
+        <fitField id="0" displayInChart="true" sortOrder = "0" precision="2"
+                  chartTitle="@Strings.fitChartLabel" dataLabel="@Strings.fitDataLabel"
+                  unitLabel="@Strings.fitUnitsLabel" fillColor="#00FF00" />
+    </fitContributions>
+</resources>

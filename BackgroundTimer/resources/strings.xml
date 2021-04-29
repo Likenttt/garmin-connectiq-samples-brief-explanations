@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">Background Timer</string>
+
+    <string id="TimerExpired" scope="background">Your timer has expired!</string>
+</resources>

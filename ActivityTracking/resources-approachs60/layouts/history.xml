@@ -1,0 +1,6 @@
+<layout id="HistoryLayout" background="Graphics.COLOR_BLACK">
+    <label id="TitleLabel" x="center" y="5" text="@Strings.HistoryTitle" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DayLabel" x="5" y="Graphics.getFontHeight(Graphics.FONT_MEDIUM)" text="@Strings.DayHeader" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="StepsLabel" x="center" y="Graphics.getFontHeight(Graphics.FONT_MEDIUM)" text="@Strings.StepsHeader" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="FloorsLabel" x="dc.getWidth()" y="Graphics.getFontHeight(Graphics.FONT_MEDIUM)" text="@Strings.FloorsHeader" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_RIGHT" />
+</layout>

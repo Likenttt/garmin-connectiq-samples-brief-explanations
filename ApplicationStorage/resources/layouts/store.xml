@@ -1,0 +1,15 @@
+<layout id="StoreLayout" background="Graphics.COLOR_BLACK">
+    <label x="center" y="1" text="RunTime Properties" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+
+    <label id="IntLabel" x="center" y="20" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="LongLabel" x="center" y="37" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="FloatLabel" x="center" y="54" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DoubleLabel" x="center" y="71" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="StringLabel" x="center" y="88" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="BoolLabel" x="center" y="105" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="ArrayLabel" x="center" y="122" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DictLabel" x="3" y="139" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+
+    <label x="center" y="156" text="Enter or Tap to change" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+    <label x="center" y="173" text="Menu or Hold to clear" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+</layout>

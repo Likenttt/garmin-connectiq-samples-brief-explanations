@@ -1,0 +1,7 @@
+<resources>
+    <layout id="MainLayout">
+        <label x="center" y="10" text="@Strings.AppName" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_BLUE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <label x="center" y="40" text="@Strings.HomeTitle" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <label x="center" y="center" text="@Strings.Prompt" font="Graphics.FONT_SMALL" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    </layout>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">ProgressBar</string>
+    <string id="MenuProgressBarLabel">Progress Bar</string>
+    <string id="MenuTransparentProgressBarLabel">Transparent Spinner</string>
+</resources>

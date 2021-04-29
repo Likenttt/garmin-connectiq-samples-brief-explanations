@@ -1,0 +1,16 @@
+<layout id="ButtonLayout">
+    <button x="center" y="40" width="50" height="50" background="Graphics.COLOR_BLACK" behavior="onBack">
+        <state id="stateDefault" bitmap="@Drawables.DefaultBackButton" />
+        <state id="stateHighlighted" bitmap="@Drawables.PressedBackButton" />
+        <state id="stateSelected" bitmap="@Drawables.PressedBackButton" />
+        <state id="stateDisabled" color="Graphics.COLOR_BLACK" />
+    </button>
+    <button x="center" y="110" width="50" height="50">
+        <state id="stateDefault" bitmap="@Drawables.DefaultMenuButton" />
+        <state id="stateHighlighted" bitmap="@Drawables.PressedMenuButton" />
+        <state id="stateSelected" bitmap="@Drawables.PressedMenuButton" />
+        <state id="stateDisabled" color="Graphics.COLOR_BLACK" />
+        <param name="background">Graphics.COLOR_BLACK</param>
+        <param name="behavior">onMenu</param>
+    </button>
+</layout>

@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">Round language</string>
+    <string id="greeting">Round greeting</string>
+    <string id="food">Pizza</string>
+    <string id="drink">Soda</string>
+</resources>

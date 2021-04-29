@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">French</string>
+    <string id="greeting">bonjour</string>
+    <string id="food">les oeufs</string>
+    <string id="drink">le lait</string>
+</resources>

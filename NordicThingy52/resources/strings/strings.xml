@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">Nordic Thingy</string>
+    <string id="menu_label_1">Start Scanning</string>
+    <string id="menu_label_2">Stop Scanning</string>
+</strings>

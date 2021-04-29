@@ -1,0 +1,4 @@
+<menu id="MainMenu">
+    <menu-item id="slave">@Strings.Slave</menu-item>
+    <menu-item id="master">@Strings.Master</menu-item>
+</menu>
