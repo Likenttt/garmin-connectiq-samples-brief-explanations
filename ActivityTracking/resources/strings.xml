@@ -1,0 +1,7 @@
+<resources>
+    <string id="AppName">ActivityTracking</string>
+    <string id="HistoryTitle">Act History</string>
+    <string id="DayHeader">Day</string>
+    <string id="FloorsHeader">Floors</string>
+    <string id="StepsHeader">Steps / Goal</string>
+</resources>

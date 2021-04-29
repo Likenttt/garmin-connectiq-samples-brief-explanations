@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="4" lineNum="21" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="4" lineNum="22" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="5" lineNum="26" pc="268435528" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="5" lineNum="27" pc="268435532" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="5" lineNum="28" pc="268435550" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="6" lineNum="31" pc="268435595" symbol="onPosition"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="7" lineNum="35" pc="268435600" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="7" lineNum="36" pc="268435604" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleApp.mc" id="7" lineNum="37" pc="268435634" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="9" lineNum="18" pc="268435688" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="9" lineNum="19" pc="268435692" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="22" pc="268435711" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="23" pc="268435715" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="24" pc="268435732" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="25" pc="268435771" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="26" pc="268435833" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="27" pc="268435851" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="29" pc="268435870" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="30" pc="268435906" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="31" pc="268435924" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="32" pc="268435942" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="33" pc="268435951" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="10" lineNum="36" pc="268435973" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="12" lineNum="42" pc="268435977" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="12" lineNum="43" pc="268435981" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="47" pc="268436000" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="48" pc="268436004" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="49" pc="268436021" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="50" pc="268436057" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="51" pc="268436075" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="52" pc="268436093" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="13" lineNum="53" pc="268436102" symbol="stopRecording"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="14" lineNum="59" pc="268436125" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="15" lineNum="63" pc="268436130" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="16" lineNum="67" pc="268436135" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="71" pc="268436140" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="73" pc="268436144" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="74" pc="268436180" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="75" pc="268436192" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="76" pc="268436228" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="77" pc="268436272" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="78" pc="268436308" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="80" pc="268436393" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="82" pc="268436410" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="83" pc="268436449" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="84" pc="268436485" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="86" pc="268436576" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="87" pc="268436612" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="88" pc="268436631" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="89" pc="268436656" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="90" pc="268436692" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="91" pc="268436737" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="92" pc="268436765" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="93" pc="268436801" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="98" pc="268436852" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/RecordSample/source/RecordSampleView.mc" id="17" lineNum="99" pc="268436888" symbol="onUpdate"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="13" method="true" symbol="stopRecording"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry field="true" id="8388890" symbol="sport"/>
+        <entry id="15" method="true" symbol="onPosition"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="19" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="12" object="true" symbol="RecordSampleView"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="14" symbol="recordSampleView"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="10" symbol="session"/>
+        <entry id="9" object="true" symbol="RecordSampleApp"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="11" object="true" symbol="BaseInputDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435528" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435595" name="state" stackId="1" startPc="268435528"/>
+        <entry arg="true" endPc="268435600" name="info" stackId="1" startPc="268435595"/>
+        <entry arg="true" endPc="268436130" name="dc" stackId="1" startPc="268436125"/>
+        <entry endPc="268436846" name="x" stackId="2" startPc="268436612"/>
+        <entry endPc="268436846" name="y" stackId="3" startPc="268436612"/>
+        <entry arg="true" endPc="268436977" name="dc" stackId="1" startPc="268436140"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="RecordSampleView" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="RecordSampleApp" type="class"/>
+        <dataEntry offset="340" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="621" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="RecordSampleApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="RecordSampleApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/> We need to enable the location events for now so that we make sure GPS<br/> is on.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="RecordSampleApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="RecordSampleApp">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="RecordSampleApp">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RecordSampleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="stopRecording" parent="RecordSampleView">
+            <documentation><![CDATA[<div class="description"> Stop the recording if necessary<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="RecordSampleView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="RecordSampleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="RecordSampleView">
+            <documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="RecordSampleView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+        </functionEntry>
+    </functions>
+</debugInfo>

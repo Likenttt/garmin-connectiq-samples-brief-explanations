@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">العربية</string>
+    <string id="greeting">مرحبا</string>
+    <string id="food">بيض</string>
+    <string id="drink">حليب</string>
+</resources>

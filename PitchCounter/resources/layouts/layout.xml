@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+    <label id="id_pitch_count" x="center" y="dc.getHeight() / 3" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" font="Graphics.FONT_MEDIUM" />
+    <label id="id_pitch_samples" x="center" y="dc.getHeight() / 2" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" font="Graphics.FONT_MEDIUM" />
+    <label id="id_pitch_period" x="center" y="dc.getHeight() * 2 / 3" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" font="Graphics.FONT_MEDIUM" />
+</layout>

@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">简体中文</string>
+    <string id="greeting">你好</string>
+    <string id="food">鸡蛋</string>
+    <string id="drink">鲜奶</string>
+</resources>

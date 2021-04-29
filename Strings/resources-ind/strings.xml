@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">Indonesia</string>
+    <string id="greeting">hai</string>
+    <string id="food">telur</string>
+    <string id="drink">susu</string>
+</resources>

@@ -1,0 +1,4 @@
+<menu id="ProgressBarMenu" title="">
+    <menu-item id="ProgressBar">@Strings.MenuProgressBarLabel</menu-item>
+    <menu-item id="TransparentProgressBar">@Strings.MenuTransparentProgressBarLabel</menu-item>
+</menu>

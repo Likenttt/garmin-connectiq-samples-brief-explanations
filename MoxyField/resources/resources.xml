@@ -1,0 +1,51 @@
+<resources>
+    <fitContributions>
+        <fitField id="0"
+        displayInChart="true"
+        sortOrder="0"
+        precision="2"
+        chartTitle="@Strings.hemoglobin_concentration_label"
+        dataLabel="@Strings.hemoglobin_concentration_label"
+        unitLabel="@Strings.hemoglobin_concentration_units"
+        fillColor="#FF0000" />
+
+        <fitField id="1"
+        displayInChart="false"
+        sortOrder = "1"
+        precision="2"
+        displayInActivityLaps="true"
+        dataLabel="@Strings.hemoglobin_concentration_label"
+        unitLabel="@Strings.hemoglobin_concentration_units" />
+
+        <fitField id="2"
+        displayInActivitySummary="true"
+        sortOrder = "2"
+        precision="2"
+        dataLabel="@Strings.hemoglobin_concentration_label"
+        unitLabel="@Strings.hemoglobin_concentration_units" />
+
+        <fitField id="3"
+        displayInChart="true"
+        sortOrder = "3"
+        precision="2"
+        chartTitle="@Strings.hemoglobin_percentage_label"
+        dataLabel="@Strings.hemoglobin_percentage_label"
+        unitLabel="@Strings.hemoglobin_percentage_units"
+        fillColor="#00FF00" />
+
+        <fitField id="4"
+        displayInChart="false"
+        sortOrder = "4"
+        precision="2"
+        displayInActivityLaps="true"
+        dataLabel="@Strings.hemoglobin_percentage_label"
+        unitLabel="@Strings.hemoglobin_percentage_units" />
+
+        <fitField id="5"
+        displayInActivitySummary="true"
+        sortOrder = "5"
+        precision="2"
+        dataLabel="@Strings.hemoglobin_percentage_label"
+        unitLabel="@Strings.hemoglobin_percentage_units" />
+    </fitContributions>
+</resources>

@@ -1,0 +1,13 @@
+<drawable-list id="train" background="Graphics.COLOR_TRANSPARENT">
+    <shape type="circle" x="78" y="260" radius="8" color="Graphics.COLOR_RED" />
+    <shape type="circle" x="60" y="260" radius="8" color="Graphics.COLOR_RED" />
+    <shape type="rectangle" x="51" y="237" width="76" height="20" color="Graphics.COLOR_YELLOW" />
+    <shape type="rectangle" width="45" height="6" x="55" y="240" corner_radius="3" color="Graphics.COLOR_ORANGE" />
+    <shape type="circle" x="105" y="258" radius="10" color="Graphics.COLOR_YELLOW" border_width="5" border_color="Graphics.COLOR_RED" />
+    <shape type="rectangle" x="58" y="257" width="55" height="6" color="Graphics.COLOR_PURPLE" corner_radius="2" />
+    <shape type="polygon" points="[ [   51,   237    ], [51,260],[39,    260 ] ]" color="Graphics.COLOR_RED" />
+    <shape type="rectangle" x="102" y="212" width="25" height="25" color="Graphics.COLOR_PURPLE" border_width="3" border_color="Graphics.COLOR_YELLOW" />
+    <shape type="rectangle" x="74" y="220" width="6" height="17" color="Graphics.COLOR_RED" />
+    <shape type="rectangle" x="72" y="216" width="10" height="4" color="Graphics.COLOR_PURPLE" />
+    <shape type="polygon" points="[[72,216],[75,213],[79,213],[82,216]]" color="Graphics.COLOR_YELLOW" />
+</drawable-list>

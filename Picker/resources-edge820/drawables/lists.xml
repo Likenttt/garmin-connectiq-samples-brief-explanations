@@ -1,0 +1,5 @@
+<resources>
+    <drawable-list id="arrow" foreground="Graphics.COLOR_WHITE">
+        <shape type="polygon" points="[[180, 220],[170, 200], [190, 200]]" color="Graphics.COLOR_WHITE"/>
+    </drawable-list>
+</resources>

@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Encryption</string>
+    <string id="Encrypted">Encrypted: </string>
+    <string id="Master">Master</string>
+    <string id="Searching">Searching...</string>
+    <string id="Slave">Slave</string>
+    <string id="Unencrypted">Unencrypted: </string>
+    <string id="Uninitialized"> ---- </string>
+    <string id="Instruction">Press Start to\n toggle encryption</string>
+</strings>

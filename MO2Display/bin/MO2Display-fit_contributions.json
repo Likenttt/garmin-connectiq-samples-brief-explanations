@@ -1,0 +1,1 @@
+{"datafields":[{"id":0,"chart-visible":true,"activity-visible":false,"lap-visible":false,"chart-title-key":"fitChartLabel","label-key":"fitDataLabel","unit-label-key":"fitUnitsLabel","sort-order":0,"precision":2,"fill-color":"rgba(0, 255, 0, 1.0)"}],"strings":{"default":{"fitChartLabel":"Muscle Oxygen","fitDataLabel":"Total Hemoglobin Concentration","fitUnitsLabel":"g/dl"}}}

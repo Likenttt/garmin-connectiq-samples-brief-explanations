@@ -1,0 +1,11 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="checkBoxDefault" filename="images/checkbox_default.png" dithering="none" />
+    <bitmap id="checkBoxSelected" filename="images/checkbox_selected.png" dithering="none" />
+    <bitmap id="checkBoxHighlighted" filename="images/checkbox_highlighted.png" dithering="none" />
+    <bitmap id="checkBoxHighlightedSelected" filename="images/checkbox_highlighted_selected.png" dithering="none" />
+    <bitmap id="DefaultBackButton" filename="/images/back_default.png" dithering="none" />
+    <bitmap id="PressedBackButton" filename="/images/back_pressed.png" dithering="none" />
+    <bitmap id="DefaultMenuButton" filename="/images/menu_default.png" dithering="none" />
+    <bitmap id="PressedMenuButton" filename="/images/menu_pressed.png" dithering="none" />
+</resources>

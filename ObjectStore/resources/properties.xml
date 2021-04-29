@@ -1,0 +1,34 @@
+<resources>
+
+    <properties>
+        <property id="number_prop" type="number">2</property>
+        <property id="float_prop" type="float">2.718282</property>
+        <property id="string_prop" type="string">Euler</property>
+        <property id="boolean_prop" type="boolean">false</property>
+    </properties>
+
+    <strings>
+       <string id="number_title">Number</string>
+       <string id="float_title">Float</string>
+       <string id="string_title">String</string>
+       <string id="boolean_title">Boolean</string>
+    </strings>
+
+    <settings>
+        <setting propertyKey="@Properties.number_prop" title="@Strings.number_title">
+            <settingConfig type="numeric" />
+        </setting>
+
+        <setting propertyKey="@Properties.float_prop" title="@Strings.float_title">
+            <settingConfig type="numeric" />
+        </setting>
+
+        <setting propertyKey="@Properties.string_prop" title="@Strings.string_title">
+            <settingConfig type="alphaNumeric" />
+        </setting>
+
+        <setting propertyKey="@Properties.boolean_prop" title="@Strings.boolean_title">
+            <settingConfig type="boolean" />
+        </setting>
+    </settings>
+</resources>

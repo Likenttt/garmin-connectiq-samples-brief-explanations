@@ -1,0 +1,14 @@
+<layout id="SettingsLayout" background="Graphics.COLOR_BLACK">
+    <label x="center" y="1" text="Default Properties" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+
+    <label id="IntLabel" x="center" y="20" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="LongLabel" x="center" y="37" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="FloatLabel" x="center" y="54" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DoubleLabel" x="center" y="71" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="StringLabel" x="center" y="88" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="BoolLabel" x="center" y="105" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+
+    <label x="center" y="122" text="Edit these via Express/GCM" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+    <label x="center" y="139" text="Default properties can't" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+    <label x="center" y="159" text="be cleared" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+</layout>

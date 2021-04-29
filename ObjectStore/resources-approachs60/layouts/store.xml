@@ -1,0 +1,10 @@
+<layout id="StoreLayout" background="Graphics.COLOR_BLACK">
+    <label id="HeaderLabel" x="center" y="15" text="RunTime\nProperties" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+    <label id="FooterLabel" x="center" y="180" text="Tap to change,\nhold to clear" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED" />
+    <label id="IntLabel" x="center" y="60" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="FloatLabel" x="center" y="80" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="StringLabel" x="center" y="100" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="BoolLabel" x="center" y="120" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="ArrayLabel" x="center" y="140" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="DictLabel" x="center" y="160" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

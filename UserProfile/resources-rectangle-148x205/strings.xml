@@ -1,0 +1,4 @@
+<resources>
+    <string id="RunningStepLengthPrefix">Run Step Length: </string>
+    <string id="WalkingStepLengthPrefix">Walk Step Length: </string>
+</resources>

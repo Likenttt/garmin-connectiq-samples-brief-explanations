@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="3" lineNum="15" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="3" lineNum="16" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="3" lineNum="17" pc="268435490" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="3" lineNum="18" pc="268435500" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="4" lineNum="22" pc="268435519" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="4" lineNum="23" pc="268435523" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="4" lineNum="24" pc="268435540" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="4" lineNum="26" pc="268435561" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="4" lineNum="28" pc="268435579" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="5" lineNum="32" pc="268435583" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="5" lineNum="33" pc="268435587" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="5" lineNum="34" pc="268435605" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="5" lineNum="35" pc="268435623" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntDelegate.mc" id="5" lineNum="36" pc="268435667" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="7" lineNum="20" pc="268435671" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="7" lineNum="22" pc="268435675" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="7" lineNum="25" pc="268435693" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="7" lineNum="27" pc="268435703" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="8" lineNum="31" pc="268435738" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="8" lineNum="32" pc="268435742" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="9" lineNum="36" pc="268435761" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="9" lineNum="37" pc="268435765" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="9" lineNum="39" pc="268435802" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="9" lineNum="40" pc="268435819" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="9" lineNum="42" pc="268435897" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="10" lineNum="46" pc="268435901" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="10" lineNum="47" pc="268435905" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="52" pc="268435950" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="53" pc="268435954" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="54" pc="268435954" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="55" pc="268435954" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="57" pc="268435974" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="58" pc="268436026" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="60" pc="268436104" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="62" pc="268436124" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="63" pc="268436176" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="66" pc="268436284" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="67" pc="268436336" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="70" pc="268436441" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="11" lineNum="73" pc="268436487" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="12" lineNum="77" pc="268436508" symbol="updateScreen"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntView.mc" id="12" lineNum="78" pc="268436512" symbol="updateScreen"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="14" lineNum="12" pc="268436529" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="14" lineNum="14" pc="268436533" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="15" lineNum="18" pc="268436552" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="15" lineNum="19" pc="268436556" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="16" lineNum="23" pc="268436594" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionView.mc" id="16" lineNum="25" pc="268436598" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="18" lineNum="12" pc="268436619" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="18" lineNum="13" pc="268436623" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="18" pc="268436642" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="19" pc="268436646" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="20" pc="268436646" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="22" pc="268436657" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="25" pc="268436692" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionMenuDelegate.mc" id="19" lineNum="28" pc="268436724" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="21" lineNum="12" pc="268436817" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="21" lineNum="14" pc="268436821" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="22" lineNum="18" pc="268436840" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="22" lineNum="19" pc="268436844" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="22" lineNum="20" pc="268436944" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="23" lineNum="24" pc="268436948" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="23" lineNum="25" pc="268436952" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionDelegate.mc" id="23" lineNum="26" pc="268437052" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="82" pc="268437056" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="85" pc="268437060" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="86" pc="268437103" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="87" pc="268437113" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="88" pc="268437126" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="91" pc="268437136" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="92" pc="268437136" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="93" pc="268437147" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="95" pc="268437157" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="102" pc="268437271" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="107" pc="268437356" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="109" pc="268437366" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="117" pc="268437502" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="123" pc="268437584" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="126" pc="268437626" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="132" pc="268437784" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="26" lineNum="135" pc="268437820" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="27" lineNum="140" pc="268437862" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="27" lineNum="141" pc="268437866" symbol="open"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="145" pc="268437885" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="146" pc="268437889" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="147" pc="268437889" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="148" pc="268437916" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="149" pc="268437942" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="151" pc="268437955" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="154" pc="268438008" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="156" pc="268438062" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="28" lineNum="158" pc="268438102" symbol="enableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="163" pc="268438144" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="164" pc="268438148" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="165" pc="268438148" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="166" pc="268438159" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="167" pc="268438177" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="170" pc="268438214" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="29" lineNum="172" pc="268438254" symbol="disableEncryption"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="178" pc="268438296" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="180" pc="268438300" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="181" pc="268438313" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="182" pc="268438345" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="183" pc="268438380" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="186" pc="268438574" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="187" pc="268438586" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="189" pc="268438589" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="190" pc="268438599" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="192" pc="268438602" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="193" pc="268438612" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="195" pc="268438615" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="196" pc="268438625" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="199" pc="268438628" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="200" pc="268438664" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="201" pc="268438683" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="202" pc="268438703" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="204" pc="268438719" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="205" pc="268438744" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="206" pc="268438758" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="207" pc="268438772" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="208" pc="268438792" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="211" pc="268438801" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="212" pc="268438833" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="213" pc="268438844" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="216" pc="268438857" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="30" lineNum="218" pc="268438871" symbol="onMessage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="31" lineNum="225" pc="268438891" symbol="updateData"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="31" lineNum="226" pc="268438895" symbol="updateData"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="31" lineNum="227" pc="268438924" symbol="updateData"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="31" lineNum="229" pc="268438968" symbol="updateData"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="234" pc="268438999" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="235" pc="268439003" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="236" pc="268439010" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="237" pc="268439034" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="238" pc="268439071" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="240" pc="268439093" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="243" pc="268439116" symbol="DecodeByteToASCII"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="31" pc="268440548" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="32" pc="268440809" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="39" pc="268441295" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/AntModule.mc" id="32" lineNum="50" pc="268444637" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionApp.mc" id="34" lineNum="12" pc="268439120" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionApp.mc" id="34" lineNum="13" pc="268439124" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionApp.mc" id="35" lineNum="17" pc="268439143" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Encryption/source/EncryptionApp.mc" id="35" lineNum="18" pc="268439147" symbol="getInitialView"/>
+        <entry filename="Rez" id="41" lineNum="15" pc="268439215" symbol="MainLayout"/>
+        <entry filename="Rez" id="41" lineNum="18" pc="268439227" symbol="MainLayout"/>
+        <entry filename="Rez" id="41" lineNum="20" pc="268439408" symbol="MainLayout"/>
+        <entry filename="Rez" id="42" lineNum="29" pc="268439426" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="31" pc="268439438" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="33" pc="268439451" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="34" pc="268439619" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="35" pc="268439787" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="36" pc="268439955" symbol="AntView"/>
+        <entry filename="Rez" id="42" lineNum="38" pc="268440123" symbol="AntView"/>
+        <entry filename="Rez" id="45" lineNum="51" pc="268440171" symbol="initialize"/>
+        <entry filename="Rez" id="45" lineNum="52" pc="268440175" symbol="initialize"/>
+        <entry filename="Rez" id="45" lineNum="53" pc="268440193" symbol="initialize"/>
+        <entry filename="Rez" id="45" lineNum="54" pc="268440249" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8390126" method="true" symbol="enableEncryption"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8390127" method="true" symbol="disableEncryption"/>
+        <entry id="12" object="true" symbol="EncryptionView"/>
+        <entry field="true" id="8389246" symbol="transmissionType"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="41" symbol="chanAssign"/>
+        <entry field="true" id="22" symbol="DEVICE_NUMBER"/>
+        <entry field="true" id="39" symbol="HEX_TO_ASCII"/>
+        <entry field="true" id="46" symbol="isMaster"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="30" symbol="NEW_MESSAGE_LENGTH"/>
+        <entry id="13" object="true" symbol="EncryptionMenuDelegate"/>
+        <entry id="54" method="true" symbol="MainLayout"/>
+        <entry field="true" id="42" symbol="cryptoConfig"/>
+        <entry field="true" id="28" symbol="SEND_DATA_MAX_INDEX"/>
+        <entry id="8391211" method="true" symbol="onMessage"/>
+        <entry field="true" id="26" symbol="MIN_BYTE_VALUE"/>
+        <entry id="2" module="true" symbol="globals/AntModule"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="8390123" symbol="userInfoString"/>
+        <entry field="true" id="23" symbol="DEVICE_TYPE"/>
+        <entry field="true" id="8389244" symbol="deviceNumber"/>
+        <entry id="15" module="true" symbol="AntModule"/>
+        <entry field="true" id="27" symbol="MAX_BYTE_VALUE"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="62" symbol="AppName"/>
+        <entry field="true" id="8389807" symbol="data"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="18" symbol="sensor"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="48" method="true" symbol="updateData"/>
+        <entry field="true" id="61" symbol="Instruction"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="59" symbol="Encrypted"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="20" method="true" symbol="updateScreen"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="8390124" symbol="decimationRate"/>
+        <entry field="true" id="8389245" symbol="deviceType"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="35" symbol="ENCRYPTION_USER_INFO_STRING"/>
+        <entry field="true" id="25" symbol="RADIO_FREQUENCY"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="51" module="true" symbol="Menus"/>
+        <entry field="true" id="55" symbol="Master"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="60" symbol="Uninitialized"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="56" symbol="Slave"/>
+        <entry field="true" id="37" symbol="MESSAGE_CODE_INDEX"/>
+        <entry field="true" id="47" symbol="searching"/>
+        <entry field="true" id="33" symbol="ENCRYPTION_ID_MASTER"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389271" symbol="radioFrequency"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="34" symbol="ENCRYPTION_KEY"/>
+        <entry id="53" object="true" symbol="MainMenu"/>
+        <entry field="true" id="8390122" symbol="encryptionKey"/>
+        <entry field="true" id="43" symbol="deviceCfg"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="8389270" symbol="messagePeriod"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389256" method="true" symbol="open"/>
+        <entry field="true" id="38" symbol="SEND_DATA"/>
+        <entry id="64" symbol="slave"/>
+        <entry field="true" id="8390121" symbol="encryptionId"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="52" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="40" object="true" symbol="AntSensor"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="21" symbol="CHANNEL_PERIOD"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="36" symbol="MESSAGE_ID_INDEX"/>
+        <entry field="true" id="24" symbol="TRANSMISSION_TYPE"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="31" symbol="ENCRYPTION_DECIMATION_RATE"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="17" symbol="UI_UPDATE_PERIOD_MS"/>
+        <entry id="10" object="true" symbol="AntDelegate"/>
+        <entry id="49" method="true" symbol="DecodeByteToASCII"/>
+        <entry field="true" id="32" symbol="ENCRYPTION_ID_SLAVE"/>
+        <entry field="true" id="19" symbol="uiTimer"/>
+        <entry id="11" method="true" object="true" symbol="AntView"/>
+        <entry id="16" object="true" symbol="EncryptionApp"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="44" symbol="encrypted"/>
+        <entry field="true" id="58" symbol="Unencrypted"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="50" module="true" symbol="Layouts"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="29" symbol="MAX_DATA_LENGTH"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="45" symbol="index"/>
+        <entry field="true" id="57" symbol="Searching"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="14" object="true" symbol="EncryptionDelegate"/>
+        <entry id="63" symbol="master"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435519" name="antSensor" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435738" name="antSensor" stackId="1" startPc="268435671"/>
+        <entry arg="true" endPc="268435901" name="dc" stackId="1" startPc="268435761"/>
+        <entry endPc="268436507" name="status" stackId="2" startPc="268435954"/>
+        <entry endPc="268436507" name="colour" stackId="3" startPc="268435954"/>
+        <entry arg="true" endPc="268436508" name="dc" stackId="1" startPc="268435950"/>
+        <entry arg="true" endPc="268436594" name="dc" stackId="1" startPc="268436552"/>
+        <entry arg="true" endPc="268436619" name="dc" stackId="1" startPc="268436594"/>
+        <entry endPc="268436816" name="sensor" stackId="2" startPc="268436646"/>
+        <entry arg="true" endPc="268436817" name="item" stackId="1" startPc="268436642"/>
+        <entry arg="true" endPc="268437862" name="isChannelTypeMaster" stackId="1" startPc="268437056"/>
+        <entry endPc="268438795" name="message" stackId="3" startPc="268438391"/>
+        <entry endPc="268438795" name="toSend" stackId="4" startPc="268438391"/>
+        <entry endPc="268438890" name="payload" stackId="2" startPc="268438300"/>
+        <entry arg="true" endPc="268438891" name="msg" stackId="1" startPc="268438296"/>
+        <entry arg="true" endPc="268438999" name="bArray" stackId="1" startPc="268438891"/>
+        <entry endPc="268439116" name="i" stackId="3" startPc="268439034"/>
+        <entry endPc="268439119" name="str" stackId="2" startPc="268439003"/>
+        <entry arg="true" endPc="268439120" name="bytes" stackId="1" startPc="268438999"/>
+        <entry endPc="268439425" name="rez_cmp_local_text_9645426061" stackId="2" startPc="268439227"/>
+        <entry arg="true" endPc="268439426" name="dc" stackId="1" startPc="268439215"/>
+        <entry endPc="268440170" name="rez_cmp_local_text_data" stackId="5" startPc="268439438"/>
+        <entry endPc="268440170" name="rez_cmp_local_text_status" stackId="4" startPc="268439438"/>
+        <entry endPc="268440170" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268439438"/>
+        <entry endPc="268440170" name="rez_cmp_local_text_antChannelType" stackId="3" startPc="268439438"/>
+        <entry endPc="268440170" name="rez_cmp_local_text_instruct" stackId="6" startPc="268439438"/>
+        <entry arg="true" endPc="268440171" name="dc" stackId="1" startPc="268439426"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="AntView" type="class"/>
+        <dataEntry offset="309" parentId="globals" symbolId="AntModule" type="module"/>
+        <dataEntry offset="500" parentId="AntModule" symbolId="AntSensor" type="class"/>
+        <dataEntry offset="659" parentId="globals" symbolId="EncryptionDelegate" type="class"/>
+        <dataEntry offset="722" parentId="globals" symbolId="AntDelegate" type="class"/>
+        <dataEntry offset="793" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="872" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="911" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="950" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="997" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1028" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1075" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1106" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1201" parentId="globals" symbolId="EncryptionMenuDelegate" type="class"/>
+        <dataEntry offset="1256" parentId="globals" symbolId="EncryptionApp" type="class"/>
+        <dataEntry offset="1311" parentId="globals" symbolId="EncryptionView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AntDelegate">
+            <param id="antSensor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AntDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="AntDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AntView">
+            <param id="antSensor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AntView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AntView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateScreen" parent="AntView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="EncryptionView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="EncryptionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="EncryptionView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="EncryptionMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="EncryptionMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="EncryptionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="EncryptionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="EncryptionDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AntSensor">
+            <param id="isChannelTypeMaster"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="open" parent="AntSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="enableEncryption" parent="AntSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="disableEncryption" parent="AntSensor">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMessage" parent="AntSensor">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateData" parent="AntSensor">
+            <param id="bArray"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="DecodeByteToASCII" parent="AntSensor">
+            <param id="bytes"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="EncryptionApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="EncryptionApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="AntView" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

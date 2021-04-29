@@ -1,0 +1,4 @@
+<layout id="WatchFace">
+    <label id="TimeLabelHourMin" x="center" y="80" font="Graphics.FONT_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TimelabelSecond" x="center" y="140" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+</layout>

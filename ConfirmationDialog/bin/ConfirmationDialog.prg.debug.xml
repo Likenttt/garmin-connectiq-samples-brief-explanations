@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="23" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="24" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="25" pc="268435526" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="26" pc="268435569" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="27" pc="268435612" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="4" lineNum="28" pc="268435655" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="5" lineNum="32" pc="268435699" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="6" lineNum="36" pc="268435704" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" id="6" lineNum="37" pc="268435708" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="8" lineNum="10" pc="268435776" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="8" lineNum="11" pc="268435780" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="9" lineNum="14" pc="268435799" symbol="onResponse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="9" lineNum="15" pc="268435803" symbol="onResponse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="9" lineNum="16" pc="268435814" symbol="onResponse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="9" lineNum="19" pc="268435833" symbol="onResponse"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="11" lineNum="28" pc="268435850" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="11" lineNum="29" pc="268435854" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="12" lineNum="33" pc="268435873" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="12" lineNum="34" pc="268435877" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="13" lineNum="38" pc="268435890" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="13" lineNum="39" pc="268435894" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="14" lineNum="42" pc="268435907" symbol="pushDialog"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="14" lineNum="43" pc="268435911" symbol="pushDialog"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="14" lineNum="44" pc="268435953" symbol="pushDialog"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="14" lineNum="45" pc="268436011" symbol="pushDialog"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogDelegate.mc" id="15" lineNum="48" pc="268436015" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="17" lineNum="14" pc="268436020" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="17" lineNum="15" pc="268436024" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="18" lineNum="19" pc="268436043" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="18" lineNum="20" pc="268436047" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="18" lineNum="21" pc="268436084" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="19" lineNum="25" pc="268436099" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="20" lineNum="28" pc="268436104" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="20" lineNum="29" pc="268436108" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="20" lineNum="30" pc="268436132" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" id="20" lineNum="32" pc="268436152" symbol="onUpdate"/>
+        <entry filename="Rez" id="26" lineNum="15" pc="268436173" symbol="mainLayout"/>
+        <entry filename="Rez" id="26" lineNum="17" pc="268436185" symbol="mainLayout"/>
+        <entry filename="Rez" id="26" lineNum="18" pc="268436198" symbol="mainLayout"/>
+        <entry filename="Rez" id="26" lineNum="20" pc="268436211" symbol="mainLayout"/>
+        <entry filename="Rez" id="26" lineNum="21" pc="268436396" symbol="mainLayout"/>
+        <entry filename="Rez" id="26" lineNum="23" pc="268436543" symbol="mainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="13" symbol="cancelString"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="17" object="true" symbol="ConfirmationDialogView"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="11" symbol="dialogHeaderString"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="26" symbol="DialogHeader"/>
+        <entry id="8389108" method="true" symbol="onResponse"/>
+        <entry field="true" id="27" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="19" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="23" symbol="Cancel"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="15" object="true" symbol="ConfirmationDialogDelegate"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="20" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="29" method="true" symbol="pushDialog"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="25" symbol="TestInfo"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="28" symbol="dialog"/>
+        <entry id="14" object="true" symbol="ConfirmationDialogApp"/>
+        <entry id="21" method="true" symbol="mainLayout"/>
+        <entry id="18" module="true" symbol="Layouts"/>
+        <entry field="true" id="22" symbol="DefaultResponse"/>
+        <entry field="true" id="10" symbol="resultString"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="9" symbol="instructionString"/>
+        <entry field="true" id="12" symbol="confirmString"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="24" symbol="Confirm"/>
+        <entry id="16" object="true" symbol="BaseInputDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435699" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435704" name="state" stackId="1" startPc="268435699"/>
+        <entry arg="true" endPc="268435850" name="value" stackId="1" startPc="268435799"/>
+        <entry arg="true" endPc="268436099" name="dc" stackId="1" startPc="268436043"/>
+        <entry endPc="268436172" name="resultLabel" stackId="2" startPc="268436108"/>
+        <entry arg="true" endPc="268436173" name="dc" stackId="1" startPc="268436104"/>
+        <entry endPc="268436570" name="rez_cmp_local_text_InfoLabel" stackId="4" startPc="268436185"/>
+        <entry endPc="268436570" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436185"/>
+        <entry endPc="268436570" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436185"/>
+        <entry endPc="268436570" name="rez_cmp_local_text_ResultLabel" stackId="5" startPc="268436185"/>
+        <entry arg="true" endPc="268436571" name="dc" stackId="1" startPc="268436173"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="206" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="285" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="324" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="355" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="386" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="425" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="456" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="535" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
+        <dataEntry offset="622" parentId="globals" symbolId="ConfirmationDialogDelegate" type="class"/>
+        <dataEntry offset="677" parentId="globals" symbolId="ConfirmationDialogApp" type="class"/>
+        <dataEntry offset="748" parentId="globals" symbolId="ConfirmationDialogView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ConfirmationDialogApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ConfirmationDialogApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ConfirmationDialogApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ConfirmationDialogApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ConfirmationDialogDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onResponse" parent="ConfirmationDialogDelegate">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pushDialog" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ConfirmationDialogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ConfirmationDialogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ConfirmationDialogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ConfirmationDialogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="mainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

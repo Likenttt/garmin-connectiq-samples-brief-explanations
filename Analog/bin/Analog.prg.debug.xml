@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="18" pc="268435479" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="19" pc="268435483" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="20" pc="268435495" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="21" pc="268435531" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="22" pc="268435543" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="4" lineNum="24" pc="268435579" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="6" lineNum="30" pc="268435661" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="6" lineNum="31" pc="268435665" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="34" pc="268435684" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="35" pc="268435688" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="36" pc="268435712" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="37" pc="268435744" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="39" pc="268435796" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="40" pc="268435828" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="42" pc="268435880" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="43" pc="268435912" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="45" pc="268435964" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="46" pc="268435996" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsView.mc" id="7" lineNum="48" pc="268436048" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="9" lineNum="33" pc="268436101" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="9" lineNum="34" pc="268436105" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="9" lineNum="35" pc="268436123" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="9" lineNum="36" pc="268436152" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="9" lineNum="37" pc="268436162" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="41" pc="268436197" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="44" pc="268436201" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="48" pc="268436244" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="49" pc="268436268" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="51" pc="268436314" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="55" pc="268436323" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="59" pc="268436346" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="74" pc="268436518" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="79" pc="268436615" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="82" pc="268436624" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="10" lineNum="84" pc="268436633" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="91" pc="268436698" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="93" pc="268436702" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="94" pc="268436894" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="95" pc="268436902" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="96" pc="268436921" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="99" pc="268436940" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="100" pc="268436958" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="101" pc="268436995" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="103" pc="268437032" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="11" lineNum="106" pc="268437094" symbol="generateHandCoordinates"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="110" pc="268437098" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="111" pc="268437102" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="112" pc="268437115" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="115" pc="268437128" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="116" pc="268437152" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="117" pc="268437152" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="118" pc="268437152" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="119" pc="268437162" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="121" pc="268437172" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="123" pc="268437222" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="124" pc="268437247" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="125" pc="268437272" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="126" pc="268437297" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="127" pc="268437322" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="128" pc="268437342" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="129" pc="268437365" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="130" pc="268437390" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="131" pc="268437415" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="132" pc="268437440" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="133" pc="268437465" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="136" pc="268437514" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="137" pc="268437583" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="138" pc="268437607" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="139" pc="268437632" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="141" pc="268437648" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="12" lineNum="143" pc="268437844" symbol="drawHashMarks"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="149" pc="268438066" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="150" pc="268438070" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="151" pc="268438070" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="152" pc="268438070" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="153" pc="268438083" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="154" pc="268438100" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="155" pc="268438100" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="156" pc="268438100" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="157" pc="268438100" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="160" pc="268438103" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="162" pc="268438113" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="163" pc="268438126" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="164" pc="268438138" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="167" pc="268438147" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="169" pc="268438169" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="172" pc="268438173" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="173" pc="268438186" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="176" pc="268438199" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="177" pc="268438235" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="180" pc="268438279" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="181" pc="268438315" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="184" pc="268438511" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="187" pc="268438525" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="188" pc="268438565" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="192" pc="268438610" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="195" pc="268438646" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="196" pc="268438677" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="197" pc="268438687" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="199" pc="268438710" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="202" pc="268438758" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="203" pc="268438793" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="206" pc="268438841" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="207" pc="268438877" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="208" pc="268438910" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="209" pc="268438946" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="212" pc="268438979" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="213" pc="268439015" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="214" pc="268439065" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="215" pc="268439124" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="216" pc="268439177" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="221" pc="268439233" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="222" pc="268439246" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="225" pc="268439265" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="228" pc="268439304" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="232" pc="268439334" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="235" pc="268439348" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="238" pc="268439401" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="239" pc="268439424" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="240" pc="268439431" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="242" pc="268439447" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="243" pc="268439483" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="245" pc="268439543" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="248" pc="268439554" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="249" pc="268439571" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="252" pc="268439582" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="253" pc="268439618" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="255" pc="268439653" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="13" lineNum="258" pc="268439704" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="14" lineNum="262" pc="268439715" symbol="drawDateString"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="14" lineNum="263" pc="268439719" symbol="drawDateString"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="14" lineNum="264" pc="268439763" symbol="drawDateString"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="14" lineNum="266" pc="268439839" symbol="drawDateString"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="14" lineNum="267" pc="268439875" symbol="drawDateString"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="271" pc="268439918" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="275" pc="268439922" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="276" pc="268439934" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="279" pc="268439951" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="280" pc="268439968" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="281" pc="268440003" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="284" pc="268440041" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="285" pc="268440062" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="286" pc="268440111" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="287" pc="268440160" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="290" pc="268440216" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="15" lineNum="291" pc="268440252" symbol="onPartialUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="295" pc="268440267" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="296" pc="268440271" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="297" pc="268440305" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="299" pc="268440339" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="300" pc="268440363" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="301" pc="268440386" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="304" pc="268440408" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="305" pc="268440431" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="308" pc="268440453" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="309" pc="268440476" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="312" pc="268440498" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="313" pc="268440521" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="16" lineNum="317" pc="268440556" symbol="getBoundingBox"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="325" pc="268440584" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="326" pc="268440588" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="327" pc="268440601" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="331" pc="268440614" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="332" pc="268440627" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="336" pc="268440660" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="338" pc="268440673" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="17" lineNum="341" pc="268440709" symbol="drawBackground"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="18" lineNum="347" pc="268440740" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="18" lineNum="348" pc="268440744" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="18" lineNum="349" pc="268440754" symbol="onEnterSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="19" lineNum="354" pc="268440771" symbol="onExitSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="19" lineNum="355" pc="268440775" symbol="onExitSleep"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="21" lineNum="361" pc="268440786" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="21" lineNum="362" pc="268440790" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="22" lineNum="370" pc="268440809" symbol="onPowerBudgetExceeded"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="22" lineNum="371" pc="268440813" symbol="onPowerBudgetExceeded"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="22" lineNum="372" pc="268440843" symbol="onPowerBudgetExceeded"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogView.mc" id="22" lineNum="373" pc="268440873" symbol="onPowerBudgetExceeded"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="22" pc="268440884" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="23" pc="268440888" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="24" pc="268440906" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="26" pc="268440935" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="28" pc="268440948" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="29" pc="268440966" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="31" pc="268440991" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="32" pc="268441009" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="34" pc="268441034" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="24" lineNum="35" pc="268441052" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="25" lineNum="39" pc="268441078" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="25" lineNum="41" pc="268441082" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="45" pc="268441095" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="46" pc="268441099" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="47" pc="268441099" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="48" pc="268441099" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="50" pc="268441116" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="51" pc="268441129" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="53" pc="268441142" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="54" pc="268441159" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="56" pc="268441190" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="59" pc="268441266" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="60" pc="268441302" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="63" pc="268441328" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="64" pc="268441364" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="67" pc="268441533" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="68" pc="268441569" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogGoalView.mc" id="26" lineNum="71" pc="268441623" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="28" lineNum="14" pc="268441684" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="28" lineNum="15" pc="268441688" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="28" lineNum="17" pc="268441706" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="30" lineNum="23" pc="268441717" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="30" lineNum="24" pc="268441721" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="30" lineNum="25" pc="268441740" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="32" lineNum="31" pc="268441764" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="32" lineNum="32" pc="268441768" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="33" lineNum="35" pc="268441787" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogSettingsMenu.mc" id="33" lineNum="36" pc="268441791" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="35" lineNum="16" pc="268441830" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="35" lineNum="17" pc="268441834" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="36" lineNum="20" pc="268441853" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="37" lineNum="23" pc="268441858" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="38" lineNum="26" pc="268441863" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="38" lineNum="27" pc="268441867" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="38" lineNum="28" pc="268441890" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="38" lineNum="30" pc="268441960" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="39" lineNum="35" pc="268441998" symbol="getGoalView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="39" lineNum="36" pc="268442002" symbol="getGoalView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="40" lineNum="39" pc="268442042" symbol="getSettingsView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Analog/source/AnalogApp.mc" id="40" lineNum="40" pc="268442046" symbol="getSettingsView"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8390101" object="true" symbol="BufferedBitmap"/>
+        <entry field="true" id="32" symbol="screenCenterPoint"/>
+        <entry id="16" object="true" symbol="AnalogSettingsMenu"/>
+        <entry id="34" method="true" symbol="generateHandCoordinates"/>
+        <entry id="13" object="true" symbol="AnalogDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="29" symbol="offscreenBuffer"/>
+        <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+        <entry field="true" id="23" symbol="DoNotDisturbIcon"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="8389795" symbol="doNotDisturb"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="15" object="true" symbol="AnalogSettingsMenuItem"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="30" symbol="dateBuffer"/>
+        <entry field="true" id="8388962" symbol="temperature"/>
+        <entry id="36" method="true" symbol="drawDateString"/>
+        <entry field="true" id="26" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="27" symbol="isAwake"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="33" symbol="fullScreenRefresh"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="35" method="true" symbol="drawHashMarks"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="22" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="20" symbol="goalString"/>
+        <entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+        <entry id="14" object="true" symbol="AnalogGoalView"/>
+        <entry id="38" method="true" symbol="drawBackground"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389916" method="true" symbol="getGoalView"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="37" method="true" symbol="getBoundingBox"/>
+        <entry field="true" id="25" symbol="id_font_black_diamond"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="10" object="true" symbol="AnalogSettingsDelegate"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="24" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="17" object="true" symbol="AnalogSettingsMenuDelegate"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="8389670" symbol="screenShape"/>
+        <entry field="true" id="31" symbol="curClip"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="11" symbol="partialUpdatesAllowed"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry id="9" object="true" symbol="AnalogSettingsView"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="19" symbol="&lt;globals/AnalogSettingsMenuItem/&lt;&gt;mId&gt;"/>
+        <entry id="21" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="28" symbol="dndIcon"/>
+        <entry id="12" object="true" symbol="AnalogView"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="18" object="true" symbol="AnalogWatch"/>
+        <entry id="8389660" symbol="palette"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435661" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268436100" name="boolean" stackId="2" startPc="268435688"/>
+        <entry endPc="268436100" name="menu" stackId="1" startPc="268435688"/>
+        <entry arg="true" endPc="268436698" name="dc" stackId="1" startPc="268436197"/>
+        <entry endPc="268437081" name="x" stackId="11" startPc="268436958"/>
+        <entry endPc="268437081" name="y" stackId="12" startPc="268436958"/>
+        <entry endPc="268437094" name="i" stackId="10" startPc="268436958"/>
+        <entry endPc="268437097" name="result" stackId="7" startPc="268436702"/>
+        <entry endPc="268437097" name="sin" stackId="9" startPc="268436702"/>
+        <entry endPc="268437097" name="cos" stackId="8" startPc="268436702"/>
+        <entry endPc="268437097" name="coords" stackId="6" startPc="268436702"/>
+        <entry arg="true" endPc="268437098" name="handLength" stackId="3" startPc="268436698"/>
+        <entry arg="true" endPc="268437098" name="tailLength" stackId="4" startPc="268436698"/>
+        <entry arg="true" endPc="268437098" name="width" stackId="5" startPc="268436698"/>
+        <entry arg="true" endPc="268437098" name="angle" stackId="2" startPc="268436698"/>
+        <entry arg="true" endPc="268437098" name="centerPoint" stackId="1" startPc="268436698"/>
+        <entry endPc="268437511" name="i" stackId="10" startPc="268437222"/>
+        <entry endPc="268437511" name="eY" stackId="7" startPc="268437152"/>
+        <entry endPc="268437511" name="eX" stackId="6" startPc="268437152"/>
+        <entry endPc="268437511" name="innerRad" stackId="9" startPc="268437152"/>
+        <entry endPc="268437511" name="outerRad" stackId="8" startPc="268437152"/>
+        <entry endPc="268437511" name="sY" stackId="5" startPc="268437152"/>
+        <entry endPc="268437511" name="sX" stackId="4" startPc="268437152"/>
+        <entry endPc="268438052" name="upperX" stackId="14" startPc="268437607"/>
+        <entry endPc="268438052" name="dx" stackId="13" startPc="268437607"/>
+        <entry endPc="268438065" name="i" stackId="12" startPc="268437607"/>
+        <entry endPc="268438065" name="coords" stackId="11" startPc="268437514"/>
+        <entry endPc="268438065" name="height" stackId="3" startPc="268437102"/>
+        <entry endPc="268438065" name="width" stackId="2" startPc="268437102"/>
+        <entry arg="true" endPc="268438066" name="dc" stackId="1" startPc="268437098"/>
+        <entry endPc="268439331" name="dateDc" stackId="10" startPc="268439246"/>
+        <entry endPc="268439714" name="screenWidth" stackId="4" startPc="268438070"/>
+        <entry endPc="268439714" name="width" stackId="2" startPc="268438070"/>
+        <entry endPc="268439714" name="backgroundData" stackId="12" startPc="268438070"/>
+        <entry endPc="268439714" name="minuteHandAngle" stackId="6" startPc="268438070"/>
+        <entry endPc="268439714" name="secondHand" stackId="8" startPc="268438070"/>
+        <entry endPc="268439714" name="clockTime" stackId="5" startPc="268438070"/>
+        <entry endPc="268439714" name="dataString" stackId="11" startPc="268438070"/>
+        <entry endPc="268439714" name="targetDc" stackId="9" startPc="268438070"/>
+        <entry endPc="268439714" name="hourHandAngle" stackId="7" startPc="268438070"/>
+        <entry endPc="268439714" name="height" stackId="3" startPc="268438070"/>
+        <entry arg="true" endPc="268439715" name="dc" stackId="1" startPc="268438066"/>
+        <entry endPc="268439917" name="dateStr" stackId="5" startPc="268439719"/>
+        <entry endPc="268439917" name="info" stackId="4" startPc="268439719"/>
+        <entry arg="true" endPc="268439918" name="x" stackId="2" startPc="268439715"/>
+        <entry arg="true" endPc="268439918" name="dc" stackId="1" startPc="268439715"/>
+        <entry arg="true" endPc="268439918" name="y" stackId="3" startPc="268439715"/>
+        <entry endPc="268440266" name="bboxHeight" stackId="6" startPc="268439922"/>
+        <entry endPc="268440266" name="secondHand" stackId="3" startPc="268439922"/>
+        <entry endPc="268440266" name="secondHandPoints" stackId="4" startPc="268439922"/>
+        <entry endPc="268440266" name="bboxWidth" stackId="5" startPc="268439922"/>
+        <entry endPc="268440266" name="clockTime" stackId="2" startPc="268439922"/>
+        <entry arg="true" endPc="268440267" name="dc" stackId="1" startPc="268439918"/>
+        <entry endPc="268440556" name="i" stackId="4" startPc="268440363"/>
+        <entry endPc="268440583" name="max" stackId="3" startPc="268440271"/>
+        <entry endPc="268440583" name="min" stackId="2" startPc="268440271"/>
+        <entry arg="true" endPc="268440584" name="points" stackId="1" startPc="268440267"/>
+        <entry endPc="268440739" name="height" stackId="3" startPc="268440588"/>
+        <entry endPc="268440739" name="width" stackId="2" startPc="268440588"/>
+        <entry arg="true" endPc="268440740" name="dc" stackId="1" startPc="268440584"/>
+        <entry arg="true" endPc="268440884" name="powerInfo" stackId="1" startPc="268440809"/>
+        <entry arg="true" endPc="268441078" name="goal" stackId="1" startPc="268440884"/>
+        <entry arg="true" endPc="268441095" name="dc" stackId="1" startPc="268441078"/>
+        <entry endPc="268441683" name="height" stackId="3" startPc="268441099"/>
+        <entry endPc="268441683" name="dateStr" stackId="7" startPc="268441099"/>
+        <entry endPc="268441683" name="now" stackId="5" startPc="268441099"/>
+        <entry endPc="268441683" name="width" stackId="2" startPc="268441099"/>
+        <entry endPc="268441683" name="clockTime" stackId="4" startPc="268441099"/>
+        <entry endPc="268441683" name="info" stackId="6" startPc="268441099"/>
+        <entry arg="true" endPc="268441684" name="dc" stackId="1" startPc="268441095"/>
+        <entry arg="true" endPc="268441717" name="id" stackId="1" startPc="268441684"/>
+        <entry arg="true" endPc="268441830" name="menuItem" stackId="1" startPc="268441787"/>
+        <entry arg="true" endPc="268441858" name="state" stackId="1" startPc="268441853"/>
+        <entry arg="true" endPc="268441863" name="state" stackId="1" startPc="268441858"/>
+        <entry arg="true" endPc="268442042" name="goal" stackId="1" startPc="268441998"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="214" parentId="globals" symbolId="AnalogSettingsMenuItem" type="class"/>
+        <dataEntry offset="269" parentId="globals" symbolId="AnalogSettingsView" type="class"/>
+        <dataEntry offset="324" parentId="globals" symbolId="AnalogGoalView" type="class"/>
+        <dataEntry offset="403" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="482" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="529" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="560" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="599" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="630" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="661" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="700" parentId="globals" symbolId="AnalogSettingsMenuDelegate" type="class"/>
+        <dataEntry offset="755" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+        <dataEntry offset="810" parentId="globals" symbolId="AnalogView" type="class"/>
+        <dataEntry offset="1009" parentId="globals" symbolId="AnalogSettingsMenu" type="class"/>
+        <dataEntry offset="1056" parentId="globals" symbolId="AnalogWatch" type="class"/>
+        <dataEntry offset="1151" parentId="globals" symbolId="AnalogSettingsDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogSettingsView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="AnalogSettingsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="generateHandCoordinates" parent="AnalogView">
+            <param id="centerPoint"/>
+            <param id="angle"/>
+            <param id="handLength"/>
+            <param id="tailLength"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHashMarks" parent="AnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDateString" parent="AnalogView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="AnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getBoundingBox" parent="AnalogView">
+            <param id="points"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackground" parent="AnalogView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="AnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="AnalogView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AnalogDelegate">
+            <param id="powerInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogGoalView">
+            <param id="goal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AnalogGoalView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AnalogGoalView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsMenuItem">
+            <param id="id"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogSettingsMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AnalogSettingsMenuDelegate">
+            <param id="menuItem"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
+            <param id="goal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSettingsView" parent="AnalogWatch">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

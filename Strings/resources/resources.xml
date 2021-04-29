@@ -1,0 +1,18 @@
+<resources>
+    <bitmaps>
+    </bitmaps>
+
+    <fonts>
+    </fonts>
+
+    <string id="common_label">Common:</string>
+    <string id="common">abc/123|,:;</string>
+    <string id="language_label">Language:</string>
+    <string id="language">English</string>
+    <string id="greeting_label">Greeting:</string>
+    <string id="food_label">Food:</string>
+    <string id="drink_label">Drink:</string>
+    <string id="greeting">hi</string>
+    <string id="food">eggs</string>
+    <string id="drink">milk</string>
+</resources>

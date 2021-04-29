@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="3" lineNum="12" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="4" lineNum="16" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="5" lineNum="20" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="6" lineNum="24" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesApp.mc" id="6" lineNum="25" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="8" lineNum="17" pc="268435561" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="8" lineNum="18" pc="268435565" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="8" lineNum="19" pc="268435583" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="22" pc="268435604" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="23" pc="268435608" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="24" pc="268435644" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="26" pc="268435656" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="27" pc="268435692" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="28" pc="268435736" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="30" pc="268435768" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="31" pc="268435787" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="33" pc="268435794" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="34" pc="268435839" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="35" pc="268435867" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="36" pc="268435912" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="37" pc="268435940" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="38" pc="268435985" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="39" pc="268436013" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="40" pc="268436058" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ProsimiansView.mc" id="9" lineNum="41" pc="268436086" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="11" lineNum="17" pc="268436132" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="11" lineNum="18" pc="268436136" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="11" lineNum="19" pc="268436154" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="22" pc="268436175" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="23" pc="268436179" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="24" pc="268436215" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="26" pc="268436227" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="27" pc="268436263" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="28" pc="268436307" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="30" pc="268436339" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="31" pc="268436358" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="33" pc="268436365" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="34" pc="268436410" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="35" pc="268436438" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="36" pc="268436483" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="37" pc="268436511" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="38" pc="268436556" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="39" pc="268436584" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="40" pc="268436629" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/ApesView.mc" id="12" lineNum="41" pc="268436657" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="14" lineNum="14" pc="268436703" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="14" lineNum="15" pc="268436707" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="18" pc="268436726" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="19" pc="268436730" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="20" pc="268436758" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="21" pc="268436782" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="22" pc="268436802" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="23" pc="268436826" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="24" pc="268436846" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="15" lineNum="26" pc="268436878" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="29" pc="268436882" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="30" pc="268436886" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="31" pc="268436908" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="32" pc="268436925" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="34" pc="268436941" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="35" pc="268436963" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="36" pc="268436987" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="37" pc="268437007" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="38" pc="268437031" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="39" pc="268437051" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="16" lineNum="41" pc="268437083" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="17" lineNum="44" pc="268437087" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="17" lineNum="45" pc="268437091" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="48" pc="268437102" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="49" pc="268437106" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="50" pc="268437123" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="51" pc="268437198" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="52" pc="268437215" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="53" pc="268437290" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="54" pc="268437307" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesDelegate.mc" id="18" lineNum="57" pc="268437382" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="22" pc="268437386" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="23" pc="268437390" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="24" pc="268437400" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="25" pc="268437410" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="26" pc="268437420" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="20" lineNum="27" pc="268437430" symbol="setup"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="30" pc="268437441" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="31" pc="268437445" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="32" pc="268437452" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="33" pc="268437465" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="34" pc="268437472" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="36" pc="268437479" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="37" pc="268437499" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="38" pc="268437524" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="39" pc="268437552" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="40" pc="268437572" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="41" pc="268437588" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="42" pc="268437616" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="43" pc="268437636" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="44" pc="268437664" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="45" pc="268437692" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="46" pc="268437712" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="47" pc="268437737" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="48" pc="268437756" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="49" pc="268437776" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="50" pc="268437792" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="51" pc="268437811" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="52" pc="268437831" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="53" pc="268437859" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="55" pc="268437878" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="56" pc="268437885" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="59" pc="268437892" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="60" pc="268437913" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="61" pc="268437921" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="63" pc="268437956" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="66" pc="268437988" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PageIndicator.mc" id="21" lineNum="67" pc="268438007" symbol="draw"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="23" pc="268438048" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="24" pc="268438052" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="25" pc="268438070" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="26" pc="268438083" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="27" pc="268438103" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="31" pc="268438201" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="33" pc="268438241" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="34" pc="268438271" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="35" pc="268438278" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="36" pc="268438285" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="37" pc="268438299" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="38" pc="268438313" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="23" lineNum="39" pc="268438329" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="24" lineNum="42" pc="268438358" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="24" lineNum="43" pc="268438362" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="24" lineNum="44" pc="268438372" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="24" lineNum="45" pc="268438381" symbol="setIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="48" pc="268438422" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="49" pc="268438426" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="50" pc="268438462" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="52" pc="268438474" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="53" pc="268438510" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="55" pc="268438554" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="56" pc="268438586" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="58" pc="268438661" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="59" pc="268438704" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="61" pc="268438747" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="63" pc="268438771" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/PrimatesView.mc" id="25" lineNum="21" pc="268439646" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="27" lineNum="17" pc="268438800" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="27" lineNum="18" pc="268438804" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="27" lineNum="19" pc="268438822" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="22" pc="268438843" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="23" pc="268438847" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="24" pc="268438883" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="26" pc="268438895" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="27" pc="268438931" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="28" pc="268438975" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="30" pc="268439007" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="31" pc="268439026" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="33" pc="268439033" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="34" pc="268439078" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="35" pc="268439106" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="36" pc="268439151" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="37" pc="268439179" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="38" pc="268439224" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="39" pc="268439252" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="40" pc="268439297" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/MonkeysView.mc" id="28" lineNum="41" pc="268439325" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/DetailsDelegate.mc" id="30" lineNum="13" pc="268439371" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/DetailsDelegate.mc" id="30" lineNum="14" pc="268439375" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/DetailsDelegate.mc" id="31" lineNum="17" pc="268439394" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/DetailsDelegate.mc" id="31" lineNum="18" pc="268439398" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Primates/source/DetailsDelegate.mc" id="31" lineNum="19" pc="268439426" symbol="onBack"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="27" symbol="indicator"/>
+        <entry field="true" id="28" symbol="primates"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="26" symbol="images"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="15" object="true" symbol="MonkeysView"/>
+        <entry field="true" id="22" symbol="id_monkeys"/>
+        <entry field="true" id="23" symbol="id_prosimians"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="14" object="true" symbol="PrimatesView"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="21" symbol="id_apes"/>
+        <entry id="11" object="true" symbol="ApesView"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="8390410" symbol="mAlignment"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="13" object="true" symbol="PageIndicator"/>
+        <entry id="16" object="true" symbol="DetailsDelegate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="10" object="true" symbol="ProsimiansView"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="9" object="true" symbol="MyApp"/>
+        <entry field="true" id="37" symbol="mMargin"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8391710" symbol="bitmap"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="33" symbol="ALIGN_TOP_LEFT"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="34" symbol="ALIGN_TOP_CENTER"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="18" method="true" symbol="setIndex"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="38" method="true" symbol="setup"/>
+        <entry field="true" id="8389092" symbol="mSize"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="36" symbol="mNotSelectedColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="24" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="29" symbol="ALIGN_BOTTOM_RIGHT"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="32" symbol="ALIGN_TOP_RIGHT"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="30" symbol="ALIGN_BOTTOM_LEFT"/>
+        <entry field="true" id="31" symbol="ALIGN_BOTTOM_CENTER"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="12" object="true" symbol="PrimatesDelegate"/>
+        <entry id="19" module="true" symbol="Layouts"/>
+        <entry field="true" id="35" symbol="mSelectedColor"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="17" symbol="index"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268436131" name="x" stackId="2" startPc="268435608"/>
+        <entry endPc="268436131" name="y" stackId="3" startPc="268435608"/>
+        <entry arg="true" endPc="268436132" name="dc" stackId="1" startPc="268435604"/>
+        <entry endPc="268436702" name="x" stackId="2" startPc="268436179"/>
+        <entry endPc="268436702" name="y" stackId="3" startPc="268436179"/>
+        <entry arg="true" endPc="268436703" name="dc" stackId="1" startPc="268436175"/>
+        <entry endPc="268436881" name="view" stackId="1" startPc="268436730"/>
+        <entry endPc="268436881" name="delegate" stackId="2" startPc="268436730"/>
+        <entry endPc="268437086" name="view" stackId="1" startPc="268436886"/>
+        <entry endPc="268437086" name="delegate" stackId="2" startPc="268436886"/>
+        <entry arg="true" endPc="268437102" name="newIndex" stackId="1" startPc="268437087"/>
+        <entry arg="true" endPc="268437441" name="notSelectedColor" stackId="3" startPc="268437386"/>
+        <entry arg="true" endPc="268437441" name="size" stackId="1" startPc="268437386"/>
+        <entry arg="true" endPc="268437441" name="margin" stackId="5" startPc="268437386"/>
+        <entry arg="true" endPc="268437441" name="alignment" stackId="4" startPc="268437386"/>
+        <entry arg="true" endPc="268437441" name="selectedColor" stackId="2" startPc="268437386"/>
+        <entry endPc="268438031" name="tempX" stackId="8" startPc="268437913"/>
+        <entry endPc="268438044" name="i" stackId="7" startPc="268437913"/>
+        <entry endPc="268438044" name="x" stackId="5" startPc="268437445"/>
+        <entry endPc="268438044" name="height" stackId="3" startPc="268437445"/>
+        <entry endPc="268438044" name="width" stackId="4" startPc="268437445"/>
+        <entry endPc="268438044" name="y" stackId="6" startPc="268437445"/>
+        <entry arg="true" endPc="268438045" name="selectedIndex" stackId="2" startPc="268437441"/>
+        <entry arg="true" endPc="268438045" name="dc" stackId="1" startPc="268437441"/>
+        <entry endPc="268438357" name="size" stackId="1" startPc="268438052"/>
+        <entry endPc="268438357" name="selected" stackId="3" startPc="268438052"/>
+        <entry endPc="268438357" name="margin" stackId="2" startPc="268438052"/>
+        <entry endPc="268438357" name="notSelected" stackId="4" startPc="268438052"/>
+        <entry endPc="268438357" name="alignment" stackId="5" startPc="268438052"/>
+        <entry arg="true" endPc="268438422" name="newIndex" stackId="1" startPc="268438358"/>
+        <entry endPc="268438799" name="by" stackId="3" startPc="268438426"/>
+        <entry endPc="268438799" name="bx" stackId="2" startPc="268438426"/>
+        <entry arg="true" endPc="268438800" name="dc" stackId="1" startPc="268438422"/>
+        <entry endPc="268439370" name="x" stackId="2" startPc="268438847"/>
+        <entry endPc="268439370" name="y" stackId="3" startPc="268438847"/>
+        <entry arg="true" endPc="268439371" name="dc" stackId="1" startPc="268438843"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="MyApp" type="class"/>
+        <dataEntry offset="269" parentId="globals" symbolId="ApesView" type="class"/>
+        <dataEntry offset="332" parentId="globals" symbolId="ProsimiansView" type="class"/>
+        <dataEntry offset="395" parentId="globals" symbolId="DetailsDelegate" type="class"/>
+        <dataEntry offset="450" parentId="globals" symbolId="PrimatesDelegate" type="class"/>
+        <dataEntry offset="537" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="616" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="679" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="710" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="741" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="772" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="803" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="842" parentId="globals" symbolId="MonkeysView" type="class"/>
+        <dataEntry offset="905" parentId="globals" symbolId="PrimatesView" type="class"/>
+        <dataEntry offset="1016" parentId="globals" symbolId="PageIndicator" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="MyApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="MyApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="MyApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="MyApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ProsimiansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ProsimiansView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ApesView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ApesView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PrimatesDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="PrimatesDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="PrimatesDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setIndex" parent="PrimatesDelegate">
+            <param id="newIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="PrimatesDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setup" parent="PageIndicator">
+            <param id="size"/>
+            <param id="selectedColor"/>
+            <param id="notSelectedColor"/>
+            <param id="alignment"/>
+            <param id="margin"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="PageIndicator">
+            <param id="dc"/>
+            <param id="selectedIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PrimatesView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setIndex" parent="PrimatesView">
+            <param id="newIndex"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PrimatesView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MonkeysView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MonkeysView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DetailsDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="DetailsDelegate">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

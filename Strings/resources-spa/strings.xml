@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">Spanish</string>
+    <string id="greeting">hola</string>
+    <string id="food">los huevos</string>
+    <string id="drink">la leche</string>
+</resources>

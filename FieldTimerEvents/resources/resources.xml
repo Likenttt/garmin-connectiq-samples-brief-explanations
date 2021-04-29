@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">FieldTimerEvents</string>
+
+    <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+</resources>

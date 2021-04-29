@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">Round German</string>
+    <string id="greeting">Guten Tag Round</string>
+    <string id="food">Plätzchen</string>
+    <string id="drink">Sodawasser</string>
+</resources>

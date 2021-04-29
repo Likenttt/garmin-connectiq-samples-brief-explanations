@@ -1,0 +1,8 @@
+<drawables>
+    <drawable-list id="MenuForeground" background="Gfx.COLOR_TRANSPARENT">
+        <shape type="polygon" points="[[120,9],[127,16],[113,16]]" color="Gfx.COLOR_WHITE" />
+        <shape type="polygon" points="[[120,10],[125,15],[115,15]]" color="Gfx.COLOR_BLACK" />
+        <shape type="polygon" points="[[120,231],[127,224],[113,224]]" color="Gfx.COLOR_WHITE" />
+        <shape type="polygon" points="[[120,230],[125,225],[115,225]]" color="Gfx.COLOR_BLACK" />
+    </drawable-list>
+</drawables>

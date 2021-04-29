@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">MoxyField</string>
+    <string id="hemoglobin_concentration_label">Hemoglobin Concentration</string>
+    <string id="hemoglobin_concentration_units">g/dl</string>
+    <string id="hemoglobin_percentage_label">Hemoglobin Percentage</string>
+    <string id="hemoglobin_percentage_units">%</string>
+</strings>

@@ -1,0 +1,6 @@
+<resources>
+    <string id="language">한국의</string>
+    <string id="greeting">안녕</string>
+    <string id="food">달걀</string>
+    <string id="drink">우유</string>
+</resources>

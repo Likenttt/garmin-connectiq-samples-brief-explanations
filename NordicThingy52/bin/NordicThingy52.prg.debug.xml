@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="3" lineNum="10" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="4" lineNum="14" pc="268435489" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="5" lineNum="20" pc="268435494" symbol="onShow"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="24" pc="268435499" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="25" pc="268435503" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="27" pc="268435522" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="32" pc="268435571" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="33" pc="268435578" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="39" pc="268435627" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="40" pc="268435654" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="41" pc="268435673" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="43" pc="268435692" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="44" pc="268435728" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="6" lineNum="45" pc="268435740" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanView.mc" id="7" lineNum="56" pc="268435798" symbol="onHide"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="9" lineNum="7" pc="268435803" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="9" lineNum="8" pc="268435807" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="10" lineNum="11" pc="268435818" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="10" lineNum="12" pc="268435822" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="10" lineNum="14" pc="268435841" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="11" lineNum="20" pc="268435915" symbol="pushScanMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="11" lineNum="21" pc="268435919" symbol="pushScanMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="12" lineNum="28" pc="268436004" symbol="pushDeviceView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="12" lineNum="29" pc="268436008" symbol="pushDeviceView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ViewController.mc" id="12" lineNum="31" pc="268436029" symbol="pushDeviceView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="14" lineNum="7" pc="268436106" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="14" lineNum="8" pc="268436110" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="14" lineNum="10" pc="268436128" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="14" lineNum="11" pc="268436138" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="15" lineNum="14" pc="268436149" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="15" lineNum="15" pc="268436153" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="15" lineNum="16" pc="268436171" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="16" lineNum="19" pc="268436175" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="16" lineNum="20" pc="268436179" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="16" lineNum="21" pc="268436201" symbol="onSelect"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="17" lineNum="25" pc="268436240" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="17" lineNum="26" pc="268436244" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="18" lineNum="29" pc="268436263" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDelegate.mc" id="18" lineNum="30" pc="268436267" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="20" lineNum="6" pc="268436286" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="20" lineNum="7" pc="268436290" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="20" lineNum="9" pc="268436308" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="20" lineNum="10" pc="268436318" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="21" lineNum="13" pc="268436337" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="21" lineNum="14" pc="268436341" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="21" lineNum="15" pc="268436359" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDelegate.mc" id="21" lineNum="16" pc="268436387" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="23" lineNum="13" pc="268436391" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="23" lineNum="14" pc="268436395" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="23" lineNum="15" pc="268436413" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="24" lineNum="18" pc="268436424" symbol="onScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="24" lineNum="19" pc="268436428" symbol="onScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="24" lineNum="20" pc="268436448" symbol="onScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="24" lineNum="21" pc="268436487" symbol="onScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="25" lineNum="26" pc="268436521" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="25" lineNum="27" pc="268436525" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="25" lineNum="28" pc="268436561" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="26" lineNum="32" pc="268436596" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="26" lineNum="33" pc="268436600" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="26" lineNum="34" pc="268436636" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="27" lineNum="38" pc="268436671" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="27" lineNum="39" pc="268436675" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="27" lineNum="40" pc="268436711" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="28" lineNum="44" pc="268436746" symbol="notifyScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="28" lineNum="45" pc="268436750" symbol="notifyScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="29" lineNum="48" pc="268436770" symbol="notifyConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="29" lineNum="49" pc="268436774" symbol="notifyConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="30" lineNum="52" pc="268436794" symbol="notifyDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="30" lineNum="53" pc="268436798" symbol="notifyDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="31" lineNum="56" pc="268436818" symbol="notifyCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ThingyDelegate.mc" id="31" lineNum="57" pc="268436822" symbol="notifyCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="35" lineNum="7" pc="268436981" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="35" lineNum="8" pc="268436985" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="35" lineNum="10" pc="268437003" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="13" pc="268437014" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="14" pc="268437018" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="15" pc="268437018" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="17" pc="268437018" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="18" pc="268437038" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="20" pc="268437048" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="23" pc="268437055" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="24" pc="268437095" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="26" pc="268437107" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="32" pc="268437171" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="33" pc="268437191" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="41" pc="268437266" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="49" pc="268437341" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="57" pc="268437416" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceView.mc" id="36" lineNum="64" pc="268437491" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="17" pc="268438029" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="18" pc="268438033" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="19" pc="268438047" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="21" pc="268438061" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="22" pc="268438071" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="25" pc="268438098" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="27" pc="268438112" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="29" pc="268438139" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="30" pc="268438146" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="33" pc="268438176" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="35" pc="268438203" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="36" pc="268438210" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="39" pc="268438240" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="41" pc="268438267" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="42" pc="268438274" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="45" pc="268438304" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="47" pc="268438331" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="48" pc="268438338" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="39" lineNum="51" pc="268438368" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="54" pc="268438381" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="55" pc="268438385" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="57" pc="268438521" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="58" pc="268438535" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="61" pc="268438538" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="62" pc="268438552" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="65" pc="268438555" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="66" pc="268438569" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="69" pc="268438572" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="40" lineNum="70" pc="268438586" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="41" lineNum="74" pc="268438590" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="41" lineNum="75" pc="268438594" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="41" lineNum="76" pc="268438632" symbol="onDescriptorWrite"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="42" lineNum="80" pc="268438650" symbol="getTemperature"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="42" lineNum="81" pc="268438654" symbol="getTemperature"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="43" lineNum="84" pc="268438664" symbol="getPressure"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="43" lineNum="85" pc="268438668" symbol="getPressure"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="44" lineNum="88" pc="268438678" symbol="getHumidity"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="44" lineNum="89" pc="268438682" symbol="getHumidity"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="45" lineNum="92" pc="268438692" symbol="getEco2"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="45" lineNum="93" pc="268438696" symbol="getEco2"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="46" lineNum="96" pc="268438706" symbol="getTvoc"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/EnvironmentProfileModel.mc" id="46" lineNum="97" pc="268438710" symbol="getTvoc"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="54" lineNum="9" pc="268439310" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="54" lineNum="10" pc="268439314" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="54" lineNum="12" pc="268439328" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="54" lineNum="13" pc="268439342" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="16" pc="268439356" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="17" pc="268439360" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="20" pc="268439364" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="21" pc="268439394" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="22" pc="268439419" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="23" pc="268439423" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="24" pc="268439436" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="28" pc="268439455" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="29" pc="268439460" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="55" lineNum="32" pc="268439483" symbol="procScanResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="56" lineNum="35" pc="268439500" symbol="nextResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="56" lineNum="36" pc="268439504" symbol="nextResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="56" lineNum="37" pc="268439539" symbol="nextResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="56" lineNum="38" pc="268439558" symbol="nextResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="57" lineNum="42" pc="268439578" symbol="previousResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="57" lineNum="43" pc="268439582" symbol="previousResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="57" lineNum="44" pc="268439599" symbol="previousResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="57" lineNum="45" pc="268439618" symbol="previousResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="58" lineNum="49" pc="268439638" symbol="getScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="58" lineNum="50" pc="268439642" symbol="getScanResults"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="59" lineNum="53" pc="268439652" symbol="getDisplayResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="59" lineNum="54" pc="268439656" symbol="getDisplayResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="59" lineNum="55" pc="268439682" symbol="getDisplayResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="59" lineNum="58" pc="268439687" symbol="getDisplayResult"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="60" lineNum="61" pc="268439706" symbol="getDisplayIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="60" lineNum="62" pc="268439710" symbol="getDisplayIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="60" lineNum="63" pc="268439736" symbol="getDisplayIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="60" lineNum="66" pc="268439745" symbol="getDisplayIndex"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="61" lineNum="69" pc="268439761" symbol="getResultCount"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanDataModel.mc" id="61" lineNum="70" pc="268439765" symbol="getResultCount"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="63" lineNum="46" pc="268439784" symbol="registerProfiles"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="63" lineNum="47" pc="268439788" symbol="registerProfiles"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="50" pc="268439813" symbol="getDescription"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="51" pc="268439817" symbol="getDescription"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="52" pc="268439839" symbol="getDescription"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="55" pc="268439854" symbol="getDescription"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="4" pc="268441357" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="5" pc="268441398" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="6" pc="268441439" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="7" pc="268441480" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="8" pc="268441521" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="11" pc="268441562" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="13" pc="268441874" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ProfileManager.mc" id="64" lineNum="38" pc="268441968" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="66" lineNum="7" pc="268439864" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="66" lineNum="8" pc="268439868" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="67" lineNum="11" pc="268439887" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="67" lineNum="12" pc="268439891" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="67" lineNum="13" pc="268439902" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="67" lineNum="15" pc="268439933" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/ScanMenuDelegate.mc" id="67" lineNum="16" pc="268439944" symbol="onMenuItem"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="11" pc="268439976" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="12" pc="268439980" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="13" pc="268439990" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="15" pc="268440000" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="17" pc="268440014" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="69" lineNum="18" pc="268440023" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="21" pc="268440033" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="22" pc="268440037" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="24" pc="268440051" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="27" pc="268440055" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="28" pc="268440069" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="70" lineNum="31" pc="268440084" symbol="procConnection"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="71" lineNum="34" pc="268440101" symbol="pair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="71" lineNum="35" pc="268440105" symbol="pair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="71" lineNum="36" pc="268440133" symbol="pair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="72" lineNum="39" pc="268440165" symbol="unpair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="72" lineNum="40" pc="268440169" symbol="unpair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="72" lineNum="41" pc="268440193" symbol="unpair"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="73" lineNum="44" pc="268440203" symbol="getActiveProfile"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="73" lineNum="45" pc="268440207" symbol="getActiveProfile"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="73" lineNum="46" pc="268440228" symbol="getActiveProfile"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="73" lineNum="49" pc="268440233" symbol="getActiveProfile"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="74" lineNum="52" pc="268440243" symbol="isConnected"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DeviceDataModel.mc" id="74" lineNum="53" pc="268440247" symbol="isConnected"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="77" lineNum="12" pc="268440320" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="77" lineNum="13" pc="268440324" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="17" pc="268440343" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="18" pc="268440347" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="19" pc="268440377" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="20" pc="268440415" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="21" pc="268440461" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="23" pc="268440499" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="78" lineNum="24" pc="268440523" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="79" lineNum="28" pc="268440542" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="79" lineNum="29" pc="268440546" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="79" lineNum="30" pc="268440555" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="79" lineNum="31" pc="268440564" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="79" lineNum="32" pc="268440573" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="80" lineNum="36" pc="268440583" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/NordicThingyApp.mc" id="80" lineNum="37" pc="268440587" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="82" lineNum="14" pc="268440606" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="82" lineNum="15" pc="268440610" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="82" lineNum="16" pc="268440620" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="19" pc="268440631" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="20" pc="268440635" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="21" pc="268440635" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="22" pc="268440672" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="23" pc="268440704" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="26" pc="268440726" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="83" lineNum="29" pc="268440745" symbol="getScanDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="32" pc="268440749" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="33" pc="268440753" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="34" pc="268440753" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="35" pc="268440790" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="36" pc="268440826" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="39" pc="268440848" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="84" lineNum="42" pc="268440867" symbol="getDeviceDataModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="45" pc="268440871" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="46" pc="268440875" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="47" pc="268440875" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="48" pc="268440912" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="51" pc="268440954" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="54" pc="268440976" symbol="getEnvironmentModel"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/NordicThingy52/source/DataModelFactory.mc" id="85" lineNum="57" pc="268440995" symbol="getEnvironmentModel"/>
+        <entry filename="Rez" id="93" lineNum="24" pc="268440999" symbol="initialize"/>
+        <entry filename="Rez" id="93" lineNum="25" pc="268441003" symbol="initialize"/>
+        <entry filename="Rez" id="93" lineNum="26" pc="268441021" symbol="initialize"/>
+        <entry filename="Rez" id="93" lineNum="27" pc="268441077" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="18" object="true" symbol="ScanMenuDelegate"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="27" method="true" symbol="pushDeviceView"/>
+        <entry field="true" id="65" symbol="AIR_QUALITY_CHARACTERISTIC"/>
+        <entry id="90" method="true" symbol="notifyDescriptorWrite"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="64" symbol="HUMIDITY_CHARACTERISTIC"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="97" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_temperature&gt;"/>
+        <entry field="true" id="32" symbol="&lt;globals/ScanDataModel/&lt;&gt;_displayResult&gt;"/>
+        <entry field="true" id="94" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_service&gt;"/>
+        <entry field="true" id="85" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onConnection&gt;"/>
+        <entry id="79" method="true" symbol="pair"/>
+        <entry field="true" id="101" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_tvoc&gt;"/>
+        <entry field="true" id="22" symbol="_scanDataModel"/>
+        <entry field="true" id="67" symbol="&lt;globals/ProfileManager/&lt;&gt;_envProfileDef&gt;"/>
+        <entry id="10" object="true" symbol="ViewController"/>
+        <entry id="110" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+        <entry id="108" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="28" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_bleDelegate&gt;"/>
+        <entry field="true" id="62" symbol="TEMPERATURE_CHARACTERISTIC"/>
+        <entry id="19" object="true" symbol="DeviceDataModel"/>
+        <entry id="20" object="true" symbol="NordicThingyApp"/>
+        <entry id="111" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+        <entry id="8391256" method="true" symbol="onScanResults"/>
+        <entry id="93" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry field="true" id="96" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pendingNotifies&gt;"/>
+        <entry id="78" method="true" symbol="procConnection"/>
+        <entry id="46" method="true" symbol="getScanDataModel"/>
+        <entry field="true" id="60" symbol="AppName"/>
+        <entry field="true" id="55" symbol="TempInd"/>
+        <entry id="8391262" method="true" symbol="onDescriptorWrite"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="15" object="true" symbol="EnvironmentProfileModel"/>
+        <entry id="37" method="true" symbol="getScanResults"/>
+        <entry id="105" method="true" symbol="getEco2"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="52" symbol="HumidityInd"/>
+        <entry field="true" id="66" symbol="THINGY_CONFIGURATION_SERVICE"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8391340" symbol="descriptors"/>
+        <entry id="12" object="true" symbol="DeviceDelegate"/>
+        <entry field="true" id="23" symbol="&lt;globals/DeviceView/&lt;&gt;_dataModel&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="102" method="true" symbol="getTemperature"/>
+        <entry field="true" id="68" symbol="&lt;globals/ProfileManager/&lt;&gt;UuidNameLookup&gt;"/>
+        <entry id="8391263" method="true" symbol="onCharacteristicChanged"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8391258" method="true" symbol="onConnectedStateChanged"/>
+        <entry id="17" object="true" symbol="ProfileManager"/>
+        <entry id="70" method="true" symbol="getDescription"/>
+        <entry id="114" symbol="item_2"/>
+        <entry id="113" symbol="item_1"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="50" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="81" method="true" symbol="getActiveProfile"/>
+        <entry field="true" id="30" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_modelFactory&gt;"/>
+        <entry field="true" id="61" symbol="THINGY_ENVIRONMENTAL_SERVICE"/>
+        <entry field="true" id="42" symbol="&lt;globals/DataModelFactory/&lt;&gt;_profileManager&gt;"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="63" symbol="PRESSURE_CHARACTERISTIC"/>
+        <entry id="14" object="true" symbol="DeviceView"/>
+        <entry field="true" id="74" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_scanResult&gt;"/>
+        <entry id="48" method="true" symbol="getEnvironmentModel"/>
+        <entry id="36" method="true" symbol="previousResult"/>
+        <entry id="80" method="true" symbol="unpair"/>
+        <entry id="13" object="true" symbol="ThingyDelegate"/>
+        <entry id="35" method="true" symbol="nextResult"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="45" symbol="&lt;globals/DataModelFactory/&lt;&gt;_envModel&gt;"/>
+        <entry id="107" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry field="true" id="56" symbol="Launcher"/>
+        <entry field="true" id="31" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_viewController&gt;"/>
+        <entry field="true" id="71" symbol="&lt;globals/DeviceDelegate/&lt;&gt;_deviceDataModel&gt;"/>
+        <entry field="true" id="87" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onCharChanged&gt;"/>
+        <entry field="true" id="54" symbol="PressureInd"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="57" object="true" symbol="MainMenu"/>
+        <entry id="104" method="true" symbol="getHumidity"/>
+        <entry id="47" method="true" symbol="getDeviceDataModel"/>
+        <entry field="true" id="100" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_eco2&gt;"/>
+        <entry id="40" method="true" symbol="getResultCount"/>
+        <entry id="106" method="true" symbol="getTvoc"/>
+        <entry id="8391244" method="true" symbol="isConnected"/>
+        <entry field="true" id="76" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_environmentProfile&gt;"/>
+        <entry id="91" method="true" symbol="notifyCharacteristicChanged"/>
+        <entry id="8391337" symbol="offset"/>
+        <entry id="103" method="true" symbol="getPressure"/>
+        <entry field="true" id="99" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_humidity&gt;"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="69" method="true" symbol="registerProfiles"/>
+        <entry field="true" id="41" symbol="&lt;globals/DataModelFactory/&lt;&gt;_delegate&gt;"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="44" symbol="&lt;globals/DataModelFactory/&lt;&gt;_deviceDataModel&gt;"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="109" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry field="true" id="25" symbol="&lt;globals/ViewController/&lt;&gt;_modelFactory&gt;"/>
+        <entry id="24" method="true" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry id="112" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+        <entry id="92" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="88" method="true" symbol="notifyScanResult"/>
+        <entry field="true" id="72" symbol="&lt;globals/ScanDelegate/&lt;&gt;_scanDataModel&gt;"/>
+        <entry id="39" method="true" symbol="getDisplayIndex"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="86" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onDescriptorWrite&gt;"/>
+        <entry field="true" id="53" symbol="LeafInd"/>
+        <entry id="8391334" symbol="uuid"/>
+        <entry id="26" method="true" symbol="pushScanMenu"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="29" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="33" symbol="&lt;globals/ScanDataModel/&lt;&gt;_scanResults&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="21" object="true" symbol="DataModelFactory"/>
+        <entry id="8391341" symbol="characteristics"/>
+        <entry id="9" object="true" symbol="ScanView"/>
+        <entry id="16" object="true" symbol="ScanDataModel"/>
+        <entry field="true" id="51" symbol="Co2Ind"/>
+        <entry field="true" id="95" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_profileManager&gt;"/>
+        <entry id="38" method="true" symbol="getDisplayResult"/>
+        <entry id="49" module="true" symbol="Layouts"/>
+        <entry field="true" id="83" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="73" symbol="&lt;globals/ScanDelegate/&lt;&gt;_viewController&gt;"/>
+        <entry id="82" method="true" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+        <entry field="true" id="98" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pressure&gt;"/>
+        <entry id="11" object="true" symbol="ScanDelegate"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="75" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_device&gt;"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="43" symbol="&lt;globals/DataModelFactory/&lt;&gt;_scanDataModel&gt;"/>
+        <entry field="true" id="77" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_dataModelFactory&gt;"/>
+        <entry id="89" method="true" symbol="notifyConnection"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="34" method="true" symbol="procScanResult"/>
+        <entry field="true" id="84" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onScanResult&gt;"/>
+        <entry field="true" id="59" symbol="menu_label_2"/>
+        <entry field="true" id="58" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435489" name="scanDataModel" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435494" name="dc" stackId="1" startPc="268435489"/>
+        <entry endPc="268435797" name="displayResult" stackId="2" startPc="268435503"/>
+        <entry endPc="268435797" name="textOffset" stackId="5" startPc="268435503"/>
+        <entry endPc="268435797" name="strDimen" stackId="4" startPc="268435503"/>
+        <entry endPc="268435797" name="str" stackId="3" startPc="268435503"/>
+        <entry arg="true" endPc="268435798" name="dc" stackId="1" startPc="268435499"/>
+        <entry arg="true" endPc="268435818" name="modelFactory" stackId="1" startPc="268435803"/>
+        <entry endPc="268435914" name="scanDataModel" stackId="1" startPc="268435822"/>
+        <entry endPc="268436105" name="deviceDataModel" stackId="2" startPc="268436008"/>
+        <entry arg="true" endPc="268436106" name="scanResult" stackId="1" startPc="268436004"/>
+        <entry arg="true" endPc="268436149" name="scanDataModel" stackId="1" startPc="268436106"/>
+        <entry arg="true" endPc="268436149" name="viewController" stackId="2" startPc="268436106"/>
+        <entry arg="true" endPc="268436337" name="deviceDataModel" stackId="1" startPc="268436286"/>
+        <entry arg="true" endPc="268436424" name="profileManager" stackId="1" startPc="268436391"/>
+        <entry endPc="268436520" name="result" stackId="2" startPc="268436448"/>
+        <entry arg="true" endPc="268436521" name="scanResults" stackId="1" startPc="268436424"/>
+        <entry arg="true" endPc="268436596" name="device" stackId="1" startPc="268436521"/>
+        <entry arg="true" endPc="268436596" name="state" stackId="2" startPc="268436521"/>
+        <entry arg="true" endPc="268436671" name="status" stackId="2" startPc="268436596"/>
+        <entry arg="true" endPc="268436671" name="descriptor" stackId="1" startPc="268436596"/>
+        <entry arg="true" endPc="268436746" name="char" stackId="1" startPc="268436671"/>
+        <entry arg="true" endPc="268436746" name="value" stackId="2" startPc="268436671"/>
+        <entry arg="true" endPc="268436770" name="interface" stackId="1" startPc="268436746"/>
+        <entry arg="true" endPc="268436794" name="interface" stackId="1" startPc="268436770"/>
+        <entry arg="true" endPc="268436818" name="interface" stackId="1" startPc="268436794"/>
+        <entry arg="true" endPc="268436842" name="interface" stackId="1" startPc="268436818"/>
+        <entry arg="true" endPc="268436915" name="scanResult" stackId="1" startPc="268436842"/>
+        <entry endPc="268436977" name="uuid" stackId="3" startPc="268436939"/>
+        <entry arg="true" endPc="268436981" name="iter" stackId="1" startPc="268436915"/>
+        <entry arg="true" endPc="268436981" name="obj" stackId="2" startPc="268436915"/>
+        <entry arg="true" endPc="268437014" name="dataModel" stackId="1" startPc="268436981"/>
+        <entry endPc="268437569" name="bkgnd" stackId="2" startPc="268437018"/>
+        <entry endPc="268437569" name="statusString" stackId="3" startPc="268437018"/>
+        <entry arg="true" endPc="268437570" name="dc" stackId="1" startPc="268437014"/>
+        <entry endPc="268438028" name="cellY" stackId="10" startPc="268437574"/>
+        <entry endPc="268438028" name="cellX" stackId="11" startPc="268437574"/>
+        <entry endPc="268438028" name="cellWidth" stackId="9" startPc="268437574"/>
+        <entry endPc="268438028" name="image" stackId="13" startPc="268437574"/>
+        <entry endPc="268438028" name="cellXOffset" stackId="12" startPc="268437574"/>
+        <entry endPc="268438028" name="gridOffset" stackId="7" startPc="268437574"/>
+        <entry endPc="268438028" name="cellHeight" stackId="8" startPc="268437574"/>
+        <entry endPc="268438028" name="label" stackId="14" startPc="268437574"/>
+        <entry endPc="268438028" name="imageOffset" stackId="15" startPc="268437574"/>
+        <entry arg="true" endPc="268438029" name="cell" stackId="6" startPc="268437570"/>
+        <entry arg="true" endPc="268438029" name="dc" stackId="1" startPc="268437570"/>
+        <entry arg="true" endPc="268438029" name="units" stackId="5" startPc="268437570"/>
+        <entry arg="true" endPc="268438029" name="value" stackId="3" startPc="268437570"/>
+        <entry arg="true" endPc="268438029" name="bitmap" stackId="2" startPc="268437570"/>
+        <entry arg="true" endPc="268438029" name="format" stackId="4" startPc="268437570"/>
+        <entry endPc="268438380" name="characteristic" stackId="4" startPc="268438033"/>
+        <entry arg="true" endPc="268438381" name="profileManager" stackId="2" startPc="268438029"/>
+        <entry arg="true" endPc="268438381" name="delegate" stackId="1" startPc="268438029"/>
+        <entry arg="true" endPc="268438381" name="device" stackId="3" startPc="268438029"/>
+        <entry arg="true" endPc="268438590" name="char" stackId="1" startPc="268438381"/>
+        <entry arg="true" endPc="268438590" name="value" stackId="2" startPc="268438381"/>
+        <entry arg="true" endPc="268438650" name="status" stackId="2" startPc="268438590"/>
+        <entry arg="true" endPc="268438650" name="descriptor" stackId="1" startPc="268438590"/>
+        <entry endPc="268438842" name="char" stackId="1" startPc="268438724"/>
+        <entry endPc="268438842" name="cccd" stackId="2" startPc="268438724"/>
+        <entry arg="true" endPc="268438950" name="status" stackId="1" startPc="268438843"/>
+        <entry arg="true" endPc="268439053" name="value" stackId="1" startPc="268438950"/>
+        <entry arg="true" endPc="268439106" name="value" stackId="1" startPc="268439053"/>
+        <entry arg="true" endPc="268439208" name="value" stackId="1" startPc="268439106"/>
+        <entry arg="true" endPc="268439310" name="value" stackId="1" startPc="268439208"/>
+        <entry arg="true" endPc="268439356" name="bleDelegate" stackId="1" startPc="268439310"/>
+        <entry endPc="268439455" name="i" stackId="3" startPc="268439394"/>
+        <entry endPc="268439499" name="newDevice" stackId="2" startPc="268439360"/>
+        <entry arg="true" endPc="268439500" name="scanResult" stackId="1" startPc="268439356"/>
+        <entry arg="true" endPc="268439861" name="uuid" stackId="1" startPc="268439813"/>
+        <entry arg="true" endPc="268439976" name="item" stackId="1" startPc="268439887"/>
+        <entry arg="true" endPc="268440033" name="dataModelFactory" stackId="2" startPc="268439976"/>
+        <entry arg="true" endPc="268440033" name="scanResult" stackId="3" startPc="268439976"/>
+        <entry arg="true" endPc="268440033" name="bleDelegate" stackId="1" startPc="268439976"/>
+        <entry arg="true" endPc="268440101" name="device" stackId="1" startPc="268440033"/>
+        <entry arg="true" endPc="268440101" name="connState" stackId="2" startPc="268440033"/>
+        <entry arg="true" endPc="268440542" name="state" stackId="1" startPc="268440343"/>
+        <entry arg="true" endPc="268440583" name="state" stackId="1" startPc="268440542"/>
+        <entry arg="true" endPc="268440631" name="profileManager" stackId="2" startPc="268440606"/>
+        <entry arg="true" endPc="268440631" name="delegate" stackId="1" startPc="268440606"/>
+        <entry endPc="268440748" name="dataModel" stackId="1" startPc="268440635"/>
+        <entry endPc="268440870" name="dataModel" stackId="2" startPc="268440753"/>
+        <entry arg="true" endPc="268440871" name="scanResult" stackId="1" startPc="268440749"/>
+        <entry endPc="268440998" name="dataModel" stackId="2" startPc="268440875"/>
+        <entry arg="true" endPc="268440999" name="device" stackId="1" startPc="268440871"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="238" parentId="globals" symbolId="ScanView" type="class"/>
+        <dataEntry offset="325" parentId="globals" symbolId="DeviceView" type="class"/>
+        <dataEntry offset="396" parentId="globals" symbolId="ViewController" type="class"/>
+        <dataEntry offset="475" parentId="globals" symbolId="NordicThingyApp" type="class"/>
+        <dataEntry offset="578" parentId="globals" symbolId="ScanDataModel" type="class"/>
+        <dataEntry offset="697" parentId="globals" symbolId="DataModelFactory" type="class"/>
+        <dataEntry offset="808" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="887" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="966" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1005" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="1052" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1083" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1114" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1145" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1200" parentId="globals" symbolId="ProfileManager" type="class"/>
+        <dataEntry offset="1327" parentId="globals" symbolId="DeviceDelegate" type="class"/>
+        <dataEntry offset="1390" parentId="globals" symbolId="ScanMenuDelegate" type="class"/>
+        <dataEntry offset="1445" parentId="globals" symbolId="ScanDelegate" type="class"/>
+        <dataEntry offset="1540" parentId="globals" symbolId="DeviceDataModel" type="class"/>
+        <dataEntry offset="1667" parentId="globals" symbolId="ThingyDelegate" type="class"/>
+        <dataEntry offset="1834" parentId="globals" symbolId="EnvironmentProfileModel" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ScanView">
+            <param id="scanDataModel"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ScanView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ScanView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ScanView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ScanView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ViewController">
+            <param id="modelFactory"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ViewController">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pushScanMenu" parent="ViewController">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pushDeviceView" parent="ViewController">
+            <param id="scanResult"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScanDelegate">
+            <param id="scanDataModel"/>
+            <param id="viewController"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="ScanDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="ScanDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="ScanDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="ScanDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceDelegate">
+            <param id="deviceDataModel"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="DeviceDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ThingyDelegate">
+            <param id="profileManager"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onScanResults" parent="ThingyDelegate">
+            <param id="scanResults"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onConnectedStateChanged" parent="ThingyDelegate">
+            <param id="device"/>
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onDescriptorWrite" parent="ThingyDelegate">
+            <param id="descriptor"/>
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCharacteristicChanged" parent="ThingyDelegate">
+            <param id="char"/>
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyScanResult" parent="ThingyDelegate">
+            <param id="interface"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyConnection" parent="ThingyDelegate">
+            <param id="interface"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyDescriptorWrite" parent="ThingyDelegate">
+            <param id="interface"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="notifyCharacteristicChanged" parent="ThingyDelegate">
+            <param id="interface"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;" parent="ThingyDelegate">
+            <param id="scanResult"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;" parent="ThingyDelegate">
+            <param id="iter"/>
+            <param id="obj"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceView">
+            <param id="dataModel"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DeviceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;" parent="DeviceView">
+            <param id="dc"/>
+            <param id="bitmap"/>
+            <param id="value"/>
+            <param id="format"/>
+            <param id="units"/>
+            <param id="cell"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="EnvironmentProfileModel">
+            <param id="delegate"/>
+            <param id="profileManager"/>
+            <param id="device"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCharacteristicChanged" parent="EnvironmentProfileModel">
+            <param id="char"/>
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onDescriptorWrite" parent="EnvironmentProfileModel">
+            <param id="descriptor"/>
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTemperature" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getPressure" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getHumidity" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getEco2" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTvoc" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;" parent="EnvironmentProfileModel">
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;" parent="EnvironmentProfileModel">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;" parent="EnvironmentProfileModel">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;" parent="EnvironmentProfileModel">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;" parent="EnvironmentProfileModel">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScanDataModel">
+            <param id="bleDelegate"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="procScanResult" parent="ScanDataModel">
+            <param id="scanResult"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="nextResult" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="previousResult" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getScanResults" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDisplayResult" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDisplayIndex" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getResultCount" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="registerProfiles" parent="ProfileManager">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDescription" parent="ProfileManager">
+            <param id="uuid"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScanMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="ScanMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceDataModel">
+            <param id="bleDelegate"/>
+            <param id="dataModelFactory"/>
+            <param id="scanResult"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="procConnection" parent="DeviceDataModel">
+            <param id="device"/>
+            <param id="connState"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pair" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="unpair" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getActiveProfile" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isConnected" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NordicThingyApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="NordicThingyApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="NordicThingyApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="NordicThingyApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataModelFactory">
+            <param id="delegate"/>
+            <param id="profileManager"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getScanDataModel" parent="DataModelFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDeviceDataModel" parent="DataModelFactory">
+            <param id="scanResult"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getEnvironmentModel" parent="DataModelFactory">
+            <param id="device"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

@@ -1,0 +1,10 @@
+<layout id="SettingsLayout" background="Graphics.COLOR_BLACK">
+    <label id="Info1" x="3" y="1" text="Default Properties" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="Info2" x="3" y="89" text="Edit these via Express/GCM" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="Info3" x="3" y="107" text="Default properties can't" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="Info4" x="3" y="125" text="be cleared" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_RED" />
+    <label id="IntLabel" x="3" y="20" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="FloatLabel" x="3" y="37" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="StringLabel" x="3" y="54" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="BoolLabel" x="3" y="71" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+</layout>

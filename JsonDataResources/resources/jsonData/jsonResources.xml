@@ -1,0 +1,21 @@
+<jsonDataResources>
+    <jsonData id="arrayResource">
+        [10, 20]
+    </jsonData>
+
+    <jsonData id="dictionaryResource">
+        {"valueKey" : 5, "arrayKey" : [4, 10, 6]}
+    </jsonData>
+
+    <jsonData id="mixedArrayResource">
+       [[1, 2, 3, 4], {"keyFive" : 6, "key7" : [8, 9]}]
+   </jsonData>
+
+   <jsonData id="singleValue">
+        3.14
+   </jsonData>
+
+   <jsonData id="dictionaryFromFile" filename="dictionary.json" />
+   <jsonData id="arrayFromFile" filename="array.json" />
+
+</jsonDataResources>

@@ -1,0 +1,15 @@
+<layout id="MainLayout">
+    <label id="labelTitle" x="center" y="5" color="Graphics.COLOR_LT_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.title" font="Graphics.FONT_TINY"/>
+
+    <label id="labelRxFail" x="center" y="60" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.rxFail" font="Graphics.FONT_TINY" />
+    <label id="rxFail" x="center" y="80" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+
+    <label id="labelRxSuccess" x="center" y="100" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.rxSuccess" font="Graphics.FONT_TINY" />
+    <label id="rxSuccess" x="center" y="120" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+
+    <label id="labelTxFail" x="center" y="140" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.txFail" font="Graphics.FONT_TINY" />
+    <label id="txFail" x="center" y="160" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+
+    <label id="labelTxSuccess" x="center" y="180" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" text="@Strings.txSuccess" font="Graphics.FONT_TINY" />
+    <label id="txSuccess" x="center" y="200" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+</layout>

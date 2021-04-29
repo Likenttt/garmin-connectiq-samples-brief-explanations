@@ -1,0 +1,4 @@
+<resources>
+    <bitmap id="nextArrow" filename="images/next_arrow.png" />
+    <bitmap id="previousArrow" filename="images/previous_arrow.png" />
+</resources>

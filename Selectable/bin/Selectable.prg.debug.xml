@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="4" lineNum="17" pc="268435479" symbol="onSelectable"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="4" lineNum="18" pc="268435483" symbol="onSelectable"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="4" lineNum="20" pc="268435496" symbol="onSelectable"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="4" lineNum="21" pc="268435510" symbol="onSelectable"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="4" lineNum="23" pc="268435550" symbol="onSelectable"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="5" lineNum="26" pc="268435554" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="5" lineNum="27" pc="268435558" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="5" lineNum="28" pc="268435575" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="5" lineNum="29" pc="268435601" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="6" lineNum="32" pc="268435605" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="6" lineNum="33" pc="268435609" symbol="onNextPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="7" lineNum="36" pc="268435634" symbol="pushMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="7" lineNum="37" pc="268435638" symbol="pushMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="7" lineNum="38" pc="268435662" symbol="pushMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="7" lineNum="39" pc="268435686" symbol="pushMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="7" lineNum="40" pc="268435708" symbol="pushMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="8" lineNum="43" pc="268435712" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="8" lineNum="44" pc="268435716" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="8" lineNum="46" pc="268435729" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="8" lineNum="47" pc="268435743" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxDelegate.mc" id="8" lineNum="50" pc="268435770" symbol="onKey"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="10" lineNum="22" pc="268435774" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="10" lineNum="23" pc="268435778" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="10" lineNum="26" pc="268435798" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="11" lineNum="30" pc="268435823" symbol="unHighlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="11" lineNum="32" pc="268435827" symbol="unHighlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="11" lineNum="33" pc="268435847" symbol="unHighlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="11" lineNum="36" pc="268435867" symbol="unHighlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="11" lineNum="37" pc="268435887" symbol="unHighlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="12" lineNum="42" pc="268435908" symbol="reset"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="12" lineNum="45" pc="268435912" symbol="reset"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="12" lineNum="46" pc="268435923" symbol="reset"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="12" lineNum="48" pc="268435943" symbol="reset"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="12" lineNum="49" pc="268435954" symbol="reset"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="13" lineNum="54" pc="268435975" symbol="highlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="13" lineNum="57" pc="268435979" symbol="highlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="13" lineNum="58" pc="268435990" symbol="highlight"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="63" pc="268436011" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="65" pc="268436015" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="66" pc="268436026" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="69" pc="268436046" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="70" pc="268436057" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="73" pc="268436077" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="14" lineNum="74" pc="268436088" symbol="select"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="87" pc="268436109" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="88" pc="268436113" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="91" pc="268436122" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="94" pc="268436129" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="95" pc="268436191" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="96" pc="268436253" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="97" pc="268436315" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="98" pc="268436377" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="101" pc="268436391" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="102" pc="268436404" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="104" pc="268436418" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="105" pc="268436418" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="106" pc="268436444" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="107" pc="268436451" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="108" pc="268436470" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="109" pc="268436486" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="110" pc="268436496" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="112" pc="268436533" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="113" pc="268436540" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="114" pc="268436559" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="115" pc="268436575" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="116" pc="268436585" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="120" pc="268436619" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="131" pc="268436729" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="134" pc="268436767" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="135" pc="268436792" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="138" pc="268436830" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="16" lineNum="139" pc="268436858" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="17" lineNum="143" pc="268436897" symbol="getList"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="17" lineNum="144" pc="268436901" symbol="getList"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="148" pc="268436911" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="150" pc="268436915" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="152" pc="268436935" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="153" pc="268436974" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="157" pc="268436995" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="158" pc="268437005" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="160" pc="268437022" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="161" pc="268437042" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="163" pc="268437059" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="18" lineNum="164" pc="268437079" symbol="handleEvent"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="20" lineNum="175" pc="268437097" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="20" lineNum="176" pc="268437101" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="20" lineNum="179" pc="268437119" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="21" lineNum="183" pc="268437130" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="21" lineNum="184" pc="268437134" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="21" lineNum="185" pc="268437166" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="22" lineNum="189" pc="268437196" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/CheckBoxView.mc" id="22" lineNum="190" pc="268437200" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="24" lineNum="11" pc="268437221" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="24" lineNum="12" pc="268437225" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="25" lineNum="16" pc="268437244" symbol="onStart"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="26" lineNum="20" pc="268437249" symbol="onStop"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="27" lineNum="24" pc="268437254" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/SelectableApp.mc" id="27" lineNum="25" pc="268437258" symbol="getInitialView"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="29" lineNum="12" pc="268437326" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="29" lineNum="13" pc="268437330" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="30" lineNum="17" pc="268437349" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="30" lineNum="18" pc="268437353" symbol="onLayout"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="31" lineNum="22" pc="268437391" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonView.mc" id="31" lineNum="23" pc="268437395" symbol="onUpdate"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="33" lineNum="12" pc="268437416" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="33" lineNum="13" pc="268437420" symbol="initialize"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="34" lineNum="16" pc="268437439" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="34" lineNum="17" pc="268437443" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="34" lineNum="18" pc="268437471" symbol="onBack"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="35" lineNum="21" pc="268437475" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="35" lineNum="22" pc="268437479" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="35" lineNum="23" pc="268437507" symbol="onPreviousPage"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="36" lineNum="26" pc="268437511" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="36" lineNum="27" pc="268437515" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="36" lineNum="28" pc="268437530" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="36" lineNum="36" pc="268437846" symbol="onMenu"/>
+        <entry filename="/Users/kent/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-3.2.5-2021-02-12-6d31f4357/samples/Selectable/source/ButtonDelegate.mc" id="36" lineNum="38" pc="268437867" symbol="onMenu"/>
+        <entry filename="Rez" id="42" lineNum="23" pc="268437871" symbol="ButtonLayout"/>
+        <entry filename="Rez" id="42" lineNum="25" pc="268437883" symbol="ButtonLayout"/>
+        <entry filename="Rez" id="42" lineNum="27" pc="268437896" symbol="ButtonLayout"/>
+        <entry filename="Rez" id="42" lineNum="28" pc="268438260" symbol="ButtonLayout"/>
+        <entry filename="Rez" id="42" lineNum="30" pc="268438624" symbol="ButtonLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="9" symbol="keyToSelectable"/>
+        <entry id="15" object="true" symbol="SelectableApp"/>
+        <entry id="32" method="true" symbol="ButtonLayout"/>
+        <entry id="17" object="true" symbol="ButtonDelegate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="11" symbol="currentView"/>
+        <entry id="8389084" method="true" symbol="handleEvent"/>
+        <entry field="true" id="8389103" symbol="behavior"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="18" symbol="list"/>
+        <entry id="40" method="true" symbol="select"/>
+        <entry id="38" method="true" symbol="reset"/>
+        <entry field="true" id="19" symbol="currentHighlight"/>
+        <entry field="true" id="33" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="8389898" symbol="stateHighlighted"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="24" symbol="checkBoxSelected"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="28" symbol="PressedBackButton"/>
+        <entry id="37" method="true" symbol="unHighlight"/>
+        <entry field="true" id="8389899" symbol="stateSelected"/>
+        <entry id="20" method="true" symbol="getList"/>
+        <entry field="true" id="34" symbol="checkBoxes"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="22" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="14" object="true" symbol="CheckBoxView"/>
+        <entry field="true" id="27" symbol="DefaultBackButton"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389892" symbol="background"/>
+        <entry id="16" object="true" symbol="ButtonView"/>
+        <entry id="8389890" method="true" symbol="onSelectable"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="10" object="true" symbol="CheckBoxDelegate"/>
+        <entry field="true" id="30" symbol="PressedMenuButton"/>
+        <entry field="true" id="23" symbol="checkBoxDefault"/>
+        <entry field="true" id="8389897" symbol="stateDefault"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="26" symbol="checkBoxHighlightedSelected"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="29" symbol="DefaultMenuButton"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="35" method="true" symbol="pushMenu"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="13" object="true" symbol="CheckBoxList"/>
+        <entry field="true" id="8389900" symbol="stateDisabled"/>
+        <entry id="21" module="true" symbol="Layouts"/>
+        <entry field="true" id="36" symbol="stateHighlightedSelected"/>
+        <entry id="12" object="true" symbol="Checkbox"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="25" symbol="checkBoxHighlighted"/>
+        <entry id="39" method="true" symbol="highlight"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435553" name="instance" stackId="2" startPc="268435483"/>
+        <entry arg="true" endPc="268435554" name="event" stackId="1" startPc="268435479"/>
+        <entry endPc="268435711" name="view" stackId="2" startPc="268435638"/>
+        <entry endPc="268435711" name="delegate" stackId="3" startPc="268435638"/>
+        <entry arg="true" endPc="268435712" name="slideDir" stackId="1" startPc="268435634"/>
+        <entry endPc="268435773" name="key" stackId="2" startPc="268435716"/>
+        <entry arg="true" endPc="268435774" name="evt" stackId="1" startPc="268435712"/>
+        <entry arg="true" endPc="268435823" name="options" stackId="1" startPc="268435774"/>
+        <entry arg="true" endPc="268435975" name="previousState" stackId="1" startPc="268435908"/>
+        <entry arg="true" endPc="268436011" name="previousState" stackId="1" startPc="268435975"/>
+        <entry arg="true" endPc="268436109" name="previousState" stackId="1" startPc="268436011"/>
+        <entry endPc="268436896" name="offset" stackId="11" startPc="268436113"/>
+        <entry endPc="268436896" name="checkBoxHighlightedSelected" stackId="6" startPc="268436113"/>
+        <entry endPc="268436896" name="BORDER_PAD" stackId="2" startPc="268436113"/>
+        <entry endPc="268436896" name="checkBoxHighlighted" stackId="4" startPc="268436113"/>
+        <entry endPc="268436896" name="checkBoxSelected" stackId="5" startPc="268436113"/>
+        <entry endPc="268436896" name="checkBoxDisabled" stackId="7" startPc="268436113"/>
+        <entry endPc="268436896" name="spacing" stackId="10" startPc="268436113"/>
+        <entry endPc="268436896" name="initY" stackId="13" startPc="268436113"/>
+        <entry endPc="268436896" name="initX" stackId="12" startPc="268436113"/>
+        <entry endPc="268436896" name="dims" stackId="8" startPc="268436113"/>
+        <entry endPc="268436896" name="checkBoxDefault" stackId="3" startPc="268436113"/>
+        <entry endPc="268436896" name="options" stackId="14" startPc="268436113"/>
+        <entry endPc="268436896" name="slideSymbol" stackId="9" startPc="268436113"/>
+        <entry arg="true" endPc="268436897" name="dc" stackId="1" startPc="268436109"/>
+        <entry arg="true" endPc="268437097" name="instance" stackId="1" startPc="268436911"/>
+        <entry arg="true" endPc="268437097" name="previousState" stackId="2" startPc="268436911"/>
+        <entry arg="true" endPc="268437196" name="dc" stackId="1" startPc="268437130"/>
+        <entry arg="true" endPc="268437221" name="dc" stackId="1" startPc="268437196"/>
+        <entry arg="true" endPc="268437249" name="state" stackId="1" startPc="268437244"/>
+        <entry arg="true" endPc="268437254" name="state" stackId="1" startPc="268437249"/>
+        <entry arg="true" endPc="268437391" name="dc" stackId="1" startPc="268437349"/>
+        <entry arg="true" endPc="268437416" name="dc" stackId="1" startPc="268437391"/>
+        <entry endPc="268437864" name="vibrateData" stackId="1" startPc="268437530"/>
+        <entry endPc="268438651" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268437883"/>
+        <entry endPc="268438651" name="rez_cmp_local_custom_selectable_38181530118690732781" stackId="4" startPc="268437883"/>
+        <entry endPc="268438651" name="rez_cmp_local_custom_selectable_20451997881240553066" stackId="3" startPc="268437883"/>
+        <entry arg="true" endPc="268438652" name="dc" stackId="1" startPc="268437871"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="206" parentId="globals" symbolId="CheckBoxList" type="class"/>
+        <dataEntry offset="285" parentId="globals" symbolId="ButtonDelegate" type="class"/>
+        <dataEntry offset="356" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="435" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="538" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="569" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="600" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="639" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="670" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="709" parentId="globals" symbolId="ButtonView" type="class"/>
+        <dataEntry offset="772" parentId="globals" symbolId="SelectableApp" type="class"/>
+        <dataEntry offset="843" parentId="globals" symbolId="CheckBoxView" type="class"/>
+        <dataEntry offset="914" parentId="globals" symbolId="CheckBoxDelegate" type="class"/>
+        <dataEntry offset="1001" parentId="globals" symbolId="Checkbox" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="CheckBoxDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelectable" parent="CheckBoxDelegate">
+            <param id="event"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="CheckBoxDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="CheckBoxDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pushMenu" parent="CheckBoxDelegate">
+            <param id="slideDir"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="CheckBoxDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Checkbox">
+            <param id="options"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="unHighlight" parent="Checkbox">
+            <documentation><![CDATA[<div class="description"> Special case - handle unhighlighting of a CheckBox<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="reset" parent="Checkbox">
+            <param id="previousState"/>
+            <documentation><![CDATA[<div class="description"> Handle onSelectable() returning stateDefault<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="highlight" parent="Checkbox">
+            <param id="previousState"/>
+            <documentation><![CDATA[<div class="description"> Handle onSelectable() returning stateHighlighted<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="select" parent="Checkbox">
+            <param id="previousState"/>
+            <documentation><![CDATA[<div class="description"> Handle onSelectable() returning stateSelected<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CheckBoxList">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getList" parent="CheckBoxList">
+            <documentation><![CDATA[<div class="description"> Return instance of current list of CheckBoxes<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="handleEvent" parent="CheckBoxList">
+            <param id="instance"/>
+            <param id="previousState"/>
+            <documentation><![CDATA[<div class="description"> General handler for onSelectable() events<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CheckBoxView">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CheckBoxView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CheckBoxView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SelectableApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="SelectableApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="SelectableApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="SelectableApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ButtonView">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ButtonView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ButtonView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ButtonDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="ButtonDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="ButtonDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="ButtonDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="ButtonLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

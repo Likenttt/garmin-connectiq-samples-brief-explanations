@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+        <font id="id_font_black_diamond" filename="fonts/blackdiamond.fnt" filter="0123456789" />
+    </fonts>
+</resources>

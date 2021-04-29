@@ -1,0 +1,6 @@
+<layout id="SectionThreeLayout">
+
+    <label id="ActivityLevelLabel" x="25" y="44" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+    <label id="BirthYearLabel" x="25" y="64" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+
+</layout>
