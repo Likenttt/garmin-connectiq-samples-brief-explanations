@@ -1,4 +1,4 @@
-## Garmin Samples 阅读浅析
+## Garmin Samples
 sdk版本 3.2.5 
 
 
@@ -445,18 +445,3 @@ sdk版本 3.2.5
 - [Connect-IQ-WatchFace By ravenfeld](https://gitlab.com/ravenfeld/Connect-IQ-WatchFace)
 - [Connect-IQ-Widget-Compass By ravenfeld](https://gitlab.com/ravenfeld/Connect-IQ-Widget-Compass)
 - [ConnectIQ-ActiveAnalog By snaggen](https://gitlab.com/snaggen/ConnectIQ-ActiveAnalog)
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- [ By ]()
-- 
