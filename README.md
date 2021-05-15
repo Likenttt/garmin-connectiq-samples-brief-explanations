@@ -1,6 +1,7 @@
 ## Garmin Samples
-sdk版本 3.2.5 
 
+### 官方示例
+[Samples-from-Garmin](./Samples-from-Garmin)
 
 ### 开源程序 From the Garmin Forum
 
