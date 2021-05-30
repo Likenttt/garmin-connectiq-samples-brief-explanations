@@ -39,6 +39,7 @@ class AccelMagView extends WatchUi.View {
     // Load your resources here
     function onLayout(dc) {
         dataTimer = new Timer.Timer();
+        //每一百毫秒调用一次callback函数
         dataTimer.start(method(:timerCallback), 100, true);
 
         width = dc.getWidth();
@@ -109,8 +110,10 @@ class AccelMagView extends WatchUi.View {
     }
 
     function timerCallback() {
+        //获取传感器数据
         var info = Sensor.getInfo();
 
+        //加速度数据
         if (info has :accel && info.accel != null) {
             accel = info.accel;
             var xAccel = accel[0];
