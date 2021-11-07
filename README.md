@@ -1,5 +1,8 @@
 ## Garmin Samples
 
+### 我的一些代码片段
+[佳明开发代码片段](https://github.com/Likenttt/garmin-monkeyc-code-snippets)
+
 ### 官方示例
 [Samples-from-Garmin](./Samples-from-Garmin)
 
