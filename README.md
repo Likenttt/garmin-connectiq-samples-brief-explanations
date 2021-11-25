@@ -1,7 +1,38 @@
-## Garmin Samples
+## 关于佳明开发那些事
+
+佳明开发示例代码、关键技能记录分享。欢迎star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
+
+### 重要网站
+
+#### 佳明开发者
+
+[Garmin Developer](https://developer.garmin.com/connect-iq/) 是开发者查阅官方文档的重要网站，包括 SDK、API 文档等等。
+
+#### 佳明论坛
+
+[Garmin Forums](https://forums.garmin.com/developer/connect-iq/f/discussion/) 佳明论坛讨论区，如果你有关于开发的任何问题，你都可以在这里找到答案或者提出疑问和网友们交流。但是提出问题前，请先学习下这篇经典文章[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) 。
 
 ### 官方示例
+
 [Samples-from-Garmin](./Samples-from-Garmin)
+
+### 佳明开发话题
+
+下面系列文章收录了大量我在开发中遇到的有价值的话题以及相关解答，主要来自佳明论坛（Garmin Forums）以及佳明官方API文档。特别感谢jim_m_58和FlowState两位网友，他们虽然不是佳明员工，但是一直非常积极地解答论坛中的各种问题。我敬佩他们的专家级别技能以及乐于助人的人文情怀，我分享以下内容也是有感于他们的奉献精神，希望能帮助到更多中文互联网的朋友们，享受开发的乐趣。
+
+- [天气开发](./problems/weather.md)
+- todo：神秘的draw方法
+- todo：算像素的那些奇技淫巧
+- todo：中华历法博大精深，不能抛弃，离线农历日期计算
+
+### 问题集锦
+
+1. [ciq_log有啥用？根据pc:0x10001f4定位问题？](./problems/debug-by-pc-line-from-a-ciq-log.md)
+2. todo：如何制作字体
+3. todo：图片抗锯齿
+4. todo：vscode插件无法编译
+
+
 
 ### 开源程序 From the Garmin Forum
 
