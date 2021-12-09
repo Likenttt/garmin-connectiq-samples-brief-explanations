@@ -35,6 +35,7 @@
 2. todo：如何制作字体
 3. todo：图片抗锯齿
 4. todo：vscode插件无法编译
+5. [长文本咋显示](https://forums.garmin.com/developer/connect-iq/f/discussion/258627/anybody-have-example-of-sliding-text/1235847?focus=true)
 
 
 
