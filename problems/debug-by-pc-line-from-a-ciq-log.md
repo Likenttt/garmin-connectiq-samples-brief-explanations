@@ -1,6 +1,6 @@
 ### 错误日志中的pc:0x10001f4c是什么意思，怎么定位问题？
 
-放出亲爱的jim大叔的经典文章](https://forums.garmin.com/developer/connect-iq/f/discussion/231129/so-you-have-a-ciq_log-file-but-all-you-see-is-pc-without-a-friendly-stack-trace---what-to-do)。
+放出亲爱的jim大叔的经典文章](https://forums.garmin.com/developer/connect-iq/f/discussion/231129/so-you-have-a-ciq_log-file-but-all-you-see-is-pc-without-a-friendly-stack-trace---what-to-do)
 
 pc是Program counter的缩写，即程序计数器。
 
