@@ -28,7 +28,7 @@
 3. todo：神秘的draw方法
 4. todo：算像素的那些奇技淫巧
 5. todo：中华历法博大精深，不能抛弃，离线农历日期计算
-
+6. [版权问题](./problems/copyrights.md)
 ### 问题集锦
 
 1. [ciq_log有啥用？根据pc:0x10001f4定位问题？](./problems/debug-by-pc-line-from-a-ciq-log.md)

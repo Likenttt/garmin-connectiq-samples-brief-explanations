@@ -7,6 +7,7 @@ class MenuTestMenuDelegate extends WatchUi.MenuInputDelegate {
         MenuInputDelegate.initialize();
     }
 
+    //这里演示了多级菜单的交互，注意AuxMenuDelegate的onBack方法
     function onMenuItem(item) {
         if (item == :Item1) {
             System.println("Item 1");

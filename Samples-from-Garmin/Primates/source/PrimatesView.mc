@@ -35,7 +35,7 @@ class PrimatesView extends WatchUi.View {
         var margin = 3;
         var selected = Graphics.COLOR_DK_GRAY;
         var notSelected = Graphics.COLOR_LT_GRAY;
-        var alignment = indicator.ALIGN_BOTTOM_CENTER;
+        var alignment = indicator.ALIGN_TOP_CENTER;
         indicator.setup(size, selected, notSelected, alignment, margin);
     }
 
