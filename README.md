@@ -34,7 +34,7 @@
 1. [ciq_log有啥用？根据pc:0x10001f4定位问题？](./problems/debug-by-pc-line-from-a-ciq-log.md)
 2. todo：如何制作字体
 3. todo：图片抗锯齿
-4. todo：vscode插件无法编译
+4. [vscode插件无法编译,使用makefile管理构建过程](./problems/use-makefile.md)
 5. [长文本咋显示](https://forums.garmin.com/developer/connect-iq/f/discussion/258627/anybody-have-example-of-sliding-text/1235847?focus=true)
 
 
