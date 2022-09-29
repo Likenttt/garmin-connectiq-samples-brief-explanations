@@ -1,6 +1,6 @@
 ## 关于佳明开发那些事
 
-佳明开发示例代码、关键技能记录分享。欢迎star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
+佳明开发示例代码、关键技能记录分享。欢迎 star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
 
 ### 重要网站
 
@@ -13,6 +13,7 @@
 [Garmin Forums](https://forums.garmin.com/developer/connect-iq/f/discussion/) 佳明论坛讨论区，如果你有关于开发的任何问题，你都可以在这里找到答案或者提出疑问和网友们交流。但是提出问题前，请先学习下这篇经典文章[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) 。
 
 ### 我的一些代码片段
+
 [佳明开发代码片段](https://github.com/Likenttt/garmin-monkeyc-code-snippets)
 
 ### 官方示例
@@ -21,23 +22,22 @@
 
 ### 佳明开发话题
 
-下面系列文章收录了大量我在开发中遇到的有价值的话题以及相关解答，主要来自佳明论坛（Garmin Forums）以及佳明官方API文档。特别感谢jim_m_58和FlowState两位网友，他们虽然不是佳明员工，但是一直非常积极地解答论坛中的各种问题。我敬佩他们的专家级别技能以及乐于助人的人文情怀，我分享以下内容也是有感于他们的奉献精神，希望能帮助到更多中文互联网的朋友们，享受开发的乐趣。
+下面系列文章收录了大量我在开发中遇到的有价值的话题以及相关解答，主要来自佳明论坛（Garmin Forums）以及佳明官方 API 文档。特别感谢 jim_m_58 和 FlowState 两位网友，他们虽然不是佳明员工，但是一直非常积极地解答论坛中的各种问题。我敬佩他们的专家级别技能以及乐于助人的人文情怀，我分享以下内容也是有感于他们的奉献精神，希望能帮助到更多中文互联网的朋友们，享受开发的乐趣。
 
 1. [天气开发](./problems/weather.md)
-2. [开发选择VS code还是Eclipse？](./problems/vscode-or-eclipse.md)
-3. todo：神秘的draw方法
+2. [开发选择 VS code 还是 Eclipse？](./problems/vscode-or-eclipse.md)
+3. [神秘的 draw 方法](./problems/method-draw.md)
 4. todo：算像素的那些奇技淫巧
 5. todo：中华历法博大精深，不能抛弃，离线农历日期计算
 6. [版权问题](./problems/copyrights.md)
+
 ### 问题集锦
 
-1. [ciq_log有啥用？根据pc:0x10001f4定位问题？](./problems/debug-by-pc-line-from-a-ciq-log.md)
+1. [ciq_log 有啥用？根据 pc:0x10001f4 定位问题？](./problems/debug-by-pc-line-from-a-ciq-log.md)
 2. todo：如何制作字体
 3. todo：图片抗锯齿
-4. [vscode插件无法编译,使用makefile管理构建过程](./problems/use-makefile.md)
+4. [vscode 插件无法编译,使用 makefile 管理构建过程](./problems/use-makefile.md)
 5. [长文本咋显示](https://forums.garmin.com/developer/connect-iq/f/discussion/258627/anybody-have-example-of-sliding-text/1235847?focus=true)
-
-
 
 ### 开源程序 From the Garmin Forum
 
