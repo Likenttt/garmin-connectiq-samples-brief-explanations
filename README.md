@@ -1,6 +1,16 @@
-## 关于佳明开发那些事
+## 佳明 Connect IQ 从入门到放弃
 
-佳明开发示例代码、关键技能记录分享。欢迎 star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
+佳明开发示例代码、关键技能记录分享, 顺便聊点劝你入行和劝退的话题。欢迎 star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
+
+P.S. 本人并非乐于助人, 分享就只是分享而已, 你不需要对我感恩戴德, 点个 star 更为实际. 本人脾气不好, 问问题记得看提问的智慧, 否则可能直接不回.
+
+<!-- ### 快来吧, 应用市场虚左以待
+
+[todo:少年, 这里有一本绝世功法传授于你](./problems/ciq-come-on.md) -->
+
+### 劝退帖:快逃, 这个平台不值得
+
+[劝你弃坑的若干理由](./problems/ciq-quit.md)
 
 ### 重要网站
 
@@ -28,7 +38,7 @@
 2. [开发选择 VS code 还是 Eclipse？](./problems/vscode-or-eclipse.md)
 3. [神秘的 draw 方法](./problems/method-draw.md)
 4. todo：算像素的那些奇技淫巧
-5. todo：中华历法博大精深，不能抛弃，离线农历日期计算
+5. [离线农历日期计算(我移植的一段代码)](https://github.com/Likenttt/garmin-monkeyc-code-snippets)
 6. [版权问题](./problems/copyrights.md)
 
 ### 问题集锦
