@@ -12,6 +12,10 @@ P.S. 你不需要对我感恩戴德, 点个 star 更为实际. 本人脾气不�
 
 [劝你弃坑的若干理由](./problems/ciq-quit.md)
 
+### 书籍资料
+
+2016 年, O'Reilly 曾经为 CIQ 出了一本书 [Wearable Programming for the Active Lifestyle](https://developer.garmin.com/downloads/connect-iq/wearable-programming-for-the-active-lifestyle.pdf), 其中涉及的 CIQ 版本为 1.x.x,现在的主流版本已经是 3.x.x 和 4.x.x.
+
 ### 重要网站
 
 #### 佳明开发者
