@@ -26,9 +26,12 @@ P.S. 你不需要对我感恩戴德, 点个 star 更为实际. 本人脾气不�
 
 [Garmin Forums](https://forums.garmin.com/developer/connect-iq/f/discussion/) 佳明论坛讨论区，如果你有关于开发的任何问题，你都可以在这里找到答案或者提出疑问和网友们交流。但是提出问题前，请先学习下这篇经典文章[提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) 。
 
-### 我的一些代码片段
+### 我的 Garmin 开发工具链
 
-[佳明开发代码片段](https://github.com/Likenttt/garmin-monkeyc-code-snippets)
+这些项目和本资料库一起覆盖 Connect IQ 开发中的资料查询、代码复用和真机文件调试流程。
+
+- [佳明开发代码片段](https://github.com/Likenttt/garmin-monkeyc-code-snippets): 常用 Monkey C 代码片段和开发实践补充。
+- [garmin-mtp-cli](https://github.com/Likenttt/garmin-mtp-cli): Garmin 手表 MTP 文件导入导出命令行工具, 用一条命令从手表读取/写入 FIT、PRG、日志等文件，适合调试、排查和自动化开发流程；项目也提供 Codex / Claude Code skill 安装方式，方便把设备文件操作纳入 AI 辅助开发工作流。
 
 ### 官方示例
 
